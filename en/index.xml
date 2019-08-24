@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Kemmochi</title>
+    <link>/en/</link>
+      <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Kemmochi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 22 Aug 2019 17:20:06 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>T. Kemmochi</title>
+      <link>/en/</link>
+    </image>
+    
+    <item>
+      <title>Talks</title>
+      <link>/en/talks/</link>
+      <pubDate>Thu, 22 Aug 2019 17:20:06 +0900</pubDate>
+      <guid>/en/talks/</guid>
+      <description>
+
+&lt;h2 id=&#34;2019&#34;&gt;2019&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Tomoya Kemmochi.
+Structure-preserving numerical scheme for the area-preserving curve shortening flow.
+&lt;a href=&#34;https://iciam2019.org/&#34; target=&#34;_blank&#34;&gt;The 9th International Congress on Industrial and Applied Mathematics (ICIAM 2019)&lt;/a&gt;,
+Valencia, Spain, July 15&amp;mdash;19, 2019. [July 16th]&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt;
+○Tomoya Kemmochi and Takahito Kashiwabara.
+Maximum norm error estimates for linear finite element semi-discretization of parabolic problems on smooth domains.
+&lt;a href=&#34;http://pjsci.dlut.edu.cn/info/1131/2181.htm&#34; target=&#34;_blank&#34;&gt;Conference on Mathematical, Physical and Intelligent Sciences 2019&lt;/a&gt;,
+Dalian University of Technology, Dalian/Panjin, China, June 26&amp;mdash;30, 2019. [June 29th]&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;2018&#34;&gt;2018&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt;
+T. Kemmochi. Energy dissipative numerical schemes for gradient flows of planar curves.
+&lt;a href=&#34;https://www.math.tohoku.ac.jp/research/2018/meeting/RIMS/program_e.pdf&#34; target=&#34;_blank&#34;&gt;RIMS workshop: Analysis on Shapes of Solutions to
+Partial Differential Equations&lt;/a&gt;,
+Research Institute for Mathematical Science (RIMS), Kyoto University, Kyoto, Japan, June 27&amp;mdash;29, 2018. [Talk: June 28]&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt;
+T. Kashiwabara and ○T. Kemmochi.
+Maximum norm error estimates for the finite element approximation of parabolic problems on smooth domains
+&lt;a href=&#34;http://daisy.math.sci.ehime-u.ac.jp/kanseto-WS/&#34; target=&#34;_blank&#34;&gt;Workshop on Numerical Analysis for Partial Differential Equations&lt;/a&gt;,
+Ehime University, Ehime, Japan, June 26, 2018.&lt;/li&gt;
+&lt;li&gt;T. Kemmochi. Asymptotic behavior of numerical solutions for the Allen-Cahn equation with coarse meshes.
+&lt;a href=&#34;http://sr3.t.u-tokyo.ac.jp/EASIAM2018/&#34; target=&#34;_blank&#34;&gt;The 13th SIAM East Asian Section Conference&lt;/a&gt; (EASIAM 2018),
+The University of Tokyo, Tokyo, Japan, June 22&amp;mdash;25, 2018.
+[Talk: June 24]&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt;
+T. Kemmochi. An analytic semigroup approach for DG time-stepping methods.
+&lt;a href=&#34;http://www.sr3.t.u-tokyo.ac.jp/matsuo/?page_id=542&amp;amp;lang=en&#34; target=&#34;_blank&#34;&gt;Workshop on recent progresses in modern numerical analysis&lt;/a&gt;,
+The University of Tokyo (Hongo campus), Tokyo, Japan, March 12, 2018.&lt;/li&gt;
+&lt;li&gt;T. Kemmochi. Numerical analysis for evolution equations.
+&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/seminar/2018/sem18-044.html&#34; target=&#34;_blank&#34;&gt;Thesis defense&lt;/a&gt;.
+Graduate School of Mathematical Sciences, The University of Tokyo, Tokyo, Japan,
+February 2nd, 2018.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;2017&#34;&gt;2017&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt;
+T. Kemmochi. Energy dissipative numerical schemes for gradient flows of planar curves.
+&lt;a href=&#34;http://conference.math.snu.ac.kr/index.php?mid=EASIAM2017&#34; target=&#34;_blank&#34;&gt;SIAM East Asian Section Conference 2017&lt;/a&gt; (EASIAM2017),
+Seoul National University, Seoul, Korea, June 22&amp;mdash;25 2017.
+[Talk: June 23rd]&lt;/li&gt;
+&lt;li&gt;T. Kashiwabara and ○T. Kemmochi.
+$L^\infty$-error estimates for the finite element method of parabolic problems on domains with smooth boundaries.
+&lt;a href=&#34;http://www.polyu.edu.hk/ama/events/conference/ECM2017/&#34; target=&#34;_blank&#34;&gt;The Third International Conference on Engineering and Computational Mathematics&lt;/a&gt; (ECM2017),
+The Hong Kong Polytechnic University, Hong Kong, China, May 31&amp;mdash;June 2, 2017.
+[Talk: June 1st]&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt;
+T. Kemmochi. Error estimate for the finite element semi-discretization of the nonstationary hydrostatic Stokes equation.
+&lt;a href=&#34;http://www.japan-germany.sci.waseda.ac.jp/event/201703/&#34; target=&#34;_blank&#34;&gt;The 14th Japanese-German International Workshop on Mathematical Fluid Dynamics&lt;/a&gt;,
+Waseda University, Tokyo, Japan, March 8&amp;mdash;10, 2017.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;2016&#34;&gt;2016&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt;
+T. Kemmochi. Discretization of maximal regularity and its application to the finite element method.
+&lt;a href=&#34;http://www.mathematik.tu-darmstadt.de/~igk/japanesegermanworkshop2016/&#34; target=&#34;_blank&#34;&gt;The 13th Japanese-German International Workshop on Mathematical Fluid Dynamics&lt;/a&gt;,
+Darmstadtium, Darmstadt, Germany, Nov. 30th &amp;mdash; Dec. 2nd, 2016.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt;
+T. Kemmochi. Discrete maximal regularity and its application to the finite element method.
+&lt;a href=&#34;http://www.mathematik.tu-darmstadt.de/~igk/seminars.php&#34; target=&#34;_blank&#34;&gt;IRTG seminar&lt;/a&gt;,
+TU Darmstadt, Darmstadt, Germany, Oct. 27th, 2016.&lt;/li&gt;
+&lt;li&gt;○N. Saito and T. Kemmochi.
+Discrete maximal regularity and the finite element method for parabolic problems.
+&lt;a href=&#34;https://camp.nims.re.kr/activities/eventpages/?id=207728&amp;amp;action=overview&#34; target=&#34;_blank&#34;&gt;The Sixth China-Japan-Korea Joint Conference on Numerical Mathematics&lt;/a&gt; (CJK2016),
+&lt;a href=&#34;https://www.nims.re.kr/eng/index&#34; target=&#34;_blank&#34;&gt;NIMS&lt;/a&gt;, Daejeon, Korea, August 22-26, 2016.&lt;/li&gt;
+&lt;li&gt;T. Kemmochi, Discrete maximal regularity and the finite element method for parabolic problems, &lt;a href=&#34;http://161.64.198.10/EASIAM2016/&#34; target=&#34;_blank&#34;&gt;EASIAM 2016&lt;/a&gt;, University of Macau, Macau, China, June 20-22, 2016.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;2015&#34;&gt;2015&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;T. Kemmochi, Numerical analysis on shapes of membranes on rippled surfaces with adhesion,
+&lt;a href=&#34;http://www.wpi-aimr.tohoku.ac.jp/mathematics_unit/A3foresight_en/workshop/20151126-29.html&#34; target=&#34;_blank&#34;&gt;The 2nd Joint Workshop of A3 Foresight Program&lt;/a&gt;,
+Xiamen Golden Bay Hotel/Xiameng University, Xiamen, China, November 26-29, 2016.
+[Poster]&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt;
+T. Kemmochi, Numerical analysis on shapes of membranes on rippled surfaces with adhesion, &lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/~labgiga/conf_etc_info/sympo_mdv15/sympo_mdv15_hp.html&#34; target=&#34;_blank&#34;&gt;Mathematical Aspects of Surface and Interface Dynamics 10&lt;/a&gt;, Univ. of Tokyo, Tokyo, Japan, October 28-30, 2015.&lt;/li&gt;
+&lt;li&gt;○T. Kemmochi, N. Saito, Discrete maximal regularity for abstract Cauchy problems and its application to the finite element method, &lt;a href=&#34;http://www.iciam2015.cn/&#34; target=&#34;_blank&#34;&gt;ICIAM2015&lt;/a&gt;, China National Convention Center, 10-14, August 2015.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/en/publications/</link>
+      <pubDate>Thu, 22 Aug 2019 15:48:50 +0900</pubDate>
+      <guid>/en/publications/</guid>
+      <description>&lt;p&gt;Please see also &lt;a href=&#34;https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34;&gt;MathSciNet&lt;/a&gt;, &lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34;&gt;ORCID&lt;/a&gt;, and &lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34;&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Takahito Kashiwabara and Tomoya Kemmochi.
+&lt;strong&gt;Maximum norm error estimates for the finite element approximation of parabolic problems on smooth domains.&lt;/strong&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1805.01336&#34;&gt;arXiv:1805.01336&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Takahito Kashiwabara and Tomoya Kemmochi.
+&lt;strong&gt;$L^\infty$- and $W^{1,\infty}$-error estimates of linear finite element method for Neumann boundary value problems in a smooth domain.&lt;/strong&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1804.00390&#34;&gt;arXiv:1804.00390&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;reviewed-articles&#34;&gt;Reviewed articles&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Yuki Satake, Masaya Oozawa, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang.
+&lt;strong&gt;Relation between the T-congruence Sylvester equation and the generalized Sylvester equation.&lt;/strong&gt; &lt;br&gt;
+Appl. Math. Lett., vol. 96, pp. 7--13, 2019. &lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2019.04.007&#34;&gt;10.1016/j.aml.2019.04.007&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0893965919301533&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3943431&#34;&gt;MR3943431&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tomoya Kemmochi.
+&lt;strong&gt;On the finite element approximation for non-stationary saddle-point problems.&lt;/strong&gt; &lt;br&gt;
+Japan J. Indust. Appl. Math., vol. 35. no. 2, pp. 423–439, 2018. &lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1007/s13160-017-0293-5&#34;&gt;10.1007/s13160-017-0293-5&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;http://rdcu.be/EetG&#34;&gt;Read-only link&lt;/a&gt;]
+[&lt;a href=&#34;https://link.springer.com/article/10.1007/s13160-017-0293-5&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3816236&#34;&gt;MR3816236&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/1709.00723&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tomoya Kemmochi.
+&lt;strong&gt;Numerical analysis of elastica with obstacle and adhesion effects.&lt;/strong&gt; &lt;br&gt;
+Appl. Anal., vol. 98, no. 6, pp. 1085–1103, 2019. &lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1080/00036811.2017.1416100&#34;&gt;10.1080/00036811.2017.1416100&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;http://www.tandfonline.com/doi/full/10.1080/00036811.2017.1416100&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3923026&#34;&gt;MR3923026&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/1604.03400&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tomoya Kemmochi and Norikazu Saito.
+&lt;strong&gt;Discrete maximal regularity and the finite element method for parabolic equations.&lt;/strong&gt; &lt;br&gt;
+Numer. Math., vol. 138, no. 4, pp. 905--937.  &lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-017-0929-z&#34;&gt;10.1007/s00211-017-0929-z&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;http://rdcu.be/yxsp&#34;&gt;Read-only link&lt;/a&gt;]
+[&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-017-0929-z&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3778340&#34;&gt;MR3778340&lt;/a&gt;]
+[&lt;a href=&#34;https://zbmath.org/?q=an:06858661&#34;&gt;Zbl 06858661&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/1602.06864&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tomoya Kemmochi.
+&lt;strong&gt;Energy dissipative numerical schemes for gradient flows of planar curves.&lt;/strong&gt; &lt;br&gt;
+BIT Numer. Math., vol. 57, no. 4, pp. 991--1017, 2017. &lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1007/s10543-017-0685-6&#34;&gt;10.1007/s10543-017-0685-6&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;https://www.youtube.com/playlist?list=PLMF3dSqWEii69loXvCtgDCI4PYijq_4L3&#34;&gt;Movies&lt;/a&gt;]
+[&lt;a href=&#34;http://rdcu.be/wgXm&#34;&gt;Read-only link&lt;/a&gt;]
+[&lt;a href=&#34;https://link.springer.com/article/10.1007/s10543-017-0685-6&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3735998&#34;&gt;MR3735998&lt;/a&gt;]
+[&lt;a href=&#34;https://zbmath.org/?q=an:1380.65036&#34;&gt;Zbl 1380.65036&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/1610.03014&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tomoya Kemmochi.
+&lt;strong&gt;Discrete maximal regularity for abstract Cauchy problems.&lt;/strong&gt; &lt;br&gt;
+Studia Math., vol. 234, no. 3, pp. 241--263, 2016. &lt;br&gt;
+DOI: &lt;a href=&#34;http://doi.org/10.4064/sm8495-7-2016&#34;&gt;10.4064/sm8495-7-2016&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;/pdf/dmr_acp_2016.pdf&#34; target=&#34;_blank&#34;&gt;On-line first version&lt;/a&gt;]
+[&lt;a href=&#34;https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/234/3/91729/&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3549514&#34;&gt;MR3549514&lt;/a&gt;]
+[&lt;a href=&#34;https://www.zbmath.org/?q=an:1359.65082&#34;&gt;Zbl 1359.65082&lt;/a&gt;]
+[&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/preprint/pdf/2015-6.pdf&#34;&gt;Preprint&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;reviewed-articles-in-japanese&#34;&gt;Reviewed articles in Japanese&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;川畑佑典、三浦達彦、渡邉陽太、池祐一、江間陽平、 剱持智哉、松原宰栄、米田剛、千葉優作、柏原崇人.
+&lt;a href=&#34;https://www.ms.u-tokyo.ac.jp/lmsr/pdf/2018-10.pdf&#34;&gt;磁気流体緩和法の初期条件依存性 ∼force-free alphaの空間分布∼&lt;/a&gt;.
+&lt;a href=&#34;https://www.ms.u-tokyo.ac.jp/lmsr/2018/&#34;&gt;数理科学実践研究レター&lt;/a&gt;, 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;渡邉陽太、川畑佑典、三浦達彦、池祐一、江間陽平、 剱持智哉、松原宰栄、米田剛、千葉優作、柏原崇人.
+&lt;a href=&#34;https://www.ms.u-tokyo.ac.jp/lmsr/pdf/2018-20.pdf&#34;&gt;磁気流体緩和法の初期条件依存性 ∼磁力線形状とエネルギー∼&lt;/a&gt;.
+&lt;a href=&#34;https://www.ms.u-tokyo.ac.jp/lmsr/2018/&#34;&gt;数理科学実践研究レター&lt;/a&gt;, 2018.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;nonreviewed-articles&#34;&gt;Non-reviewed articles&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;剱持智哉.
+&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2094-10.pdf&#34;&gt;Allen-Cahn方程式の数値解に対する漸近的な誤差解析&lt;/a&gt;.
+&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2094.html&#34;&gt;RIMS講究録 No. 2094&lt;/a&gt;,
+RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanabe/WorkShop/RIMS2017/&#34;&gt;数値解析学の最前線---理論・方法・応用---&lt;/a&gt;,
+京都大学数理解析研究所, 2017年.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;剱持智哉.
+&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1995-05.pdf&#34;&gt;付着の影響のある基板上の薄膜の形状決定問題に関する数値解析&lt;/a&gt;.&lt;br&gt;
+&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/1995.html&#34;&gt;RIMS講究録 No. 1995&lt;/a&gt;,
+&lt;a href=&#34;https://sites.google.com/site/rims2015na/&#34;&gt;現象解明に向けた数値解析学の新展開&lt;/a&gt;, 京都大学数理解析研究所, 2015年.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Link</title>
+      <link>/en/link/</link>
+      <pubDate>Thu, 22 Aug 2019 15:27:59 +0900</pubDate>
+      <guid>/en/link/</guid>
+      <description>&lt;p&gt;Sorry, Japanese only&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/en/research/</link>
+      <pubDate>Thu, 22 Aug 2019 15:27:52 +0900</pubDate>
+      <guid>/en/research/</guid>
+      <description>
+
+&lt;h2 id=&#34;research-topics&#34;&gt;Research topics&lt;/h2&gt;
+
+&lt;p&gt;My research interest is numerical analysis for partial differential equations,
+in particular, the finite element method (FEM).
+I am interseted in discrete counterparts of certain properties of the original problems
+and thier applications to error analysis for numerical solutions of (nonlinear) PDEs.
+Moreover, I have been studying some problems on elastic curves and fluid dynamics.
+The details of my research topics are listed as follows.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Discrete maximum principle for elliptic problems for FEM&lt;/li&gt;
+&lt;li&gt;Discrete maximal regularity (DMR) for parabolic problems for FEM&lt;/li&gt;
+&lt;li&gt;Discrete counterpart of analytic semigroups for FEM&lt;/li&gt;
+&lt;li&gt;Error analysis for FEM of semilinear parabolic equations via DMR&lt;/li&gt;
+&lt;li&gt;Energy dissipative numerical schemes for gradient flows&lt;/li&gt;
+&lt;li&gt;Numerical analysis for elastica under non-standard constraints&lt;/li&gt;
+&lt;li&gt;Finite element method for the hydrostatoc Stokes equations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;research-activities&#34;&gt;Research activities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/en/publications/&#34; target=&#34;_blank&#34;&gt;List of publications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/en/talks/&#34; target=&#34;_blank&#34;&gt;Talks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;database&#34;&gt;Database&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34; target=&#34;_blank&#34;&gt;ORCID&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34; target=&#34;_blank&#34;&gt;MathSciNet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zbmath.org/authors/?q=ai:kemmochi.tomoya&#34; target=&#34;_blank&#34;&gt;zbMATH&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/en/cv/</link>
+      <pubDate>Thu, 22 Aug 2019 11:22:51 +0900</pubDate>
+      <guid>/en/cv/</guid>
+      <description>
+
+&lt;h2 id=&#34;present&#34;&gt;Present&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Assistant professor at
+&lt;a href=&#34;http://www.ap.pse.nagoya-u.ac.jp/english/&#34; target=&#34;_blank&#34;&gt;Department of Applied Physics&lt;/a&gt;,
+&lt;a href=&#34;http://www.engg.nagoya-u.ac.jp/en/&#34; target=&#34;_blank&#34;&gt;Graduate School of Engineering&lt;/a&gt;,
+&lt;a href=&#34;http://en.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34;&gt;Nagoya University&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;memberships&#34;&gt;Memberships&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mathsoc.jp/en/&#34; target=&#34;_blank&#34;&gt;The Mathematical Society of Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www2.jsiam.org/en/&#34; target=&#34;_blank&#34;&gt;The Japan Society for Industrial and Applied Mathematics&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Steering committee of &lt;a href=&#34;http://wakate.jsiam.org/&#34; target=&#34;_blank&#34;&gt;Wakate-no-kai&lt;/a&gt; (Group of young members) (July 2019&amp;mdash;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;curriculum-vitae&#34;&gt;Curriculum vitae&lt;/h2&gt;
+
+&lt;h3 id=&#34;vitae&#34;&gt;Vitae&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Year&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Career&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;April 2009 &amp;mdash; March 2013&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Mathematics, Faculty of Science, the University of Tokyo&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;April 2013 &amp;mdash; March 2015&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Master&amp;rsquo;s course at Graduate School of Mathematical Sciences, the University of Tokyo [Supervisor: Prof. Norikazu Saito]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;April 2015 &amp;mdash; March 2018&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ph.D. course at &lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/index.html&#34; target=&#34;_blank&#34;&gt;Graduate School of Mathematical Sciences&lt;/a&gt;, &lt;a href=&#34;http://www.u-tokyo.ac.jp/index.html&#34; target=&#34;_blank&#34;&gt;The University of Tokyo&lt;/a&gt;  [Supervisor: Prof. &lt;a href=&#34;http://www.infsup.jp/saito/index-e.html&#34; target=&#34;_blank&#34;&gt;Norikazu Saito&lt;/a&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;March 2018&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ph.D. in Mathematical Sciences [Supervisor: Prof. &lt;a href=&#34;http://www.infsup.jp/saito/index-e.html&#34; target=&#34;_blank&#34;&gt;Norikazu Saito&lt;/a&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;April 2018 &amp;mdash; present&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Assistant professor at &lt;a href=&#34;http://www.engg.nagoya-u.ac.jp/en/&#34; target=&#34;_blank&#34;&gt;Graduate School of Engineering&lt;/a&gt;, &lt;a href=&#34;http://en.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34;&gt;Nagoya University&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;fellowships&#34;&gt;Fellowships&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Year&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Career&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;September 2014 &amp;mdash; March 2018&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Fellowship of &lt;a href=&#34;http://fmsp.ms.u-tokyo.ac.jp/index_e.html&#34; target=&#34;_blank&#34;&gt;Leading Graduate Course for Frontiers of Mathematical Sciences and Physics&lt;/a&gt;, the University of Tokyo  [Vise-supervisor: Prof. &lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/~labgiga/&#34; target=&#34;_blank&#34;&gt;Yoshikazu Giga&lt;/a&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;April 2015 &amp;mdash; March 2018&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.jsps.go.jp/english/index.html&#34; target=&#34;_blank&#34;&gt;JSPS Research Fellowship for Young Scientists, DC1&lt;/a&gt; (No. &lt;a href=&#34;https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15J07471/&#34; target=&#34;_blank&#34;&gt;15J07471&lt;/a&gt;) [Host: Prof. Norikazu Saito]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;grants&#34;&gt;Grants&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Year&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Grant&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;April 2015 &amp;mdash; March 2018&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;JSPS KAKENHI Grant-in-Aid for JSPS Fellows (No. &lt;a href=&#34;https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15J07471/&#34; target=&#34;_blank&#34;&gt;15J07471&lt;/a&gt;) &lt;br&gt; Discrete maximal regularity and its application to FEM and FVM&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;April 2019 &amp;mdash; March 2023&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;JSPS KAKENHI Grant-in-Aid for Early-Career Scientists (No. &lt;a href=&#34;https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14590/&#34; target=&#34;_blank&#34;&gt;19K14590&lt;/a&gt;) &lt;br&gt; Finite element methods for nonlinear partial differential equations on curved domains&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;awards&#34;&gt;Awards&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Year&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Award&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;march 2015&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;The Dean&amp;rsquo;s Prize at Graduate School of Mathematical Sciences, the University of Tokyo&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;March 2017&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://mathsoc.jp/en/publicity/appmath2016-en.html&#34; target=&#34;_blank&#34;&gt;The MSJ Prize for Excellent Young Applied Mathematicians&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;June 2017&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://161.64.198.10/EASIAM/prizes.html&#34; target=&#34;_blank&#34;&gt;Student Paper Prize&lt;/a&gt; (second prize) at &lt;a href=&#34;http://conference.math.snu.ac.kr/index.php?mid=EASIAM2017&#34; target=&#34;_blank&#34;&gt;EASIAM2017&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;March 2018&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;The Dean&amp;rsquo;s Prize at Graduate School of Mathematical Sciences, the University of Tokyo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;database&#34;&gt;Database&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34; target=&#34;_blank&#34;&gt;ORCID&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34; target=&#34;_blank&#34;&gt;MathSciNet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zbmath.org/authors/?q=ai:kemmochi.tomoya&#34; target=&#34;_blank&#34;&gt;zbMATH&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Finite element methods for nonlinear partial differential equations on curved domains</title>
+      <link>/en/project/fem-smooth/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/en/project/fem-smooth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018-04-01</title>
+      <link>/en/news/2018-04-01/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/en/news/2018-04-01/</guid>
+      <description>&lt;p&gt;I have assumed an assistant professor at &lt;a href=&#34;http://www.engg.nagoya-u.ac.jp/en/&#34; target=&#34;_blank&#34;&gt;Graduate School of Engineering&lt;/a&gt;, &lt;a href=&#34;http://en.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34;&gt;Nagoya University&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2018-03-23</title>
+      <link>/en/news/2018-03-23/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/en/news/2018-03-23/</guid>
+      <description>&lt;p&gt;I have won the &lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34;&gt;Dean&amp;rsquo;s Prize&lt;/a&gt; of the Graduate School of Mathematical Sciences, The University of Tokyo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2018-01-06</title>
+      <link>/en/news/2018-01-06/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/en/news/2018-01-06/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;/p&gt;
+
+&lt;p&gt;T. Kemmochi.
+On the finite element approximation for non-stationary saddle-point problems.&lt;br /&gt;
+Japan J. Indust. Appl. Math., vol. 35, no. 2, pp. 423&amp;mdash;439, 2018.&lt;/p&gt;
+
+&lt;p&gt;[&lt;a href=&#34;http://rdcu.be/EetG&#34; target=&#34;_blank&#34;&gt;Read-only link&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/article/10.1007/s13160-017-0293-5&#34; target=&#34;_blank&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017-12-21</title>
+      <link>/en/news/2017-12-21/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/en/news/2017-12-21/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;/p&gt;
+
+&lt;p&gt;T. Kemmochi.
+Numerical analysis of elastica with obstacle and adhesion effects.&lt;br /&gt;
+Appl. Anal., vol. 98, no. 6, 2019.&lt;/p&gt;
+
+&lt;p&gt;[&lt;a href=&#34;http://www.tandfonline.com/doi/full/10.1080/00036811.2017.1416100&#34; target=&#34;_blank&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017-11-15</title>
+      <link>/en/news/2017-11-15/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/en/news/2017-11-15/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;/p&gt;
+
+&lt;p&gt;T. Kemmochi and N. Saito.
+Discrete maximal regularity and the finite element method for parabolic equations.&lt;br /&gt;
+Numer. Math., vol. 138, no. 4, pp. 905&amp;mdash;937, 2018.&lt;/p&gt;
+
+&lt;p&gt;[&lt;a href=&#34;http://rdcu.be/yxsp&#34; target=&#34;_blank&#34;&gt;Read-only link&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-017-0929-z&#34; target=&#34;_blank&#34;&gt;Journal&lt;/a&gt;] [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3778340&#34; target=&#34;_blank&#34;&gt;MR3778340&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017-09-27</title>
+      <link>/en/news/2017-09-27/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/en/news/2017-09-27/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;/p&gt;
+
+&lt;p&gt;T. Kemmochi. Energy dissipative numerical schemes for gradient flows of planar curves.&lt;br /&gt;
+BIT Numer. Math., vol. 57, no. 4, pp. 991&amp;mdash;1017, 2017.&lt;/p&gt;
+
+&lt;p&gt;[&lt;a href=&#34;https://www.youtube.com/playlist?list=PLMF3dSqWEii69loXvCtgDCI4PYijq_4L3&#34; target=&#34;_blank&#34;&gt;Movies&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/epdf/10.1007/s10543-017-0685-6?author_access_token=BcnkNUjSRwbsWEWCmvz7xPe4RwlQNchNByi7wbcMAY4_46Qp10PqUOmZIG6Mnwmgw--aejRu1hBBjlLCrLwe2HGr8_Z88NkIjurTYeSDH5-iP-IyCZl9YrNKDd3eaPn0J1RYYE_sAtLRXuSztxJXoA%3D%3D&#34; target=&#34;_blank&#34;&gt;Read-only link&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/article/10.1007/s10543-017-0685-6&#34; target=&#34;_blank&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017-06-23</title>
+      <link>/en/news/2017-06-23/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/en/news/2017-06-23/</guid>
+      <description>&lt;p&gt;I have won the &lt;a href=&#34;http://161.64.198.10/EASIAM/prizes.html&#34; target=&#34;_blank&#34;&gt;Student Paper Prize&lt;/a&gt; (second prize) at &lt;a href=&#34;http://conference.math.snu.ac.kr/index.php?mid=EASIAM2017&#34; target=&#34;_blank&#34;&gt;EASIAM2017&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017-03-23</title>
+      <link>/en/news/2017-03-23/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/en/news/2017-03-23/</guid>
+      <description>&lt;p&gt;I have won &lt;a href=&#34;http://www.mathsoc.jp/en/publicity/appmath2016-en.html&#34; target=&#34;_blank&#34;&gt;The 2016 MSJ Prize for Exellent Applied Mathematicians&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-10-13</title>
+      <link>/en/news/2016-10-13/</link>
+      <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/en/news/2016-10-13/</guid>
+      <description>&lt;p&gt;I was staying at &lt;a href=&#34;https://www.tu-darmstadt.de/index.en.jsp&#34; target=&#34;_blank&#34;&gt;TU Darmstadt&lt;/a&gt;.&lt;br /&gt;
+Period: 2016-10-13 &amp;mdash; 12-10&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-09-09</title>
+      <link>/en/news/2016-09-09/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/en/news/2016-09-09/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;/p&gt;
+
+&lt;p&gt;T. Kemmochi.
+Discrete maximal regularity for abstract Cauchy problems.&lt;br /&gt;
+Studia Math., vol. 234, no. 3, pp. 241&amp;mdash;263, 2016.&lt;/p&gt;
+
+&lt;p&gt;[&lt;a href=&#34;/pdf/dmr_acp_2016.pdf&#34; target=&#34;_blank&#34;&gt;On-line first version&lt;/a&gt;] [&lt;a href=&#34;https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/234/3/91729/&#34; target=&#34;_blank&#34;&gt;Journal&lt;/a&gt;] [&lt;a href=&#34;http://www.ams.org/mathscinet-getitem?mr=3549514&#34; target=&#34;_blank&#34;&gt;MR3549514&lt;/a&gt;] [&lt;a href=&#34;https://www.zbmath.org/?q=an:06658333&#34; target=&#34;_blank&#34;&gt;Zbl 06658333&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2015-04-01</title>
+      <link>/en/news/2015-04-01/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/en/news/2015-04-01/</guid>
+      <description>&lt;p&gt;I have got the fellowship from JSPS (DC1).&lt;br /&gt;
+Subject: Discrete maximal regularity and its application to the finite element and the finite volume methods&lt;br /&gt;
+Grant nuber: &lt;a href=&#34;https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15J07471/&#34; target=&#34;_blank&#34;&gt;15J07471&lt;/a&gt;&lt;br /&gt;
+Project period: 2015-04-24 &amp;mdash; 2018-03-31&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2015-03-24</title>
+      <link>/en/news/2015-03-24/</link>
+      <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/en/news/2015-03-24/</guid>
+      <description>&lt;p&gt;I have won the Dean&amp;rsquo;s Prize at Graduate School of Mathematical Sciences, the University of Tokyo.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

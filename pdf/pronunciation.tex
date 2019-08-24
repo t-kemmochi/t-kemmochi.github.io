@@ -1,0 +1,83 @@
+\documentclass[12pt,a4j]{jsarticle}
+
+%%%%%%%% フォント
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+
+%%%%%%%% パッケージ
+\usepackage{amsmath,amssymb}
+\usepackage[T1]{tipa}
+\usepackage[dvipsnames,svgnames]{xcolor}
+\usepackage{longtable}
+
+%%%%%%%% 節の見出しの設定
+\usepackage{titlesec}
+\titlelabel{\thetitle.\quad}
+\titleformat*{\section}{\Large\sffamily\bfseries}
+\titlespacing{\section}{0pt}{*2}{*0}
+\titleformat*{\subsection}{\large\sffamily\bfseries}
+\titlespacing{\subsection}{0pt}{*2}{*0}
+\titleformat*{\subsubsection}{\sffamily\bfseries}
+
+%%%%%%%% コマンド
+\newcommand{\rem}{\textbf{要注意}}
+\newcommand{\acc}{アクセント注意}
+\newcommand{\kana}{\textbf{カタカナ注意}}
+\newcommand{\Kana}{\textbf{\color{red}カタカナ要注意}}
+
+%%%%%%%% タイトルとか
+\title{発音に注意すべき英単語}
+\author{T. Kemmochi}
+
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+英語での講演の準備中に自分が気をつけるべきだと思った単語, 他人の講演を聞いていて「あっ」って思った単語などのまとめ.
+随時更新.
+
+参考にしたもの:
+\begin{itemize}
+\item Weblio英和辞典・和英辞典 \verb|http://ejje.weblio.jp/|
+\item 英辞郎 \verb|http://eowf.alc.co.jp/|
+\item Oxford English Dictionary (学内から) \verb|http://www.oed.com/|
+\end{itemize}
+\end{abstract}
+
+\tableofcontents
+
+\section{単語のリスト}
+\input{table.tex}
+
+\section{要注意ポイント}
+
+\subsection{カタカナ発音が定着している単語}
+「レゾルベント」「ゼロ」はともかく, 「スカラー」「マトリックス」「グラディエント」「カオス」辺りはなんでその読み方が定着しちゃったんだって思うレベルで発音が違うので要注意.
+正直これらの日本語は使うのをやめるべきなのでは...? とさえ思う.
+「カオス」は形容詞になるとアクセントも変わるから厄介.
+
+\subsection{ギリシャ文字}
+これは1つの文字でもいくつか発音がある場合があって判断に困る.
+でも, $\iota$は「イオタ」とは読まないようだ.
+ただし, 実際のギリシャ語の発音は知らない.
+
+\subsection{母音の発音}
+英語ではaは「エイ」, iは「アイ」, eは「イ」と発音することがあるので, 迂闊なローマ字読みは注意が必要.
+カタカナ発音やその他の要注意単語は大抵これ.
+
+
+\section{なぜ発音に気をつける必要がある?}
+正しい発音ができなくても相手が察してくれるからあまり気にしなくても良い(そこまでストイックになる必要はない)という意見があるかもしれない.
+自分も別に日本語的な発音(カタカナ的な発音)であること自体は問題ないと思うが,
+日本人が聞いても違うとわかるような発音(例えば「マトリックス」)は避けるべきだと思う.
+そう考える理由は2つあって,
+\begin{itemize}
+\item 自分の意図していることが正しく伝わらないおそれがある
+\item 人の発音を聞き取れない可能性がある
+\end{itemize}
+から.
+特に後者は重要だと思っていて, 「自分が発音できない単語は聞き取れない」と思うから(これは高校時代の英語教師の言葉)である.
+
+\end{document}

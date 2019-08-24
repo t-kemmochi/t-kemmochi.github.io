@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>剱持智哉 | T. Kemmochi</title>
+    <link>/ja/authors/%E5%89%B1%E6%8C%81%E6%99%BA%E5%93%89/</link>
+      <atom:link href="/ja/authors/%E5%89%B1%E6%8C%81%E6%99%BA%E5%93%89/index.xml" rel="self" type="application/rss+xml" />
+    <description>剱持智哉</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2019 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>剱持智哉</title>
+      <link>/ja/authors/%E5%89%B1%E6%8C%81%E6%99%BA%E5%93%89/</link>
+    </image>
+    
+    <item>
+      <title>滑らかな領域における非線形偏微分方程式に対する有限要素法</title>
+      <link>/ja/project/fem-smooth/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/ja/project/fem-smooth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

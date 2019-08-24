@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Kemmochi</title>
+    <link>/en/authors/admin/</link>
+      <atom:link href="/en/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Kemmochi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tomoya Kemmochi</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>T. Kemmochi</title>
+      <link>/en/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/en/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/authors/admin/</guid>
+      <description>&lt;p&gt;剱持 智哉 (けんもち ともや)&lt;/p&gt;
+
+&lt;p&gt;Assistant Professor [&lt;a href=&#34;http://na.nuap.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ap.pse.nagoya-u.ac.jp/english/&#34; target=&#34;_blank&#34;&gt;Department of Applied Physics&lt;/a&gt;, &lt;br&gt;
+&lt;a href=&#34;http://www.engg.nagoya-u.ac.jp/en/&#34; target=&#34;_blank&#34;&gt;Graduate School of Engineering&lt;/a&gt;,  &lt;br&gt;
+&lt;a href=&#34;http://en.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34;&gt;Nagoya University&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

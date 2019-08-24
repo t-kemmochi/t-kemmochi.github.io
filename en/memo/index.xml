@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memorandum | T. Kemmochi</title>
+    <link>/en/memo/</link>
+      <atom:link href="/en/memo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Memorandum</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tomoya Kemmochi</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Memorandum</title>
+      <link>/en/memo/</link>
+    </image>
+    
+  </channel>
+</rss>

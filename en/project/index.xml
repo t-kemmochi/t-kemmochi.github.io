@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | T. Kemmochi</title>
+    <link>/en/project/</link>
+      <atom:link href="/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/en/project/</link>
+    </image>
+    
+    <item>
+      <title>Finite element methods for nonlinear partial differential equations on curved domains</title>
+      <link>/en/project/fem-smooth/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/en/project/fem-smooth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

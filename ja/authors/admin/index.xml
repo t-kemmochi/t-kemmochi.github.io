@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Kemmochi</title>
+    <link>/ja/authors/admin/</link>
+      <atom:link href="/ja/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Kemmochi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2019 Tomoya Kemmochi</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>T. Kemmochi</title>
+      <link>/ja/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/ja/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/ja/authors/admin/</guid>
+      <description>&lt;p&gt;剱持 智哉 (けんもち ともや)&lt;/p&gt;
+
+&lt;p&gt;助教&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34;&gt;名古屋大学&lt;/a&gt; &lt;a href=&#34;http://www.engg.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34;&gt;大学院工学研究科&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;http://www.ap.pse.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34;&gt;応用物理学専攻&lt;/a&gt; 量子物理工学講座 &lt;br&gt;
+&lt;a href=&#34;http://na.nuap.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34;&gt;数理工学研究グループ 張研究室&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
