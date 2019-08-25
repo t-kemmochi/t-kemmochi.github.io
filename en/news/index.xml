@@ -5,12 +5,27 @@
     <link>/en/news/</link>
       <atom:link href="/en/news/index.xml" rel="self" type="application/rss+xml" />
     <description>Past news</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tomoya Kemmochi</copyright><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 02 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Past news</title>
       <link>/en/news/</link>
     </image>
+    
+    <item>
+      <title>2019-05-02</title>
+      <link>/en/news/2019-05-02/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      <guid>/en/news/2019-05-02/</guid>
+      <description>&lt;p&gt;The following paper has been published: &lt;br&gt;
+Yuki Satake, Masaya Oozawa, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;br&gt;
+Relation between the T-congruence Sylvester equation and the generalized Sylvester equation. &lt;br&gt;
+Appl. Math. Lett., vol. 96, pp. 7&amp;mdash;13, 2019. &lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2019.04.007&#34; target=&#34;_blank&#34;&gt;10.1016/j.aml.2019.04.007&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0893965919301533&#34; target=&#34;_blank&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3943431&#34; target=&#34;_blank&#34;&gt;MR3943431&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2018-04-01</title>

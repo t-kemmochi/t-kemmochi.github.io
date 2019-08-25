@@ -4,7 +4,7 @@
   
   <url>
     <loc>/en/</loc>
-    <lastmod>2019-08-22T17:20:06+09:00</lastmod>
+    <lastmod>2019-08-25T14:25:52+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -94,6 +94,36 @@
   </url>
   
   <url>
+    <loc>/en/news/2019-05-02/</loc>
+    <lastmod>2019-08-25T14:25:52+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/news/2019-05-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/news/2019-05-02/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/news/</loc>
+    <lastmod>2019-08-25T14:25:52+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/news/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/authors/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -158,21 +188,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/news/2018-04-01/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/news/</loc>
-    <lastmod>2019-08-22T13:20:24+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/ja/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/news/"
                 />
   </url>
   
