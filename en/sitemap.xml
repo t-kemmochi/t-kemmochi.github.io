@@ -5,7 +5,6 @@
   <url>
     <loc>/en/</loc>
     <lastmod>2019-08-25T14:25:52+09:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -126,7 +125,6 @@
   <url>
     <loc>/en/authors/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -157,7 +155,6 @@
   <url>
     <loc>/en/project/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -173,7 +170,6 @@
   <url>
     <loc>/en/authors/tomoya-kemmochi/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -372,7 +368,6 @@
   
   <url>
     <loc>/en/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -401,7 +396,6 @@
   
   <url>
     <loc>/en/publication_types/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -416,7 +410,6 @@
   
   <url>
     <loc>/en/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"

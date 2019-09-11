@@ -5,7 +5,6 @@
   <url>
     <loc>/ja/</loc>
     <lastmod>2019-08-25T14:25:52+09:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -131,7 +130,6 @@
   <url>
     <loc>/ja/authors/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -147,7 +145,6 @@
   <url>
     <loc>/ja/project/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -163,7 +160,6 @@
   <url>
     <loc>/ja/authors/%E5%89%B1%E6%8C%81%E6%99%BA%E5%93%89/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -417,7 +413,6 @@
   
   <url>
     <loc>/ja/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -432,7 +427,6 @@
   
   <url>
     <loc>/ja/publication_types/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -447,7 +441,6 @@
   
   <url>
     <loc>/ja/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
