@@ -5,7 +5,7 @@
     <link>/ja/misc/</link>
       <atom:link href="/ja/misc/index.xml" rel="self" type="application/rss+xml" />
     <description>Misc</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2019 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 22 Aug 2019 15:27:52 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 22 Aug 2019 15:27:52 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Misc</title>
@@ -17,43 +17,37 @@
       <link>/ja/misc/2017feb_toyama/</link>
       <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
       <guid>/ja/misc/2017feb_toyama/</guid>
-      <description>
-
-&lt;dl&gt;
+      <description>&lt;dl&gt;
     &lt;dt&gt;剱持智哉 (齊藤研 D2)&lt;/dt&gt;
     &lt;dt&gt;2017年2月13日&lt;/dt&gt;
     &lt;dt&gt;研究集会「非線形現象と高精度高品質数値解析」(齊藤研ゼミ合宿)&lt;/dt&gt;
     &lt;dt&gt;富山大学人間発達科学部332教室&lt;/dt&gt;
 &lt;/dl&gt;
-
 &lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-
-&lt;p&gt;プログラミング言語&lt;a href=&#34;http://julialang.org/&#34; target=&#34;_blank&#34;&gt;Julia&lt;/a&gt;による数値計算手法を紹介する.
+&lt;p&gt;プログラミング言語&lt;a href=&#34;http://julialang.org/&#34;&gt;Julia&lt;/a&gt;による数値計算手法を紹介する.
 特に, 発展方程式の数値計算手法と, そのアニメーションによる可視化について紹介する.&lt;/p&gt;
-
 &lt;h2 id=&#34;目標&#34;&gt;目標&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;Juliaの使い方に慣れる.&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;1次元の熱方程式の数値計算と, その結果をアニメーションで表示するプログラムを書けるようになる.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;[時間があれば] B-spline曲線の可視化を通じて, B-spline曲線について学ぶ. また, B-spline曲線を用いたelastic flowの数値計算をする.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Juliaの使い方に慣れる.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1次元の熱方程式の数値計算と, その結果をアニメーションで表示するプログラムを書けるようになる.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[時間があれば] B-spline曲線の可視化を通じて, B-spline曲線について学ぶ. また, B-spline曲線を用いたelastic flowの数値計算をする.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;資料集&#34;&gt;資料集&lt;/h2&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/4a918177ee66b0b410fa&#34; target=&#34;_blank&#34;&gt;インストール編&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/9e46c5b36f92d1e6f5a8&#34; target=&#34;_blank&#34;&gt;基礎編&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/6b81e772fbe4150dc978&#34; target=&#34;_blank&#34;&gt;文法編&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/dab696bf9af32135d84b&#34; target=&#34;_blank&#34;&gt;外部ファイル編&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/a257adc8a590e11c1301&#34; target=&#34;_blank&#34;&gt;可視化編&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/34455556255c1b7e9937&#34; target=&#34;_blank&#34;&gt;アニメーション編&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/4a918177ee66b0b410fa&#34;&gt;インストール編&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/9e46c5b36f92d1e6f5a8&#34;&gt;基礎編&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/6b81e772fbe4150dc978&#34;&gt;文法編&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/dab696bf9af32135d84b&#34;&gt;外部ファイル編&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/a257adc8a590e11c1301&#34;&gt;可視化編&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/34455556255c1b7e9937&#34;&gt;アニメーション編&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;h2 id=&#34;サンプルプログラム集&#34;&gt;サンプルプログラム集&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/files/test1.jl&#34; target=&#34;_blank&#34;&gt;test1.jl&lt;/a&gt; [外部ファイル編で使用]&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/files/test2.jl&#34; target=&#34;_blank&#34;&gt;test2.jl&lt;/a&gt;  [外部ファイル編で使用]&lt;/li&gt;
@@ -61,15 +55,12 @@
 &lt;li&gt;&lt;a href=&#34;/files/elastic.jl&#34; target=&#34;_blank&#34;&gt;elastic.jl&lt;/a&gt;  [アニメーション編で使用]&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/files/newton.jl&#34; target=&#34;_blank&#34;&gt;newton.jl&lt;/a&gt;  [アニメーション編で使用]&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;連絡先等&#34;&gt;連絡先等&lt;/h2&gt;
-
 &lt;dl&gt;
   &lt;dt&gt;E-mail: kemmochi [at] ms.u-tokyo.ac.jp&lt;/dt&gt;
   &lt;dt&gt;URL: https://t-kemmochi.github.io/&lt;/dt&gt;
   &lt;dt&gt;このページ: /ja/misc/2017feb_toyama/&lt;/dt&gt;
-&lt;/dl&gt;
-</description>
+&lt;/dl&gt;</description>
     </item>
     
   </channel>

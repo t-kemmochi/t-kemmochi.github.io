@@ -5,12 +5,54 @@
     <link>/ja/news/</link>
       <atom:link href="/ja/news/index.xml" rel="self" type="application/rss+xml" />
     <description>過去のお知らせ</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2019 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 02 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Tomoya Kemmochi</copyright><lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>過去のお知らせ</title>
       <link>/ja/news/</link>
     </image>
+    
+    <item>
+      <title>2020-01-04</title>
+      <link>/ja/news/2020-01-04/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/news/2020-01-04/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+Takahito Kashiwabara and Tomoya Kemmochi.
+&lt;strong&gt;Pointwise error estimates of linear finite element method for Neumann boundary value problems in a smooth domain.&lt;/strong&gt;&lt;br&gt;
+Numer. Math.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-019-01098-8&#34;&gt;10.1007/s00211-019-01098-8&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-019-01098-8&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2019-12-23</title>
+      <link>/ja/news/2019-12-23/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/ja/news/2019-12-23/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+K. Nakano, T. Kemmochi, Y. Miyatake, T. Sogabe, and S.-L. Zhang.
+&lt;strong&gt;Modified Strang splitting for semilinear parabolic problems.&lt;/strong&gt;&lt;br&gt;
+JSIAM Letters, vol. 11, pp. 77&amp;ndash;80, 2019.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.14495/jsiaml.11.77&#34;&gt;10.14495/jsiaml.11.77&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.jstage.jst.go.jp/article/jsiaml/11/0/11_77/_article&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2019-11-01</title>
+      <link>/ja/news/2019-11-01/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/ja/news/2019-11-01/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+T. Kemmochi.
+&lt;strong&gt;Numerical Analysis of the Allen-Cahn Equation with Coarse Meshes.&lt;/strong&gt;
+J. Math. Res. Appl., vol. 39, no. 6, pp. 709&amp;ndash;717, 2019.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34;&gt;10.3770/j.issn:2095-2651.2019.06.014&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;http://jmre.dlut.edu.cn/en/ch/reader/view_abstract.aspx?file_no=20190614&amp;amp;flag=1&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2019-05-02</title>
@@ -20,10 +62,10 @@
       <description>&lt;p&gt;論文が掲載されました: &lt;br&gt;
 Yuki Satake, Masaya Oozawa, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;br&gt;
 Relation between the T-congruence Sylvester equation and the generalized Sylvester equation. &lt;br&gt;
-Appl. Math. Lett., vol. 96, pp. 7&amp;mdash;13, 2019. &lt;br&gt;
-DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2019.04.007&#34; target=&#34;_blank&#34;&gt;10.1016/j.aml.2019.04.007&lt;/a&gt; &lt;br&gt;
-[&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0893965919301533&#34; target=&#34;_blank&#34;&gt;Journal&lt;/a&gt;]
-[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3943431&#34; target=&#34;_blank&#34;&gt;MR3943431&lt;/a&gt;]&lt;/p&gt;
+Appl. Math. Lett., vol. 96, pp. 7&amp;ndash;13, 2019. &lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2019.04.007&#34;&gt;10.1016/j.aml.2019.04.007&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0893965919301533&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3943431&#34;&gt;MR3943431&lt;/a&gt;]&lt;/p&gt;
 </description>
     </item>
     
@@ -42,7 +84,7 @@ DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2019.04.007&#34; target=&#34;
       <link>/ja/news/2018-03-23/</link>
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
       <guid>/ja/news/2018-03-23/</guid>
-      <description>&lt;p&gt;おかげさまで, &lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34;&gt;数理科学研究科長賞&lt;/a&gt;を受賞しました.&lt;/p&gt;
+      <description>&lt;p&gt;おかげさまで, &lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34;&gt;数理科学研究科長賞&lt;/a&gt;を受賞しました.&lt;/p&gt;
 </description>
     </item>
     
@@ -52,12 +94,10 @@ DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2019.04.007&#34; target=&#34;
       <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/ja/news/2018-01-06/</guid>
       <description>&lt;p&gt;論文が出版されました:&lt;/p&gt;
-
 &lt;p&gt;T. Kemmochi.
-On the finite element approximation for non-stationary saddle-point problems.&lt;br /&gt;
-Japan J. Indust. Appl. Math., vol. 35, no. 2, pp. 423&amp;mdash;439, 2018.&lt;/p&gt;
-
-&lt;p&gt;[&lt;a href=&#34;http://rdcu.be/EetG&#34; target=&#34;_blank&#34;&gt;Read-only link&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/article/10.1007/s13160-017-0293-5&#34; target=&#34;_blank&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+On the finite element approximation for non-stationary saddle-point problems.&lt;br&gt;
+Japan J. Indust. Appl. Math., vol. 35, no. 2, pp. 423&amp;ndash;439, 2018.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;http://rdcu.be/EetG&#34;&gt;Read-only link&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/article/10.1007/s13160-017-0293-5&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
 </description>
     </item>
     
@@ -67,12 +107,10 @@ Japan J. Indust. Appl. Math., vol. 35, no. 2, pp. 423&amp;mdash;439, 2018.&lt;/p
       <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
       <guid>/ja/news/2017-12-21/</guid>
       <description>&lt;p&gt;論文が出版されました:&lt;/p&gt;
-
 &lt;p&gt;T. Kemmochi.
-Numerical analysis of elastica with obstacle and adhesion effects.&lt;br /&gt;
+Numerical analysis of elastica with obstacle and adhesion effects.&lt;br&gt;
 Appl. Anal., vol. 98, no. 6, 2019.&lt;/p&gt;
-
-&lt;p&gt;[&lt;a href=&#34;http://www.tandfonline.com/doi/full/10.1080/00036811.2017.1416100&#34; target=&#34;_blank&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;http://www.tandfonline.com/doi/full/10.1080/00036811.2017.1416100&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
 </description>
     </item>
     
@@ -82,12 +120,10 @@ Appl. Anal., vol. 98, no. 6, 2019.&lt;/p&gt;
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       <guid>/ja/news/2017-11-15/</guid>
       <description>&lt;p&gt;論文が出版されました:&lt;/p&gt;
-
 &lt;p&gt;T. Kemmochi and N. Saito.
-Discrete maximal regularity and the finite element method for parabolic equations.&lt;br /&gt;
-Numer. Math., vol. 138, no. 4, pp. 905&amp;mdash;937, 2018.&lt;/p&gt;
-
-&lt;p&gt;[&lt;a href=&#34;http://rdcu.be/yxsp&#34; target=&#34;_blank&#34;&gt;Read-only link&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-017-0929-z&#34; target=&#34;_blank&#34;&gt;Journal&lt;/a&gt;] [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3778340&#34; target=&#34;_blank&#34;&gt;MR3778340&lt;/a&gt;]&lt;/p&gt;
+Discrete maximal regularity and the finite element method for parabolic equations.&lt;br&gt;
+Numer. Math., vol. 138, no. 4, pp. 905&amp;ndash;937, 2018.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;http://rdcu.be/yxsp&#34;&gt;Read-only link&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-017-0929-z&#34;&gt;Journal&lt;/a&gt;] [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3778340&#34;&gt;MR3778340&lt;/a&gt;]&lt;/p&gt;
 </description>
     </item>
     
@@ -97,11 +133,9 @@ Numer. Math., vol. 138, no. 4, pp. 905&amp;mdash;937, 2018.&lt;/p&gt;
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
       <guid>/ja/news/2017-09-27/</guid>
       <description>&lt;p&gt;論文が出版されました:&lt;/p&gt;
-
-&lt;p&gt;T. Kemmochi. Energy dissipative numerical schemes for gradient flows of planar curves.&lt;br /&gt;
-BIT Numer. Math., vol. 57, no. 4, pp. 991&amp;mdash;1017, 2017.&lt;/p&gt;
-
-&lt;p&gt;[&lt;a href=&#34;https://www.youtube.com/playlist?list=PLMF3dSqWEii69loXvCtgDCI4PYijq_4L3&#34; target=&#34;_blank&#34;&gt;Movies&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/epdf/10.1007/s10543-017-0685-6?author_access_token=BcnkNUjSRwbsWEWCmvz7xPe4RwlQNchNByi7wbcMAY4_46Qp10PqUOmZIG6Mnwmgw--aejRu1hBBjlLCrLwe2HGr8_Z88NkIjurTYeSDH5-iP-IyCZl9YrNKDd3eaPn0J1RYYE_sAtLRXuSztxJXoA%3D%3D&#34; target=&#34;_blank&#34;&gt;Read-only link&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/article/10.1007/s10543-017-0685-6&#34; target=&#34;_blank&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;T. Kemmochi. Energy dissipative numerical schemes for gradient flows of planar curves.&lt;br&gt;
+BIT Numer. Math., vol. 57, no. 4, pp. 991&amp;ndash;1017, 2017.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;https://www.youtube.com/playlist?list=PLMF3dSqWEii69loXvCtgDCI4PYijq_4L3&#34;&gt;Movies&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/epdf/10.1007/s10543-017-0685-6?author_access_token=BcnkNUjSRwbsWEWCmvz7xPe4RwlQNchNByi7wbcMAY4_46Qp10PqUOmZIG6Mnwmgw--aejRu1hBBjlLCrLwe2HGr8_Z88NkIjurTYeSDH5-iP-IyCZl9YrNKDd3eaPn0J1RYYE_sAtLRXuSztxJXoA%3D%3D&#34;&gt;Read-only link&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/article/10.1007/s10543-017-0685-6&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
 </description>
     </item>
     
@@ -110,7 +144,7 @@ BIT Numer. Math., vol. 57, no. 4, pp. 991&amp;mdash;1017, 2017.&lt;/p&gt;
       <link>/ja/news/2017-06-23/</link>
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
       <guid>/ja/news/2017-06-23/</guid>
-      <description>&lt;p&gt;おかげさまで, &lt;a href=&#34;http://conference.math.snu.ac.kr/index.php?mid=EASIAM2017&#34; target=&#34;_blank&#34;&gt;EASIAM2017&lt;/a&gt; にて, &lt;a href=&#34;http://161.64.198.10/EASIAM/prizes.html&#34; target=&#34;_blank&#34;&gt;Student Paper Prize&lt;/a&gt; (second prize) を受賞しました.&lt;/p&gt;
+      <description>&lt;p&gt;おかげさまで, &lt;a href=&#34;http://conference.math.snu.ac.kr/index.php?mid=EASIAM2017&#34;&gt;EASIAM2017&lt;/a&gt; にて, &lt;a href=&#34;http://161.64.198.10/EASIAM/prizes.html&#34;&gt;Student Paper Prize&lt;/a&gt; (second prize) を受賞しました.&lt;/p&gt;
 </description>
     </item>
     
@@ -119,7 +153,7 @@ BIT Numer. Math., vol. 57, no. 4, pp. 991&amp;mdash;1017, 2017.&lt;/p&gt;
       <link>/ja/news/2017-03-23/</link>
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
       <guid>/ja/news/2017-03-23/</guid>
-      <description>&lt;p&gt;おかげさまで, 2016年度 &lt;a href=&#34;http://www.mathsoc.jp/publicity/appmath2016.html&#34; target=&#34;_blank&#34;&gt;日本数学会応用数学研究奨励賞&lt;/a&gt; を受賞しました.&lt;/p&gt;
+      <description>&lt;p&gt;おかげさまで, 2016年度 &lt;a href=&#34;http://www.mathsoc.jp/publicity/appmath2016.html&#34;&gt;日本数学会応用数学研究奨励賞&lt;/a&gt; を受賞しました.&lt;/p&gt;
 </description>
     </item>
     
@@ -128,8 +162,8 @@ BIT Numer. Math., vol. 57, no. 4, pp. 991&amp;mdash;1017, 2017.&lt;/p&gt;
       <link>/ja/news/2016-10-13/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
       <guid>/ja/news/2016-10-13/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.tu-darmstadt.de/index.en.jsp&#34; target=&#34;_blank&#34;&gt;Darmstadt工科大学&lt;/a&gt;に中期滞在します.&lt;br /&gt;
-滞在期間: 2016年10月13日 &amp;mdash; 12月10日&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.tu-darmstadt.de/index.en.jsp&#34;&gt;Darmstadt工科大学&lt;/a&gt;に中期滞在します.&lt;br&gt;
+滞在期間: 2016年10月13日 &amp;ndash; 12月10日&lt;/p&gt;
 </description>
     </item>
     
@@ -139,11 +173,9 @@ BIT Numer. Math., vol. 57, no. 4, pp. 991&amp;mdash;1017, 2017.&lt;/p&gt;
       <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
       <guid>/ja/news/2016-09-09/</guid>
       <description>&lt;p&gt;論文が出版されました:&lt;/p&gt;
-
-&lt;p&gt;T. Kemmochi. Discrete maximal regularity for abstract Cauchy problems.&lt;br /&gt;
-Studia Math., vol. 234, no. 3, pp. 241&amp;mdash;263, 2016.&lt;/p&gt;
-
-&lt;p&gt;[&lt;a href=&#34;/pdf/dmr_acp_2016.pdf&#34; target=&#34;_blank&#34;&gt;On-line first version&lt;/a&gt;] [&lt;a href=&#34;https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/234/3/91729/&#34; target=&#34;_blank&#34;&gt;Journal&lt;/a&gt;] [&lt;a href=&#34;http://www.ams.org/mathscinet-getitem?mr=3549514&#34; target=&#34;_blank&#34;&gt;MR3549514&lt;/a&gt;] [&lt;a href=&#34;https://www.zbmath.org/?q=an:06658333&#34; target=&#34;_blank&#34;&gt;Zbl 06658333&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;T. Kemmochi. Discrete maximal regularity for abstract Cauchy problems.&lt;br&gt;
+Studia Math., vol. 234, no. 3, pp. 241&amp;ndash;263, 2016.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;/pdf/dmr_acp_2016.pdf&#34; target=&#34;_blank&#34;&gt;On-line first version&lt;/a&gt;] [&lt;a href=&#34;https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/234/3/91729/&#34;&gt;Journal&lt;/a&gt;] [&lt;a href=&#34;http://www.ams.org/mathscinet-getitem?mr=3549514&#34;&gt;MR3549514&lt;/a&gt;] [&lt;a href=&#34;https://www.zbmath.org/?q=an:06658333&#34;&gt;Zbl 06658333&lt;/a&gt;]&lt;/p&gt;
 </description>
     </item>
     
@@ -152,10 +184,10 @@ Studia Math., vol. 234, no. 3, pp. 241&amp;mdash;263, 2016.&lt;/p&gt;
       <link>/ja/news/2015-04-01/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       <guid>/ja/news/2015-04-01/</guid>
-      <description>&lt;p&gt;日本学術振興会特別研究員DC1に採択されました.&lt;br /&gt;
-研究課題: 離散最大正則性とその有限要素法・有限体積法への応用&lt;br /&gt;
-課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15J07471/&#34; target=&#34;_blank&#34;&gt;15J07471&lt;/a&gt;&lt;br /&gt;
-採択期間: 2015-04-24 &amp;mdash; 2018-03-31&lt;/p&gt;
+      <description>&lt;p&gt;日本学術振興会特別研究員DC1に採択されました.&lt;br&gt;
+研究課題: 離散最大正則性とその有限要素法・有限体積法への応用&lt;br&gt;
+課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15J07471/&#34;&gt;15J07471&lt;/a&gt;&lt;br&gt;
+採択期間: 2015-04-24 &amp;ndash; 2018-03-31&lt;/p&gt;
 </description>
     </item>
     
@@ -164,7 +196,7 @@ Studia Math., vol. 234, no. 3, pp. 241&amp;mdash;263, 2016.&lt;/p&gt;
       <link>/ja/news/2015-03-24/</link>
       <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
       <guid>/ja/news/2015-03-24/</guid>
-      <description>&lt;p&gt;おかげさまで, 東京大学&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34;&gt;数理科学研究科長賞&lt;/a&gt;を受賞しました.&lt;/p&gt;
+      <description>&lt;p&gt;おかげさまで, 東京大学&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34;&gt;数理科学研究科長賞&lt;/a&gt;を受賞しました.&lt;/p&gt;
 </description>
     </item>
     

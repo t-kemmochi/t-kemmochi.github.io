@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/ja/</loc>
-    <lastmod>2019-08-25T14:25:52+09:00</lastmod>
+    <lastmod>2020-01-22T12:59:41+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,91 @@
                 rel="alternate"
                 hreflang="ja"
                 href="/ja/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ja/memo/</loc>
+    <lastmod>2020-01-22T12:59:41+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/memo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/memo/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ja/memo/elliptic-max-norm/</loc>
+    <lastmod>2020-01-22T12:59:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ja/memo/kyoto-note/</loc>
+    <lastmod>2020-01-21T17:52:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ja/news/2020-01-04/</loc>
+    <lastmod>2020-01-21T17:43:53+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/news/2020-01-04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/news/2020-01-04/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ja/news/</loc>
+    <lastmod>2020-01-21T17:43:53+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ja/news/2019-12-23/</loc>
+    <lastmod>2020-01-21T17:42:19+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/news/2019-12-23/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/news/2019-12-23/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ja/news/2019-11-01/</loc>
+    <lastmod>2020-01-21T17:39:27+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/news/2019-11-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/news/2019-11-01/"
                 />
   </url>
   
@@ -34,7 +119,7 @@
   
   <url>
     <loc>/ja/publications/</loc>
-    <lastmod>2019-08-22T15:48:50+09:00</lastmod>
+    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -109,21 +194,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="/ja/news/2019-05-02/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ja/news/</loc>
-    <lastmod>2019-08-25T14:25:52+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/ja/news/"
                 />
   </url>
   
@@ -279,21 +349,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="/ja/news/2017-06-23/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ja/memo/</loc>
-    <lastmod>2019-08-23T18:19:32+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/memo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/ja/memo/"
                 />
   </url>
   
