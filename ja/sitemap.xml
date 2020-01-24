@@ -4,7 +4,7 @@
   
   <url>
     <loc>/ja/</loc>
-    <lastmod>2020-01-22T12:59:41+09:00</lastmod>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -43,6 +43,36 @@
   </url>
   
   <url>
+    <loc>/ja/news/2020-01-13/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/news/2020-01-13/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/news/2020-01-13/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ja/news/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/news/"
+                />
+  </url>
+  
+  <url>
     <loc>/ja/news/2020-01-04/</loc>
     <lastmod>2020-01-21T17:43:53+09:00</lastmod>
     <xhtml:link
@@ -54,21 +84,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="/ja/news/2020-01-04/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ja/news/</loc>
-    <lastmod>2020-01-21T17:43:53+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/ja/news/"
                 />
   </url>
   

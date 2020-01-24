@@ -5,7 +5,7 @@
     <link>/en/</link>
       <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Kemmochi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tomoya Kemmochi</copyright><lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>T. Kemmochi</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Past news</title>
       <link>/en/news/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/en/news/</guid>
       <description></description>
     </item>
@@ -116,12 +116,18 @@ T. Kemmochi, Numerical analysis on shapes of membranes on rippled surfaces with 
       <description>&lt;p&gt;Please see also &lt;a href=&#34;https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34;&gt;MathSciNet&lt;/a&gt;, &lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34;&gt;ORCID&lt;/a&gt;, and &lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34;&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Takahito Kashiwabara and Tomoya Kemmochi.
-&lt;strong&gt;Maximum norm error estimates for the finite element approximation of parabolic problems on smooth domains.&lt;/strong&gt;
-&lt;a href=&#34;https://arxiv.org/abs/1805.01336&#34;&gt;arXiv:1805.01336&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;reviewed-articles&#34;&gt;Reviewed articles&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Takahito Kashiwabara and Tomoya Kemmochi.
+&lt;strong&gt;Stability, analyticity, and maximal regularity for parabolic finite element problems on smooth domains.&lt;/strong&gt;&lt;br&gt;
+Math. Comp.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1090/mcom/3500&#34;&gt;10.1090/mcom/3500&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2020-03500-5/&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/1805.01336&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Takahito Kashiwabara and Tomoya Kemmochi.
 &lt;strong&gt;Pointwise error estimates of linear finite element method for Neumann boundary value problems in a smooth domain.&lt;/strong&gt; &lt;br&gt;
