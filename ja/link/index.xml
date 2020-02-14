@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>リンク集 | T. Kemmochi</title>
+    <link>/ja/link/</link>
+      <atom:link href="/ja/link/index.xml" rel="self" type="application/rss+xml" />
+    <description>リンク集</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 22 Aug 2019 15:27:59 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>リンク集</title>
+      <link>/ja/link/</link>
+    </image>
+    
+  </channel>
+</rss>

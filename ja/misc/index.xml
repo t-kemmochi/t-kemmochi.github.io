@@ -24,7 +24,7 @@
     &lt;dt&gt;富山大学人間発達科学部332教室&lt;/dt&gt;
 &lt;/dl&gt;
 &lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;p&gt;プログラミング言語&lt;a href=&#34;http://julialang.org/&#34;&gt;Julia&lt;/a&gt;による数値計算手法を紹介する.
+&lt;p&gt;プログラミング言語&lt;a href=&#34;http://julialang.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia&lt;/a&gt;による数値計算手法を紹介する.
 特に, 発展方程式の数値計算手法と, そのアニメーションによる可視化について紹介する.&lt;/p&gt;
 &lt;h2 id=&#34;目標&#34;&gt;目標&lt;/h2&gt;
 &lt;ul&gt;
@@ -40,12 +40,12 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;資料集&#34;&gt;資料集&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/4a918177ee66b0b410fa&#34;&gt;インストール編&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/9e46c5b36f92d1e6f5a8&#34;&gt;基礎編&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/6b81e772fbe4150dc978&#34;&gt;文法編&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/dab696bf9af32135d84b&#34;&gt;外部ファイル編&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/a257adc8a590e11c1301&#34;&gt;可視化編&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/34455556255c1b7e9937&#34;&gt;アニメーション編&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/4a918177ee66b0b410fa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;インストール編&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/9e46c5b36f92d1e6f5a8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;基礎編&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/6b81e772fbe4150dc978&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;文法編&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/dab696bf9af32135d84b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;外部ファイル編&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/a257adc8a590e11c1301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;可視化編&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/t_kemmochi/private/34455556255c1b7e9937&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;アニメーション編&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;サンプルプログラム集&#34;&gt;サンプルプログラム集&lt;/h2&gt;
 &lt;ul&gt;

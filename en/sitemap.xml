@@ -123,21 +123,6 @@
   </url>
   
   <url>
-    <loc>/en/link/</loc>
-    <lastmod>2019-08-22T15:27:59+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/ja/link/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/link/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/research/</loc>
     <lastmod>2019-08-22T15:27:52+09:00</lastmod>
     <xhtml:link
@@ -437,6 +422,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/link/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/link/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/link/"
                 />
   </url>
   
