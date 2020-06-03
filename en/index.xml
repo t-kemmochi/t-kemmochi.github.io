@@ -5,7 +5,7 @@
     <link>/en/</link>
       <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Kemmochi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tomoya Kemmochi</copyright><lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>T. Kemmochi</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Past news</title>
       <link>/en/news/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/en/news/</guid>
       <description></description>
     </item>
@@ -117,7 +117,7 @@ T. Kemmochi, Numerical analysis on shapes of membranes on rippled surfaces with 
 &lt;a href=&#34;https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathSciNet&lt;/a&gt;,
 &lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;,
 &lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;, and
-&lt;a href=&#34;https://researchmap.jp/t-kemmochi/?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://researchmap.jp/t-kemmochi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;/li&gt;
@@ -125,31 +125,41 @@ T. Kemmochi, Numerical analysis on shapes of membranes on rippled surfaces with 
 &lt;h2 id=&#34;reviewed-articles&#34;&gt;Reviewed articles&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
+&lt;p&gt;Yuki Satake, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang.
+&lt;strong&gt;On a transformation of the ∗-congruence Sylvester equation for the least squares optimization.&lt;/strong&gt;&lt;br&gt;
+Optim. Methods Softw.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/10556788.2020.1734004&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;Takahito Kashiwabara and Tomoya Kemmochi.
 &lt;strong&gt;Stability, analyticity, and maximal regularity for parabolic finite element problems on smooth domains.&lt;/strong&gt;&lt;br&gt;
-Math. Comp.&lt;br&gt;
+Math. Comp., vol. 89, pp. 1647-1679, 2020.&lt;br&gt;
 DOI: &lt;a href=&#34;https://doi.org/10.1090/mcom/3500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1090/mcom/3500&lt;/a&gt;&lt;br&gt;
 [&lt;a href=&#34;https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2020-03500-5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
-[&lt;a href=&#34;https://arxiv.org/abs/1805.01336&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
+[&lt;a href=&#34;https://arxiv.org/abs/1805.01336&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4081914&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4081914&lt;/a&gt;]&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Takahito Kashiwabara and Tomoya Kemmochi.
 &lt;strong&gt;Pointwise error estimates of linear finite element method for Neumann boundary value problems in a smooth domain.&lt;/strong&gt; &lt;br&gt;
-Numer. Math. &lt;br&gt;
+Numer. Math, vol. 144, pp. 553–-584, 2020.&lt;br&gt;
 DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s00211-019-01098-8&lt;/a&gt; &lt;br&gt;
 [&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
-[&lt;a href=&#34;https://arxiv.org/abs/1804.00390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
+[&lt;a href=&#34;https://arxiv.org/abs/1804.00390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4071825&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4071825&lt;/a&gt;]&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Kosuke Nakano, Tomoya Kemmochi, Yuto Miyatake, Tomohiro Sogabe, and Siao-Liang Zhang.
 &lt;strong&gt;Modified Strang splitting for semilinear parabolic problems.&lt;/strong&gt; &lt;br&gt;
 JSIAM Letters, vol. 11, pp. 77&amp;ndash;80, 2019. &lt;br&gt;
 DOI: &lt;a href=&#34;https://doi.org/10.14495/jsiaml.11.77&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.14495/jsiaml.11.77&lt;/a&gt; &lt;br&gt;
-[&lt;a href=&#34;https://www.jstage.jst.go.jp/article/jsiaml/11/0/11_77/_article&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+[&lt;a href=&#34;https://www.jstage.jst.go.jp/article/jsiaml/11/0/11_77/_article&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4047802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4047802&lt;/a&gt;]&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Tomoya Kemmochi.
-&lt;strong&gt;Numerical Analysis of the Allen-Cahn Equation with Coarse Meshes.&lt;/strong&gt;
+&lt;strong&gt;Numerical Analysis of the Allen-Cahn Equation with Coarse Meshes.&lt;/strong&gt;&lt;br&gt;
 J. Math. Res. Appl., vol. 39, no. 6, pp. 709&amp;ndash;717, 2019. &lt;br&gt;
 DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.3770/j.issn:2095-2651.2019.06.014&lt;/a&gt; &lt;br&gt;
 [&lt;a href=&#34;http://jmre.dlut.edu.cn/en/ch/reader/view_abstract.aspx?file_no=20190614&amp;amp;flag=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
@@ -235,14 +245,14 @@ DOI: &lt;a href=&#34;http://doi.org/10.4064/sm8495-7-2016&#34; target=&#34;_blan
 &lt;p&gt;剱持智哉.
 &lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2146-04.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Energy dissipative numerical schemes for gradient flows of planar curves&lt;/a&gt;.
 &lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2146.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIMS講究録 No. 2146&lt;/a&gt;,
-RIMS共同研究 (公開型) 偏微分方程式の解の形状解析 ,
+RIMS共同研究 (公開型) 偏微分方程式の解の形状解析,
 京都大学数理解析研究所, 2020年.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;剱持智哉.
 &lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2094-10.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Allen-Cahn方程式の数値解に対する漸近的な誤差解析&lt;/a&gt;.
 &lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2094.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIMS講究録 No. 2094&lt;/a&gt;,
-RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanabe/WorkShop/RIMS2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数値解析学の最前線&amp;amp;mdash;理論・方法・応用&amp;amp;mdash;&lt;/a&gt;,
+RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanabe/WorkShop/RIMS2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数値解析学の最前線—理論・方法・応用—&lt;/a&gt;,
 京都大学数理解析研究所, 2018年.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;

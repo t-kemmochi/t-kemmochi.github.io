@@ -5,12 +5,26 @@
     <link>/ja/news/</link>
       <atom:link href="/ja/news/index.xml" rel="self" type="application/rss+xml" />
     <description>過去のお知らせ</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Tomoya Kemmochi</copyright><lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>過去のお知らせ</title>
       <link>/ja/news/</link>
     </image>
+    
+    <item>
+      <title>2020-03-06</title>
+      <link>/ja/news/2020-03-06/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/news/2020-03-06/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+Yuki Satake, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang.&lt;br&gt;
+&lt;strong&gt;On a transformation of the ∗-congruence Sylvester equation for the least squares optimization.&lt;/strong&gt;&lt;br&gt;
+Optim. Methods Softw.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/10556788.2020.1734004&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2020-01-13</title>
@@ -20,7 +34,7 @@
       <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
 Takahito Kashiwabara and Tomoya Kemmochi.
 &lt;strong&gt;Stability, analyticity, and maximal regularity for parabolic finite element problems on smooth domains.&lt;/strong&gt;&lt;br&gt;
-Math. Comp.&lt;br&gt;
+Math. Comp., vol. 89, pp. 1647-1679, 2020.&lt;br&gt;
 DOI: &lt;a href=&#34;https://doi.org/10.1090/mcom/3500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1090/mcom/3500&lt;/a&gt;&lt;br&gt;
 [&lt;a href=&#34;https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2020-03500-5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
 </description>
@@ -34,7 +48,7 @@ DOI: &lt;a href=&#34;https://doi.org/10.1090/mcom/3500&#34; target=&#34;_blank&#
       <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
 Takahito Kashiwabara and Tomoya Kemmochi.
 &lt;strong&gt;Pointwise error estimates of linear finite element method for Neumann boundary value problems in a smooth domain.&lt;/strong&gt;&lt;br&gt;
-Numer. Math.&lt;br&gt;
+Numer. Math., vol. 144, pp. 553–-584, 2020.
 DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s00211-019-01098-8&lt;/a&gt;&lt;br&gt;
 [&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
 </description>

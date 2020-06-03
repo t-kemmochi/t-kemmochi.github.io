@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/ja/news/2020-03-06/</loc>
+    <lastmod>2020-06-03T10:24:42+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/news/2020-03-06/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/news/2020-03-06/"
+                />
+  </url>
+  
+  <url>
     <loc>/ja/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-03T10:24:42+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +29,21 @@
                 rel="alternate"
                 hreflang="ja"
                 href="/ja/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ja/news/</loc>
+    <lastmod>2020-06-03T10:24:42+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/news/"
                 />
   </url>
   
@@ -54,21 +84,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="/ja/news/2020-01-13/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ja/news/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/ja/news/"
                 />
   </url>
   
@@ -134,7 +149,7 @@
   
   <url>
     <loc>/ja/publications/</loc>
-    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
