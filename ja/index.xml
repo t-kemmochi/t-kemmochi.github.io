@@ -5,7 +5,7 @@
     <link>/ja/</link>
       <atom:link href="/ja/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Kemmochi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Tomoya Kemmochi</copyright><lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Tomoya Kemmochi</copyright><lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>T. Kemmochi</title>
@@ -33,7 +33,8 @@
       <link>/ja/talks/</link>
       <pubDate>Thu, 22 Aug 2019 17:20:06 +0900</pubDate>
       <guid>/ja/talks/</guid>
-      <description>&lt;h2 id=&#34;2020&#34;&gt;2020&lt;/h2&gt;
+      <description>&lt;div class=&#34;publication&#34;&gt;
+&lt;h2 id=&#34;2020&#34;&gt;2020&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt;
 T. Kemmochi. Structure-preserving numerical methods for constrained gradient flows
@@ -258,7 +259,7 @@ T. Kemmochi, Numerical analysis on shapes of membranes on rippled surfaces with 
 [Poster]&lt;/li&gt;
 &lt;li&gt;剱持智哉, 有限要素法における最大値原理, &lt;a href=&#34;http://www.infsup.jp/fvm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ワークショップ「数値流体シミュレーション手法とその数学的基盤」&lt;/a&gt;, 公共の宿「ふるさと荘」, 2014年5月17日-19日.&lt;/li&gt;
 &lt;/ol&gt;
-</description>
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -266,15 +267,24 @@ T. Kemmochi, Numerical analysis on shapes of membranes on rippled surfaces with 
       <link>/ja/publications/</link>
       <pubDate>Thu, 22 Aug 2019 15:48:50 +0900</pubDate>
       <guid>/ja/publications/</guid>
-      <description>&lt;p&gt;Please see also
+      <description>&lt;div class=&#34;publication&#34;&gt;
+&lt;p&gt;Please see also
 &lt;a href=&#34;https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathSciNet&lt;/a&gt;,
 &lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;,
 &lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;, and
 &lt;a href=&#34;https://researchmap.jp/t-kemmochi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tomoya Kemmochi and Shun Sato.
+&lt;strong&gt;Scalar auxiliary variable approach for conservative/dissipative partial differential equations with unbounded energy.&lt;/strong&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2105.04055&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2105.04055&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fuminori Tatsuoka, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang.
+&lt;strong&gt;Computing the matrix fractional power with the double exponential formula.&lt;/strong&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2012.01667&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2012.01667&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;reviewed-articles&#34;&gt;Reviewed articles&lt;/h2&gt;
 &lt;ol&gt;
@@ -416,7 +426,7 @@ RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanab
 &lt;a href=&#34;https://sites.google.com/site/rims2015na/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;現象解明に向けた数値解析学の新展開&lt;/a&gt;, 京都大学数理解析研究所, 2016年.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-</description>
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -586,30 +596,30 @@ RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanab
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;年月&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;経歴&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;年月&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;経歴&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2009年4月～2013年3月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;東京大学理学部数学科&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2009年4月～2013年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;東京大学理学部数学科&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2013年4月～2015年3月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;東京大学大学院数理科学研究科 修士課程 [指導教員: 齊藤宣一 准教授]&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2013年4月～2015年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;東京大学大学院数理科学研究科 修士課程 [指導教員: 齊藤宣一 准教授]&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2015年4月～2018年3月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.u-tokyo.ac.jp/index_j.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;東京大学&lt;/a&gt;&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/index-j.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学院数理科学研究科&lt;/a&gt; 博士課程 修了 [指導教員: &lt;a href=&#34;http://www.infsup.jp/saito/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;齊藤宣一&lt;/a&gt; 教授]&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2015年4月～2018年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.u-tokyo.ac.jp/index_j.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;東京大学&lt;/a&gt;&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/index-j.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学院数理科学研究科&lt;/a&gt; 博士課程 修了 [指導教員: &lt;a href=&#34;http://www.infsup.jp/saito/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;齊藤宣一&lt;/a&gt; 教授]&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2018年3月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;博士 (数理科学) [指導教員: 齊藤宣一 教授]&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2018年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;博士 (数理科学) [指導教員: 齊藤宣一 教授]&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2018年4月～現在&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;名古屋大学大学院工学研究科 助教&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2018年4月～現在&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;名古屋大学大学院工学研究科 助教&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -617,18 +627,18 @@ RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanab
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;年月&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;経歴&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;年月&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;経歴&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2014年9月～2018年3月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;東京大学 &lt;a href=&#34;http://fmsp.ms.u-tokyo.ac.jp/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数物フロンティア・リーディング大学院プログラム&lt;/a&gt; コース生 &lt;br&gt; [副指導教員: &lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/~labgiga/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;儀我美一&lt;/a&gt; 教授]&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2014年9月～2018年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;東京大学 &lt;a href=&#34;http://fmsp.ms.u-tokyo.ac.jp/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数物フロンティア・リーディング大学院プログラム&lt;/a&gt; コース生 &lt;br&gt; [副指導教員: &lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/~labgiga/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;儀我美一&lt;/a&gt; 教授]&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2015年4月～2018年3月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.jsps.go.jp/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本学術振興会特別研究員 DC1&lt;/a&gt; (課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15J07471/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15J07471&lt;/a&gt;) &lt;br&gt; [受入教員: 齊藤宣一 教授]&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2015年4月～2018年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://www.jsps.go.jp/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本学術振興会特別研究員 DC1&lt;/a&gt; (課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15J07471/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15J07471&lt;/a&gt;) &lt;br&gt; [受入教員: 齊藤宣一 教授]&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -636,18 +646,18 @@ RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanab
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;期間&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;獲得資金&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;期間&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;獲得資金&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2015年4月～2018年3月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;科研費 	特別研究員奨励費 (課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15J07471/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15J07471&lt;/a&gt;) &lt;br&gt; 離散最大正則性とその有限要素法・有限体積法への応用&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2015年4月～2018年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;科研費 	特別研究員奨励費 (課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15J07471/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15J07471&lt;/a&gt;) &lt;br&gt; 離散最大正則性とその有限要素法・有限体積法への応用&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2019年4月～2023年3月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;科研費 	若手研究 (課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K14590/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;19K14590&lt;/a&gt;) &lt;br&gt; 滑らかな領域における非線形偏微分方程式に対する有限要素法&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2019年4月～2023年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;科研費 	若手研究 (課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K14590/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;19K14590&lt;/a&gt;) &lt;br&gt; 滑らかな領域における非線形偏微分方程式に対する有限要素法&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -655,26 +665,26 @@ RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanab
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;年月&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;受賞&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;年月&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;受賞&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2015年3月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2014年度 東京大学&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学研究科長賞&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2015年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2014年度 東京大学&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学研究科長賞&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2017年3月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2016年度 &lt;a href=&#34;http://www.mathsoc.jp/publicity/appmath2016.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本数学会応用数学研究奨励賞&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2017年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2016年度 &lt;a href=&#34;http://www.mathsoc.jp/publicity/appmath2016.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本数学会応用数学研究奨励賞&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2017年6月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://161.64.198.10/EASIAM/prizes.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student Paper Prize&lt;/a&gt; (second prize) at &lt;a href=&#34;http://conference.math.snu.ac.kr/index.php?mid=EASIAM2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EASIAM2017&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2017年6月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://161.64.198.10/EASIAM/prizes.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student Paper Prize&lt;/a&gt; (second prize) at &lt;a href=&#34;http://conference.math.snu.ac.kr/index.php?mid=EASIAM2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EASIAM2017&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2018年3月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2017年度 東京大学&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学研究科長賞&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2018年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2017年度 東京大学&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学研究科長賞&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

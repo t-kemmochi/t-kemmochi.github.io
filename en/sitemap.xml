@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/en/news/2020-03-06/</loc>
     <lastmod>2020-06-03T10:24:42+09:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="en"
                 href="/en/news/2020-03-06/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/</loc>
     <lastmod>2020-06-03T10:24:42+09:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="en"
                 href="/en/news/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/</loc>
     <lastmod>2020-06-03T10:24:42+09:00</lastmod>
     <xhtml:link
@@ -45,9 +40,7 @@
                 hreflang="en"
                 href="/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2020-01-13/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -60,9 +53,7 @@
                 hreflang="en"
                 href="/en/news/2020-01-13/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2020-01-04/</loc>
     <lastmod>2020-01-21T17:43:53+09:00</lastmod>
     <xhtml:link
@@ -75,9 +66,7 @@
                 hreflang="en"
                 href="/en/news/2020-01-04/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2019-12-23/</loc>
     <lastmod>2020-01-21T17:42:19+09:00</lastmod>
     <xhtml:link
@@ -90,9 +79,7 @@
                 hreflang="en"
                 href="/en/news/2019-12-23/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2019-11-01/</loc>
     <lastmod>2020-01-21T17:39:27+09:00</lastmod>
     <xhtml:link
@@ -105,9 +92,7 @@
                 hreflang="en"
                 href="/en/news/2019-11-01/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/talks/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -120,11 +105,9 @@
                 hreflang="en"
                 href="/en/talks/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/publications/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -135,9 +118,7 @@
                 hreflang="en"
                 href="/en/publications/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/research/</loc>
     <lastmod>2019-08-22T15:27:52+09:00</lastmod>
     <xhtml:link
@@ -150,9 +131,7 @@
                 hreflang="en"
                 href="/en/research/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/cv/</loc>
     <lastmod>2019-08-22T11:22:51+09:00</lastmod>
     <xhtml:link
@@ -165,9 +144,7 @@
                 hreflang="en"
                 href="/en/cv/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2019-05-02/</loc>
     <lastmod>2019-08-25T14:25:52+09:00</lastmod>
     <xhtml:link
@@ -180,9 +157,7 @@
                 hreflang="en"
                 href="/en/news/2019-05-02/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/authors/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -195,9 +170,7 @@
                 hreflang="en"
                 href="/en/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/project/fem-smooth/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -210,9 +183,7 @@
                 hreflang="en"
                 href="/en/project/fem-smooth/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/project/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -225,14 +196,10 @@
                 hreflang="en"
                 href="/en/project/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/authors/tomoya-kemmochi/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2018-04-01/</loc>
     <lastmod>2019-08-22T13:01:37+09:00</lastmod>
     <xhtml:link
@@ -245,9 +212,7 @@
                 hreflang="en"
                 href="/en/news/2018-04-01/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2018-03-23/</loc>
     <lastmod>2019-08-22T13:01:33+09:00</lastmod>
     <xhtml:link
@@ -260,9 +225,7 @@
                 hreflang="en"
                 href="/en/news/2018-03-23/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2018-01-06/</loc>
     <lastmod>2019-08-22T13:01:26+09:00</lastmod>
     <xhtml:link
@@ -275,9 +238,7 @@
                 hreflang="en"
                 href="/en/news/2018-01-06/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2017-12-21/</loc>
     <lastmod>2019-08-22T13:01:19+09:00</lastmod>
     <xhtml:link
@@ -290,9 +251,7 @@
                 hreflang="en"
                 href="/en/news/2017-12-21/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2017-11-15/</loc>
     <lastmod>2019-08-22T13:01:16+09:00</lastmod>
     <xhtml:link
@@ -305,9 +264,7 @@
                 hreflang="en"
                 href="/en/news/2017-11-15/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2017-09-27/</loc>
     <lastmod>2019-08-22T13:00:58+09:00</lastmod>
     <xhtml:link
@@ -320,9 +277,7 @@
                 hreflang="en"
                 href="/en/news/2017-09-27/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2017-06-23/</loc>
     <lastmod>2019-08-22T13:00:49+09:00</lastmod>
     <xhtml:link
@@ -335,9 +290,7 @@
                 hreflang="en"
                 href="/en/news/2017-06-23/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2017-03-23/</loc>
     <lastmod>2019-08-22T13:20:24+09:00</lastmod>
     <xhtml:link
@@ -350,9 +303,7 @@
                 hreflang="en"
                 href="/en/news/2017-03-23/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2016-10-13/</loc>
     <lastmod>2019-08-22T13:00:40+09:00</lastmod>
     <xhtml:link
@@ -365,9 +316,7 @@
                 hreflang="en"
                 href="/en/news/2016-10-13/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2016-09-09/</loc>
     <lastmod>2019-08-22T13:00:30+09:00</lastmod>
     <xhtml:link
@@ -380,9 +329,7 @@
                 hreflang="en"
                 href="/en/news/2016-09-09/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2015-04-01/</loc>
     <lastmod>2019-08-22T13:00:14+09:00</lastmod>
     <xhtml:link
@@ -395,9 +342,7 @@
                 hreflang="en"
                 href="/en/news/2015-04-01/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/news/2015-03-24/</loc>
     <lastmod>2019-08-22T12:27:07+09:00</lastmod>
     <xhtml:link
@@ -410,9 +355,7 @@
                 hreflang="en"
                 href="/en/news/2015-03-24/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/authors/admin/</loc>
     <xhtml:link
                 rel="alternate"
@@ -424,9 +367,7 @@
                 hreflang="en"
                 href="/en/authors/admin/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -438,9 +379,7 @@
                 hreflang="en"
                 href="/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/link/</loc>
     <xhtml:link
                 rel="alternate"
@@ -452,9 +391,7 @@
                 hreflang="en"
                 href="/en/link/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/memo/</loc>
     <xhtml:link
                 rel="alternate"
@@ -466,9 +403,7 @@
                 hreflang="en"
                 href="/en/memo/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -480,9 +415,7 @@
                 hreflang="en"
                 href="/en/publication_types/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -495,5 +428,4 @@
                 href="/en/tags/"
                 />
   </url>
-  
 </urlset>
