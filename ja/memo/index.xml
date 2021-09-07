@@ -174,14 +174,14 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/ja/memo/windows-wifi-priority/</guid>
       <description>&lt;p&gt;Powershellなどで&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;netsh wlan set profileorder name=&amp;quot;ネットワーク名&amp;quot; interface=&amp;quot;Wi-Fi&amp;quot; priority=数字
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;netsh wlan set profileorder name=&amp;quot;ネットワーク名&amp;quot; interface=&amp;quot;Wi-Fi&amp;quot; priority=数字
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;とする. priorityは数字が若い方が優先順位が高い.&lt;/p&gt;
 &lt;p&gt;他には&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;netsh wlan show profiles
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;netsh wlan show profiles
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;でネットワークの一覧を取得,&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;netsh wlan delete profile &amp;quot;ネットワーク名&amp;quot;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;netsh wlan delete profile &amp;quot;ネットワーク名&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;でネットワークの削除,&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;netsh wlan ?
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;netsh wlan ?
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;などでヘルプの表示.&lt;/p&gt;</description>
     </item>
     
