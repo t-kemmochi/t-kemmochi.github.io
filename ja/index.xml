@@ -2,40 +2,657 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>T. Kemmochi</title>
-    <link>/ja/</link>
-      <atom:link href="/ja/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://t-kemmochi.github.io/ja/</link>
+      <atom:link href="https://t-kemmochi.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Kemmochi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Tomoya Kemmochi</copyright><lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2021 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>T. Kemmochi</title>
-      <link>/ja/</link>
+      <link>https://t-kemmochi.github.io/ja/</link>
     </image>
     
     <item>
-      <title>過去のお知らせ</title>
-      <link>/ja/news/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/ja/news/</guid>
+      <title>2021-09-06</title>
+      <link>https://t-kemmochi.github.io/ja/news/2021-09-06/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2021-09-06/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+Fuminori Tatsuoka, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang.
+&lt;strong&gt;Computing the matrix fractional power with the double exponential formula.&lt;/strong&gt;&lt;br&gt;
+Electron. Trans. Numer. Anal., Vol. 54, pp. 558-580, 2021.&lt;br&gt;
+DOI: &lt;a href=&#34;http://doi.org/10.1553/etna_vol54s558&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1553/etna_vol54s558&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://etna.math.kent.edu/volumes/2021-2030/vol54/abstract.php?vol=54&amp;amp;pages=558-580&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/2012.01667&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4310720&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4310720&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021-04-01</title>
+      <link>https://t-kemmochi.github.io/ja/news/2021-04-01/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2021-04-01/</guid>
+      <description>&lt;p&gt;科研費 基盤B「&lt;a href=&#34;https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21H00990/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;高階幾何学的勾配流における特異形状解析&lt;/a&gt;」 (研究代表者: 岡部真也 (東北大学)) に研究分担者として参加させていただくことになりました.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>高階幾何学的勾配流における特異形状解析</title>
+      <link>https://t-kemmochi.github.io/ja/project/geometric-flow/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/project/geometric-flow/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>メモ</title>
-      <link>/ja/memo/</link>
+      <title>2020-03-06</title>
+      <link>https://t-kemmochi.github.io/ja/news/2020-03-06/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2020-03-06/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+Yuki Satake, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang.&lt;br&gt;
+&lt;strong&gt;On a transformation of the ∗-congruence Sylvester equation for the least squares optimization.&lt;/strong&gt;&lt;br&gt;
+Optim. Methods Softw.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/10556788.2020.1734004&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>楕円型方程式に対する有限要素法の最大値ノルムによる誤差評価のメモ</title>
+      <link>https://t-kemmochi.github.io/ja/memo/elliptic-max-norm/</link>
       <pubDate>Wed, 22 Jan 2020 12:59:41 +0900</pubDate>
-      <guid>/ja/memo/</guid>
-      <description></description>
+      <guid>https://t-kemmochi.github.io/ja/memo/elliptic-max-norm/</guid>
+      <description>&lt;p&gt;Brenner-Scottの教科書のChapter 8にある, 楕円型方程式に対する有限要素法の$L^\infty$ノルム, $W^{1,\infty}$ノルムによる誤差評価の証明がわかりにくいので, 個人的な理解をメモしておく.
+→ &lt;a href=&#34;https://t-kemmochi.github.io/pdf/fem-nax-norm.pdf&#34; target=&#34;_blank&#34;&gt;pdfファイル&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>京都メモ</title>
+      <link>https://t-kemmochi.github.io/ja/memo/kyoto-note/</link>
+      <pubDate>Tue, 21 Jan 2020 17:52:32 +0900</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/memo/kyoto-note/</guid>
+      <description>&lt;p&gt;年に数回京大に行くけど, 行くたびにバスのことがわからなくなるので, メモしておく.&lt;/p&gt;
+&lt;h2 id=&#34;京大に行くには&#34;&gt;京大に行くには&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;「&lt;strong&gt;京大農学部前&lt;/strong&gt;」(理学部)・「&lt;strong&gt;北白川&lt;/strong&gt;」(RIMS) までバスで行き, 数分歩く.&lt;/li&gt;
+&lt;li&gt;「&lt;strong&gt;百万遍&lt;/strong&gt;」までバスで行き, 10分ほど歩く.&lt;/li&gt;
+&lt;li&gt;「出町柳」まで阪急線で行き, そこから20分くらい歩く (つらい).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;京大農学部前北白川の場合&#34;&gt;「京大農学部前」・「北白川」の場合&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;京大理学部 (京大農学部前), RIMS (北白川) に止まるバス: 市バス&lt;strong&gt;17&lt;/strong&gt;, 市バス&lt;strong&gt;203&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;京都駅&lt;/strong&gt; → 京大農学部前: 市バス&lt;strong&gt;17&lt;/strong&gt;. 乗り場は&lt;strong&gt;A2&lt;/strong&gt;. 所要時間は35分くらい? (平日昼頃はそうだった)&lt;/li&gt;
+&lt;li&gt;市バス17は河原町通りを通るので, &lt;strong&gt;四条河原町&lt;/strong&gt;や&lt;strong&gt;河原町三条&lt;/strong&gt;にホテルを取るならこのバスが便利 (四条河原町からは20分くらい?)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;百万遍の場合&#34;&gt;「百万遍」の場合&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;百万遍に止まるバス: 市バス&lt;strong&gt;3&lt;/strong&gt;, &lt;strong&gt;17&lt;/strong&gt;, &lt;strong&gt;31&lt;/strong&gt;, &lt;strong&gt;65&lt;/strong&gt;, &lt;strong&gt;102&lt;/strong&gt;, &lt;strong&gt;201&lt;/strong&gt;, &lt;strong&gt;203&lt;/strong&gt;, &lt;strong&gt;206&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;四条烏丸&lt;/strong&gt; → 百万遍: 市バス&lt;strong&gt;3&lt;/strong&gt;, &lt;strong&gt;31&lt;/strong&gt;, &lt;strong&gt;201&lt;/strong&gt;, &lt;strong&gt;203&lt;/strong&gt;. 所要時間はGoogleマップによると20分ほどとなっているが, &lt;strong&gt;50分&lt;/strong&gt;は見たほうが良さそう. 少なくとも, 帰りの時間帯は四条通がとても混む.&lt;/li&gt;
+&lt;li&gt;四条烏丸に止まるバスは多いので便利だが, 百万遍までしか行けない&lt;/li&gt;
+&lt;li&gt;四条烏丸の1つ西の&lt;strong&gt;四条西洞院&lt;/strong&gt; (にしのとういん) というバス停の周りもホテルが多く便利. ここには 市バス&lt;strong&gt;3&lt;/strong&gt;, &lt;strong&gt;201&lt;/strong&gt;, &lt;strong&gt;203&lt;/strong&gt;が止まる&lt;/li&gt;
+&lt;li&gt;一方で, 四条烏丸の南のバス停 (烏丸松原) の周りにもホテルはあるが, 百万遍にはいけない.&lt;/li&gt;
+&lt;li&gt;四条烏丸の北のバス停 (烏丸三条) には市バス31だけ止まるので, 百万遍には行けるが, 四条のほうが便利.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;3&lt;/strong&gt; で行くと, 河原町通りを通る. 所要時間は&lt;strong&gt;30分弱&lt;/strong&gt;だが, その後の徒歩が10分くらいかかる&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;203&lt;/strong&gt; で行くと, 東大路通りを通り, 熊野神社で曲がって銀閣寺を経由してから百万遍に向かう. &lt;strong&gt;結果的に北白川を通る&lt;/strong&gt;. &lt;strong&gt;40分&lt;/strong&gt;くらいかかる.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;結局&#34;&gt;結局&amp;hellip;&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;出発地&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;行き方&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;所要時間&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;京都駅&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;A2&lt;/strong&gt;乗り場から市バス&lt;strong&gt;17&lt;/strong&gt;に乗り, &lt;strong&gt;京大農学部前&lt;/strong&gt;または&lt;strong&gt;北白川&lt;/strong&gt;へ&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;約&lt;strong&gt;35分&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;四条河原町エリア&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;四条河原町&lt;/strong&gt;や&lt;strong&gt;河原町三条&lt;/strong&gt;から市バス&lt;strong&gt;17&lt;/strong&gt;に乗り, &lt;strong&gt;京大農学部前&lt;/strong&gt;または&lt;strong&gt;北白川&lt;/strong&gt;へ&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;約&lt;strong&gt;20分&lt;/strong&gt;?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;四条烏丸エリア (1)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;四条西洞院&lt;/strong&gt;や&lt;strong&gt;四条烏丸&lt;/strong&gt;から市バス&lt;strong&gt;3&lt;/strong&gt;, &lt;strong&gt;201&lt;/strong&gt;で&lt;strong&gt;百万遍&lt;/strong&gt;へ行き, 徒歩&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;バスで約&lt;strong&gt;30分&lt;/strong&gt;+徒歩&lt;strong&gt;10分&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;四条烏丸エリア (2)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;四条西洞院&lt;/strong&gt;や&lt;strong&gt;四条烏丸&lt;/strong&gt;から市バス&lt;strong&gt;203&lt;/strong&gt;で&lt;strong&gt;北白川&lt;/strong&gt;へ&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;約&lt;strong&gt;40分&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;京都の市バス検索&#34;&gt;京都の市バス検索&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;googleマップ&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=jp.kyoto.city.arukumachikyoto&amp;amp;hl=ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式アプリ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2020-01-13</title>
+      <link>https://t-kemmochi.github.io/ja/news/2020-01-13/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2020-01-13/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+Takahito Kashiwabara and Tomoya Kemmochi.
+&lt;strong&gt;Stability, analyticity, and maximal regularity for parabolic finite element problems on smooth domains.&lt;/strong&gt;&lt;br&gt;
+Math. Comp., vol. 89, pp. 1647-1679, 2020.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1090/mcom/3500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1090/mcom/3500&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2020-03500-5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2020-01-04</title>
+      <link>https://t-kemmochi.github.io/ja/news/2020-01-04/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2020-01-04/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+Takahito Kashiwabara and Tomoya Kemmochi.
+&lt;strong&gt;Pointwise error estimates of linear finite element method for Neumann boundary value problems in a smooth domain.&lt;/strong&gt;&lt;br&gt;
+Numer. Math., vol. 144, pp. 553–-584, 2020.
+DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s00211-019-01098-8&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2019-12-23</title>
+      <link>https://t-kemmochi.github.io/ja/news/2019-12-23/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2019-12-23/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+K. Nakano, T. Kemmochi, Y. Miyatake, T. Sogabe, and S.-L. Zhang.
+&lt;strong&gt;Modified Strang splitting for semilinear parabolic problems.&lt;/strong&gt;&lt;br&gt;
+JSIAM Letters, vol. 11, pp. 77&amp;ndash;80, 2019.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.14495/jsiaml.11.77&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.14495/jsiaml.11.77&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.jstage.jst.go.jp/article/jsiaml/11/0/11_77/_article&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2019-11-01</title>
+      <link>https://t-kemmochi.github.io/ja/news/2019-11-01/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2019-11-01/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+T. Kemmochi.
+&lt;strong&gt;Numerical Analysis of the Allen-Cahn Equation with Coarse Meshes.&lt;/strong&gt;
+J. Math. Res. Appl., vol. 39, no. 6, pp. 709&amp;ndash;717, 2019.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.3770/j.issn:2095-2651.2019.06.014&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;http://jmre.dlut.edu.cn/en/ch/reader/view_abstract.aspx?file_no=20190614&amp;amp;flag=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://t-kemmochi.github.io/ja/publications/</link>
+      <pubDate>Thu, 22 Aug 2019 15:48:50 +0900</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/publications/</guid>
+      <description>&lt;div class=&#34;publication&#34;&gt;
+&lt;p&gt;Please see also
+&lt;a href=&#34;https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathSciNet&lt;/a&gt;,
+&lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;,
+&lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;, and
+&lt;a href=&#34;https://researchmap.jp/t-kemmochi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Tomoya Kemmochi and Shun Sato.
+&lt;strong&gt;Scalar auxiliary variable approach for conservative/dissipative partial differential equations with unbounded energy.&lt;/strong&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2105.04055&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2105.04055&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;reviewed-articles&#34;&gt;Reviewed articles&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fuminori Tatsuoka, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang.
+&lt;strong&gt;Computing the matrix fractional power with the double exponential formula.&lt;/strong&gt;&lt;br&gt;
+Electron. Trans. Numer. Anal., Vol. 54, pp. 558-580, 2021.&lt;br&gt;
+DOI: &lt;a href=&#34;http://doi.org/10.1553/etna_vol54s558&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1553/etna_vol54s558&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://etna.math.kent.edu/volumes/2021-2030/vol54/abstract.php?vol=54&amp;amp;pages=558-580&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/2012.01667&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4310720&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4310720&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yuki Satake, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang.
+&lt;strong&gt;On a transformation of the ∗-congruence Sylvester equation for the least squares optimization.&lt;/strong&gt;&lt;br&gt;
+Optim. Methods Softw., vol. 35, no. 5, pp. 974-981, 2020.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/10556788.2020.1734004&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4144128&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4144128&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Takahito Kashiwabara and Tomoya Kemmochi.
+&lt;strong&gt;Stability, analyticity, and maximal regularity for parabolic finite element problems on smooth domains.&lt;/strong&gt;&lt;br&gt;
+Math. Comp., vol. 89, pp. 1647-1679, 2020.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1090/mcom/3500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1090/mcom/3500&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2020-03500-5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/1805.01336&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4081914&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4081914&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Takahito Kashiwabara and Tomoya Kemmochi.
+&lt;strong&gt;Pointwise error estimates of linear finite element method for Neumann boundary value problems in a smooth domain.&lt;/strong&gt; &lt;br&gt;
+Numer. Math, vol. 144, pp. 553–-584, 2020.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s00211-019-01098-8&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/1804.00390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4071825&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4071825&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kosuke Nakano, Tomoya Kemmochi, Yuto Miyatake, Tomohiro Sogabe, and Siao-Liang Zhang.
+&lt;strong&gt;Modified Strang splitting for semilinear parabolic problems.&lt;/strong&gt; &lt;br&gt;
+JSIAM Letters, vol. 11, pp. 77&amp;ndash;80, 2019. &lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.14495/jsiaml.11.77&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.14495/jsiaml.11.77&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;https://www.jstage.jst.go.jp/article/jsiaml/11/0/11_77/_article&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4047802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4047802&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tomoya Kemmochi.
+&lt;strong&gt;Numerical Analysis of the Allen-Cahn Equation with Coarse Meshes.&lt;/strong&gt;&lt;br&gt;
+J. Math. Res. Appl., vol. 39, no. 6, pp. 709&amp;ndash;717, 2019. &lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.3770/j.issn:2095-2651.2019.06.014&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;http://jmre.dlut.edu.cn/en/ch/reader/view_abstract.aspx?file_no=20190614&amp;amp;flag=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yuki Satake, Masaya Oozawa, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang.
+&lt;strong&gt;Relation between the T-congruence Sylvester equation and the generalized Sylvester equation.&lt;/strong&gt; &lt;br&gt;
+Appl. Math. Lett., vol. 96, pp. 7&amp;ndash;13, 2019. &lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2019.04.007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.aml.2019.04.007&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0893965919301533&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3943431&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3943431&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tomoya Kemmochi.
+&lt;strong&gt;On the finite element approximation for non-stationary saddle-point problems.&lt;/strong&gt; &lt;br&gt;
+Japan J. Indust. Appl. Math., vol. 35. no. 2, pp. 423&amp;ndash;439, 2018. &lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1007/s13160-017-0293-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s13160-017-0293-5&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;http://rdcu.be/EetG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;]
+[&lt;a href=&#34;https://link.springer.com/article/10.1007/s13160-017-0293-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3816236&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3816236&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/1709.00723&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tomoya Kemmochi.
+&lt;strong&gt;Numerical analysis of elastica with obstacle and adhesion effects.&lt;/strong&gt; &lt;br&gt;
+Appl. Anal., vol. 98, no. 6, pp. 1085&amp;ndash;1103, 2019. &lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1080/00036811.2017.1416100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/00036811.2017.1416100&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;http://www.tandfonline.com/doi/full/10.1080/00036811.2017.1416100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3923026&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3923026&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/1604.03400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tomoya Kemmochi and Norikazu Saito.
+&lt;strong&gt;Discrete maximal regularity and the finite element method for parabolic equations.&lt;/strong&gt; &lt;br&gt;
+Numer. Math., vol. 138, no. 4, pp. 905&amp;ndash;937.  &lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-017-0929-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s00211-017-0929-z&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;http://rdcu.be/yxsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;]
+[&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-017-0929-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3778340&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3778340&lt;/a&gt;]
+[&lt;a href=&#34;https://zbmath.org/?q=an:06858661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 06858661&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/1602.06864&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tomoya Kemmochi.
+&lt;strong&gt;Energy dissipative numerical schemes for gradient flows of planar curves.&lt;/strong&gt; &lt;br&gt;
+BIT Numer. Math., vol. 57, no. 4, pp. 991&amp;ndash;1017, 2017. &lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1007/s10543-017-0685-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s10543-017-0685-6&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;https://www.youtube.com/playlist?list=PLMF3dSqWEii69loXvCtgDCI4PYijq_4L3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Movies&lt;/a&gt;]
+[&lt;a href=&#34;http://rdcu.be/wgXm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;]
+[&lt;a href=&#34;https://link.springer.com/article/10.1007/s10543-017-0685-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3735998&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3735998&lt;/a&gt;]
+[&lt;a href=&#34;https://zbmath.org/?q=an:1380.65036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1380.65036&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/1610.03014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tomoya Kemmochi.
+&lt;strong&gt;Discrete maximal regularity for abstract Cauchy problems.&lt;/strong&gt; &lt;br&gt;
+Studia Math., vol. 234, no. 3, pp. 241&amp;ndash;263, 2016. &lt;br&gt;
+DOI: &lt;a href=&#34;http://doi.org/10.4064/sm8495-7-2016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.4064/sm8495-7-2016&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;https://t-kemmochi.github.io/pdf/dmr_acp_2016.pdf&#34; target=&#34;_blank&#34;&gt;On-line first version&lt;/a&gt;]
+[&lt;a href=&#34;https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/234/3/91729/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3549514&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3549514&lt;/a&gt;]
+[&lt;a href=&#34;https://www.zbmath.org/?q=an:1359.65082&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1359.65082&lt;/a&gt;]
+[&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/preprint/pdf/2015-6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;reviewed-articles-in-japanese&#34;&gt;Reviewed articles in Japanese&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;川畑佑典、三浦達彦、渡邉陽太、池祐一、江間陽平、 剱持智哉、松原宰栄、米田剛、千葉優作、柏原崇人.
+&lt;a href=&#34;https://www.ms.u-tokyo.ac.jp/lmsr/pdf/2018-10.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;磁気流体緩和法の初期条件依存性 ∼force-free alphaの空間分布∼&lt;/a&gt;.
+&lt;a href=&#34;https://www.ms.u-tokyo.ac.jp/lmsr/2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学実践研究レター&lt;/a&gt;, 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;渡邉陽太、川畑佑典、三浦達彦、池祐一、江間陽平、 剱持智哉、松原宰栄、米田剛、千葉優作、柏原崇人.
+&lt;a href=&#34;https://www.ms.u-tokyo.ac.jp/lmsr/pdf/2018-20.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;磁気流体緩和法の初期条件依存性 ∼磁力線形状とエネルギー∼&lt;/a&gt;.
+&lt;a href=&#34;https://www.ms.u-tokyo.ac.jp/lmsr/2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学実践研究レター&lt;/a&gt;, 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;non-reviewed-articles&#34;&gt;Non-reviewed articles&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;剱持智哉.
+&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2146-04.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Energy dissipative numerical schemes for gradient flows of planar curves&lt;/a&gt;.
+&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2146.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIMS講究録 No. 2146&lt;/a&gt;,
+RIMS共同研究 (公開型) 偏微分方程式の解の形状解析,
+京都大学数理解析研究所, 2020年.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;剱持智哉.
+&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2094-10.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Allen-Cahn方程式の数値解に対する漸近的な誤差解析&lt;/a&gt;.
+&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2094.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIMS講究録 No. 2094&lt;/a&gt;,
+RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanabe/WorkShop/RIMS2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数値解析学の最前線—理論・方法・応用—&lt;/a&gt;,
+京都大学数理解析研究所, 2018年.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;剱持智哉.
+&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1995-05.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;付着の影響のある基板上の薄膜の形状決定問題に関する数値解析&lt;/a&gt;.&lt;br&gt;
+&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/1995.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIMS講究録 No. 1995&lt;/a&gt;,
+&lt;a href=&#34;https://sites.google.com/site/rims2015na/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;現象解明に向けた数値解析学の新展開&lt;/a&gt;, 京都大学数理解析研究所, 2016年.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>リンク集</title>
+      <link>https://t-kemmochi.github.io/ja/links/</link>
+      <pubDate>Thu, 22 Aug 2019 15:27:59 +0900</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/links/</guid>
+      <description>&lt;h2 id=&#34;名古屋大学&#34;&gt;名古屋大学&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名古屋大学&lt;/a&gt; |
+&lt;a href=&#34;http://www.engg.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学院工学研究科&lt;/a&gt; |
+&lt;a href=&#34;http://www.ap.pse.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;応用物理学専攻&lt;/a&gt; |
+&lt;a href=&#34;http://na.nuap.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;張研究室&lt;/a&gt; |
+&lt;a href=&#34;https://zhang-lab-nagoya.esa.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;張研esa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://portal.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名大ポータル&lt;/a&gt; |
+&lt;a href=&#34;http://profs.provost.nagoya-u.ac.jp/view/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;教員DB&lt;/a&gt; |
+&lt;a href=&#34;https://opac.nul.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名大OPAC&lt;/a&gt; |
+&lt;a href=&#34;http://www.nul.nagoya-u.ac.jp/db/DBannai/ezproxy/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;学外から論文&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ct.nagoya-u.ac.jp/portal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NUCT&lt;/a&gt; |
+&lt;a href=&#34;http://www.icts.nagoya-u.ac.jp/ja/services/nuss/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NUSS&lt;/a&gt; |
+&lt;a href=&#34;https://ipdb.nagoya-u.ac.jp/ipdb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPDB&lt;/a&gt; |
+&lt;a href=&#34;https://vpn-portal.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VPN Portal&lt;/a&gt; |
+&lt;a href=&#34;https://na.nuap.nagoya-u.ac.jp:10443/wm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Webメール&lt;/a&gt; |
+&lt;a href=&#34;https://mailadmin.engg.nagoya-u.ac.jp:10443/postfixadmin/login.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;管理&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nucoop.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名大生協&lt;/a&gt; |
+&lt;a href=&#34;http://www.nucoop.jp/sales/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;購買部&lt;/a&gt; |
+&lt;a href=&#34;http://www.nucoop.jp/book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;書籍部&lt;/a&gt; |
+&lt;a href=&#34;http://www.nucoop.jp/travel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;旅行センター&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;科研費&#34;&gt;科研費&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www-shinsei.jsps.go.jp/kaken/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;科研費電子申請システム&lt;/a&gt; |
+&lt;a href=&#34;https://www.e-rad.go.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e-Rad&lt;/a&gt; |
+&lt;a href=&#34;https://researchmap.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt; |
+&lt;a href=&#34;https://www.jsps.go.jp/j-grantsinaid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;科研費&lt;/a&gt; |
+&lt;a href=&#34;https://kaken.nii.ac.jp/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KAKEN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;数学&#34;&gt;数学&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mathscinet.ams.org/mathscinet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathSciNet&lt;/a&gt; |
+&lt;a href=&#34;https://link.springer.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Springer Link&lt;/a&gt; |
+&lt;a href=&#34;https://www.jstor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSTOR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; |
+&lt;a href=&#34;https://arxiv.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; [&lt;a href=&#34;https://arxiv.org/login&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;login&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;英語&#34;&gt;英語&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://eowf.alc.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;英辞郎&lt;/a&gt; |
+&lt;a href=&#34;https://translate.google.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google 翻訳&lt;/a&gt; |
+&lt;a href=&#34;https://www.oed.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oxford English Dictionary (OED)&lt;/a&gt; |
+&lt;a href=&#34;https://hypcol.marutank.net/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hyper Collocation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;学会&#34;&gt;学会&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mathsoc.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本数学会&lt;/a&gt; |
+&lt;a href=&#34;https://app.mathsoc.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;アクティベーションシステム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本応用数理学会&lt;/a&gt; |
+&lt;a href=&#34;https://www2.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本応用数理学会2&lt;/a&gt; |
+&lt;a href=&#34;http://wakate.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;若手の会&lt;/a&gt; |
+&lt;a href=&#34;http://scna.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;科学技術計算と数値解析&lt;/a&gt; |
+&lt;a href=&#34;https://jom.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JOM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;プログラミング&#34;&gt;プログラミング&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://freefem.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FreeFEM&lt;/a&gt; |
+&lt;a href=&#34;https://julialang.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia&lt;/a&gt; |
+&lt;a href=&#34;https://matplotlib.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matplotlib&lt;/a&gt; |
+&lt;a href=&#34;https://fenicsproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FEniCS&lt;/a&gt; |
+&lt;a href=&#34;https://www.tug.org/texlive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TeX Live&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://texwiki.texjp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TeX Wiki&lt;/a&gt; |
+&lt;a href=&#34;https://qiita.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ツール&#34;&gt;ツール&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://scrapbox.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scrapbox&lt;/a&gt; |
+&lt;a href=&#34;https://www.wolframalpha.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WolframAlpha&lt;/a&gt; |
+&lt;a href=&#34;https://cloudlatex.io/ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloud LaTeX&lt;/a&gt; |
+&lt;a href=&#34;https://texclip.marutank.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TeXclip&lt;/a&gt; |
+&lt;a href=&#34;https://oku.edu.mie-u.ac.jp/~okumura/texonweb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TeXを使ってみよう&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://coolors.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Colors.co&lt;/a&gt; |
+&lt;a href=&#34;https://asada.website/webCVS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chromatic Vision Simulator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordcounter.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Word Counter&lt;/a&gt; |
+&lt;a href=&#34;http://www.nummoji.kenjisugimoto.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;なんもじ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;その他&#34;&gt;その他&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt; |
+&lt;a href=&#34;https://www.yamada-denkiweb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ヤマダ電機&lt;/a&gt; |
+&lt;a href=&#34;https://www.askul.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;アスクル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://travel.rakuten.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;楽天トラベル&lt;/a&gt; |
+&lt;a href=&#34;https://jp.hotels.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hotels.com&lt;/a&gt; |
+&lt;a href=&#34;https://www.expedia.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Expedia&lt;/a&gt; |
+&lt;a href=&#34;https://www.booking.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Booking.com&lt;/a&gt; |
+&lt;a href=&#34;https://www.google.com/travel/hotels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google ホテル検索&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ana.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANA&lt;/a&gt; |
+&lt;a href=&#34;https://www.jal.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JAL&lt;/a&gt; |
+&lt;a href=&#34;https://www.his-j.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;H.I.S.&lt;/a&gt; |
+&lt;a href=&#34;https://www.jtb.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JTB&lt;/a&gt; |
+&lt;a href=&#34;https://www.google.com/flights&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google フライト検索&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/h&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dropbox&lt;/a&gt; |
+&lt;a href=&#34;https://drive.google.com/drive/my-drive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://t-kemmochi.github.io/ja/research/</link>
+      <pubDate>Thu, 22 Aug 2019 15:27:52 +0900</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/research/</guid>
+      <description>&lt;h2 id=&#34;研究テーマ&#34;&gt;研究テーマ&lt;/h2&gt;
+&lt;p&gt;私 (剱持) の専門分野は偏微分方程式に対する有限要素法を中心とした数値解析です.
+主に, 楕円型方程式と放物型方程式を対象とし, 「元の偏微分方程式の持つ性質の離散的なアナロジーが成り立つかどうか」という点と,
+「成り立つのならば, それを(非線形)偏微分方程式の数値解に対する誤差評価などの解析に応用できないか」という点に興味を持って研究しています.
+その他, 弾性曲線に対する問題や, 流体に関する問題も扱っています.
+具体的な事例としては以下のテーマが挙げられます.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;楕円型方程式に対する離散最大値原理&lt;/li&gt;
+&lt;li&gt;放物型方程式に対する離散最大正則性&lt;/li&gt;
+&lt;li&gt;放物型半群の解析性の離散的アナロジー&lt;/li&gt;
+&lt;li&gt;離散最大正則性による, 半線形放物型方程式に対する有限要素法の誤差解析&lt;/li&gt;
+&lt;li&gt;勾配流方程式に対する構造保存数値解法&lt;/li&gt;
+&lt;li&gt;特殊な制約条件下での弾性曲線に対する変分問題に対する数値解析&lt;/li&gt;
+&lt;li&gt;hydrostatoc Stokes方程式に対する有限要素法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;研究活動&#34;&gt;研究活動&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://t-kemmochi.github.io/ja/publications/&#34;&gt;論文&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://t-kemmochi.github.io/ja/talks/&#34;&gt;口頭発表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;データベース&#34;&gt;データベース&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathSciNet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zbmath.org/authors/?q=ai:kemmochi.tomoya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zbMATH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://researchmap.jp/t-kemmochi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://t-kemmochi.github.io/ja/cv/</link>
+      <pubDate>Thu, 22 Aug 2019 11:22:51 +0900</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/cv/</guid>
+      <description>&lt;h2 id=&#34;現在&#34;&gt;現在&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名古屋大学&lt;/a&gt;
+&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/index-j.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学院工学研究科&lt;/a&gt;
+&lt;a href=&#34;http://www.ap.pse.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;応用物理学専攻&lt;/a&gt;
+量子物理工学講座
+&lt;a href=&#34;http://na.nuap.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理工学研究グループ 張研究室&lt;/a&gt;
+助教&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;所属学会&#34;&gt;所属学会&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mathsoc.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本数学会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本応用数理学会&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://scna.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;科学技術計算と数値解析&lt;/a&gt; &lt;a href=&#34;https://www2.jsiam.org/gp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;研究部会&lt;/a&gt; 運営協力者 (2019年5月～)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wakate.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;若手の会&lt;/a&gt; &lt;a href=&#34;https://www2.jsiam.org/gp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;研究部会&lt;/a&gt; 運営委員 (2019年7月～)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www2.jsiam.org/bjsiam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;学会誌「応用数理」&lt;/a&gt; 編集委員 (2020年4月～)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jsiaml.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;論文誌 JSIAM Letters&lt;/a&gt; 編集委員 (2021年4月～)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;履歴書&#34;&gt;履歴書&lt;/h2&gt;
+&lt;h3 id=&#34;経歴&#34;&gt;経歴&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;年月&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;経歴&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2009年4月～2013年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;東京大学理学部数学科&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2013年4月～2015年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;東京大学大学院数理科学研究科 修士課程 [指導教員: 齊藤宣一 准教授]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2015年4月～2018年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.u-tokyo.ac.jp/index_j.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;東京大学&lt;/a&gt;&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/index-j.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学院数理科学研究科&lt;/a&gt; 博士課程 修了 [指導教員: &lt;a href=&#34;http://www.infsup.jp/saito/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;齊藤宣一&lt;/a&gt; 教授]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2018年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;博士 (数理科学) [指導教員: 齊藤宣一 教授]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2018年4月～現在&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;名古屋大学大学院工学研究科 助教&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;フェローシップ&#34;&gt;フェローシップ&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;年月&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;経歴&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2014年9月～2018年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;東京大学 &lt;a href=&#34;http://fmsp.ms.u-tokyo.ac.jp/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数物フロンティア・リーディング大学院プログラム&lt;/a&gt; コース生 &lt;br&gt; [副指導教員: &lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/~labgiga/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;儀我美一&lt;/a&gt; 教授]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2015年4月～2018年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://www.jsps.go.jp/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本学術振興会特別研究員 DC1&lt;/a&gt; (課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15J07471/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15J07471&lt;/a&gt;) &lt;br&gt; [受入教員: 齊藤宣一 教授]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;外部資金&#34;&gt;外部資金&lt;/h3&gt;
+&lt;h4 id=&#34;研究代表者&#34;&gt;研究代表者&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;期間&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;獲得資金&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2015年4月～2018年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;科研費 	特別研究員奨励費 (課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15J07471/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15J07471&lt;/a&gt;) &lt;br&gt; 離散最大正則性とその有限要素法・有限体積法への応用&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2019年4月～2023年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;科研費 	若手研究 (課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K14590/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;19K14590&lt;/a&gt;) &lt;br&gt; 滑らかな領域における非線形偏微分方程式に対する有限要素法&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;研究分担者&#34;&gt;研究分担者&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;期間&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;獲得資金&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021年4月～2026年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;科研費 	基盤B (課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21H00990/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;21H00990&lt;/a&gt;) &lt;br&gt; 高階幾何学的勾配流における特異形状解析&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;受賞&#34;&gt;受賞&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;年月&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;受賞&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2015年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2014年度 東京大学&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学研究科長賞&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2017年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2016年度 &lt;a href=&#34;http://www.mathsoc.jp/publicity/appmath2016.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本数学会応用数学研究奨励賞&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2017年6月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://161.64.198.10/EASIAM/prizes.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student Paper Prize&lt;/a&gt; (second prize) at &lt;a href=&#34;http://conference.math.snu.ac.kr/index.php?mid=EASIAM2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EASIAM2017&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2018年3月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2017年度 東京大学&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学研究科長賞&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;データベース&#34;&gt;データベース&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathSciNet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zbmath.org/authors/?q=ai:kemmochi.tomoya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zbMATH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://researchmap.jp/t-kemmochi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>/ja/talks/</link>
-      <pubDate>Thu, 22 Aug 2019 17:20:06 +0900</pubDate>
-      <guid>/ja/talks/</guid>
+      <link>https://t-kemmochi.github.io/ja/talks/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/talks/</guid>
       <description>&lt;div class=&#34;publication&#34;&gt;
 &lt;h2 id=&#34;2021&#34;&gt;2021&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; 剱持智哉. 不連続Galerkin時間離散化手法による離散勾配法の高精度化. &lt;a href=&#34;https://www.math.kyoto-u.ac.jp/applied-math/kuams/records2021.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第83回 京大応用数学セミナー&lt;/a&gt;, オンライン, 2021年10月26日.&lt;/li&gt;
 &lt;li&gt;剱持智哉. 不連続Galerkin時間離散化手法による離散勾配法の高精度化. &lt;a href=&#34;https://annual2021.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;応用数理学会2021年度年会&lt;/a&gt;, オンライン, 2021年9月7&amp;ndash;9日. [発表: 9月9日]&lt;/li&gt;
 &lt;li&gt;剱持智哉. Cahn-Hilliard方程式に対して構造保存解法とアダプティブ有限要素法を両立させたい. &lt;a href=&#34;http://wakate.jsiam.org/?p=49&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第2回若手研究交流会&lt;/a&gt;, オンライン, 2021年9月6日.&lt;/li&gt;
 &lt;/ol&gt;
@@ -158,7 +775,7 @@ February 2nd, 2018.&lt;/li&gt;
 応用数学フレッシュマンセミナー, 京都大学理学部数学教室, 京都府京都市, 2017年11月11日.&lt;/li&gt;
 &lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt;
 剱持智哉. Allen-Cahn方程式の数値解に対する漸近的な誤差解析.
-&lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanabe/WorkShop/RIMS2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIMS研究集会「数値解析学の最前線 &amp;amp;mdash;理論・方法・応用&amp;amp;mdash;」&lt;/a&gt;,
+&lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanabe/WorkShop/RIMS2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIMS研究集会「数値解析学の最前線 &amp;mdash;理論・方法・応用&amp;mdash;」&lt;/a&gt;,
 京都大学数理解析研究所, 京都府京都市, 2017年11月8日&amp;ndash;10日. [講演: 9月9日]&lt;/li&gt;
 &lt;li&gt;剱持智哉. 放物型方程式に対する有限要素法の時間について一様な誤差評価.
 &lt;a href=&#34;http://mathsoc.jp/meeting/yamagata17sept/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本数学会2017年度秋季総合分科会&lt;/a&gt; (応用数学分科会),
@@ -268,451 +885,347 @@ T. Kemmochi, Numerical analysis on shapes of membranes on rippled surfaces with 
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/ja/publications/</link>
-      <pubDate>Thu, 22 Aug 2019 15:48:50 +0900</pubDate>
-      <guid>/ja/publications/</guid>
-      <description>&lt;div class=&#34;publication&#34;&gt;
-&lt;p&gt;Please see also
-&lt;a href=&#34;https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathSciNet&lt;/a&gt;,
-&lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;,
-&lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;, and
-&lt;a href=&#34;https://researchmap.jp/t-kemmochi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Tomoya Kemmochi and Shun Sato.
-&lt;strong&gt;Scalar auxiliary variable approach for conservative/dissipative partial differential equations with unbounded energy.&lt;/strong&gt;
-&lt;a href=&#34;https://arxiv.org/abs/2105.04055&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2105.04055&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Fuminori Tatsuoka, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang.
-&lt;strong&gt;Computing the matrix fractional power with the double exponential formula.&lt;/strong&gt;
-&lt;a href=&#34;https://arxiv.org/abs/2012.01667&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2012.01667&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;reviewed-articles&#34;&gt;Reviewed articles&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Yuki Satake, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang.
-&lt;strong&gt;On a transformation of the ∗-congruence Sylvester equation for the least squares optimization.&lt;/strong&gt;&lt;br&gt;
-Optim. Methods Softw.&lt;br&gt;
-DOI: &lt;a href=&#34;https://doi.org/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/10556788.2020.1734004&lt;/a&gt;&lt;br&gt;
-[&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Takahito Kashiwabara and Tomoya Kemmochi.
-&lt;strong&gt;Stability, analyticity, and maximal regularity for parabolic finite element problems on smooth domains.&lt;/strong&gt;&lt;br&gt;
-Math. Comp., vol. 89, pp. 1647-1679, 2020.&lt;br&gt;
-DOI: &lt;a href=&#34;https://doi.org/10.1090/mcom/3500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1090/mcom/3500&lt;/a&gt;&lt;br&gt;
-[&lt;a href=&#34;https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2020-03500-5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
-[&lt;a href=&#34;https://arxiv.org/abs/1805.01336&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
-[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4081914&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4081914&lt;/a&gt;]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Takahito Kashiwabara and Tomoya Kemmochi.
-&lt;strong&gt;Pointwise error estimates of linear finite element method for Neumann boundary value problems in a smooth domain.&lt;/strong&gt; &lt;br&gt;
-Numer. Math, vol. 144, pp. 553–-584, 2020.&lt;br&gt;
-DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s00211-019-01098-8&lt;/a&gt; &lt;br&gt;
-[&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
-[&lt;a href=&#34;https://arxiv.org/abs/1804.00390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
-[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4071825&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4071825&lt;/a&gt;]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Kosuke Nakano, Tomoya Kemmochi, Yuto Miyatake, Tomohiro Sogabe, and Siao-Liang Zhang.
-&lt;strong&gt;Modified Strang splitting for semilinear parabolic problems.&lt;/strong&gt; &lt;br&gt;
-JSIAM Letters, vol. 11, pp. 77&amp;ndash;80, 2019. &lt;br&gt;
-DOI: &lt;a href=&#34;https://doi.org/10.14495/jsiaml.11.77&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.14495/jsiaml.11.77&lt;/a&gt; &lt;br&gt;
-[&lt;a href=&#34;https://www.jstage.jst.go.jp/article/jsiaml/11/0/11_77/_article&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
-[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4047802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4047802&lt;/a&gt;]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tomoya Kemmochi.
-&lt;strong&gt;Numerical Analysis of the Allen-Cahn Equation with Coarse Meshes.&lt;/strong&gt;&lt;br&gt;
-J. Math. Res. Appl., vol. 39, no. 6, pp. 709&amp;ndash;717, 2019. &lt;br&gt;
-DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.3770/j.issn:2095-2651.2019.06.014&lt;/a&gt; &lt;br&gt;
-[&lt;a href=&#34;http://jmre.dlut.edu.cn/en/ch/reader/view_abstract.aspx?file_no=20190614&amp;amp;flag=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Yuki Satake, Masaya Oozawa, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang.
-&lt;strong&gt;Relation between the T-congruence Sylvester equation and the generalized Sylvester equation.&lt;/strong&gt; &lt;br&gt;
+      <title>2019-05-02</title>
+      <link>https://t-kemmochi.github.io/ja/news/2019-05-02/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2019-05-02/</guid>
+      <description>&lt;p&gt;論文が掲載されました: &lt;br&gt;
+Yuki Satake, Masaya Oozawa, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;br&gt;
+Relation between the T-congruence Sylvester equation and the generalized Sylvester equation. &lt;br&gt;
 Appl. Math. Lett., vol. 96, pp. 7&amp;ndash;13, 2019. &lt;br&gt;
 DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2019.04.007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.aml.2019.04.007&lt;/a&gt; &lt;br&gt;
 [&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0893965919301533&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
-[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3943431&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3943431&lt;/a&gt;]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tomoya Kemmochi.
-&lt;strong&gt;On the finite element approximation for non-stationary saddle-point problems.&lt;/strong&gt; &lt;br&gt;
-Japan J. Indust. Appl. Math., vol. 35. no. 2, pp. 423&amp;ndash;439, 2018. &lt;br&gt;
-DOI: &lt;a href=&#34;https://doi.org/10.1007/s13160-017-0293-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s13160-017-0293-5&lt;/a&gt; &lt;br&gt;
-[&lt;a href=&#34;http://rdcu.be/EetG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;]
-[&lt;a href=&#34;https://link.springer.com/article/10.1007/s13160-017-0293-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
-[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3816236&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3816236&lt;/a&gt;]
-[&lt;a href=&#34;https://arxiv.org/abs/1709.00723&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tomoya Kemmochi.
-&lt;strong&gt;Numerical analysis of elastica with obstacle and adhesion effects.&lt;/strong&gt; &lt;br&gt;
-Appl. Anal., vol. 98, no. 6, pp. 1085&amp;ndash;1103, 2019. &lt;br&gt;
-DOI: &lt;a href=&#34;https://doi.org/10.1080/00036811.2017.1416100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/00036811.2017.1416100&lt;/a&gt; &lt;br&gt;
-[&lt;a href=&#34;http://www.tandfonline.com/doi/full/10.1080/00036811.2017.1416100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
-[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3923026&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3923026&lt;/a&gt;]
-[&lt;a href=&#34;https://arxiv.org/abs/1604.03400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tomoya Kemmochi and Norikazu Saito.
-&lt;strong&gt;Discrete maximal regularity and the finite element method for parabolic equations.&lt;/strong&gt; &lt;br&gt;
-Numer. Math., vol. 138, no. 4, pp. 905&amp;ndash;937.  &lt;br&gt;
-DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-017-0929-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s00211-017-0929-z&lt;/a&gt; &lt;br&gt;
-[&lt;a href=&#34;http://rdcu.be/yxsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;]
-[&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-017-0929-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
-[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3778340&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3778340&lt;/a&gt;]
-[&lt;a href=&#34;https://zbmath.org/?q=an:06858661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 06858661&lt;/a&gt;]
-[&lt;a href=&#34;https://arxiv.org/abs/1602.06864&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tomoya Kemmochi.
-&lt;strong&gt;Energy dissipative numerical schemes for gradient flows of planar curves.&lt;/strong&gt; &lt;br&gt;
-BIT Numer. Math., vol. 57, no. 4, pp. 991&amp;ndash;1017, 2017. &lt;br&gt;
-DOI: &lt;a href=&#34;https://doi.org/10.1007/s10543-017-0685-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s10543-017-0685-6&lt;/a&gt; &lt;br&gt;
-[&lt;a href=&#34;https://www.youtube.com/playlist?list=PLMF3dSqWEii69loXvCtgDCI4PYijq_4L3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Movies&lt;/a&gt;]
-[&lt;a href=&#34;http://rdcu.be/wgXm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;]
-[&lt;a href=&#34;https://link.springer.com/article/10.1007/s10543-017-0685-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
-[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3735998&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3735998&lt;/a&gt;]
-[&lt;a href=&#34;https://zbmath.org/?q=an:1380.65036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1380.65036&lt;/a&gt;]
-[&lt;a href=&#34;https://arxiv.org/abs/1610.03014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tomoya Kemmochi.
-&lt;strong&gt;Discrete maximal regularity for abstract Cauchy problems.&lt;/strong&gt; &lt;br&gt;
-Studia Math., vol. 234, no. 3, pp. 241&amp;ndash;263, 2016. &lt;br&gt;
-DOI: &lt;a href=&#34;http://doi.org/10.4064/sm8495-7-2016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.4064/sm8495-7-2016&lt;/a&gt; &lt;br&gt;
-[&lt;a href=&#34;/pdf/dmr_acp_2016.pdf&#34; target=&#34;_blank&#34;&gt;On-line first version&lt;/a&gt;]
-[&lt;a href=&#34;https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/234/3/91729/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
-[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3549514&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3549514&lt;/a&gt;]
-[&lt;a href=&#34;https://www.zbmath.org/?q=an:1359.65082&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1359.65082&lt;/a&gt;]
-[&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/preprint/pdf/2015-6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;]&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;reviewed-articles-in-japanese&#34;&gt;Reviewed articles in Japanese&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;川畑佑典、三浦達彦、渡邉陽太、池祐一、江間陽平、 剱持智哉、松原宰栄、米田剛、千葉優作、柏原崇人.
-&lt;a href=&#34;https://www.ms.u-tokyo.ac.jp/lmsr/pdf/2018-10.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;磁気流体緩和法の初期条件依存性 ∼force-free alphaの空間分布∼&lt;/a&gt;.
-&lt;a href=&#34;https://www.ms.u-tokyo.ac.jp/lmsr/2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学実践研究レター&lt;/a&gt;, 2018.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;渡邉陽太、川畑佑典、三浦達彦、池祐一、江間陽平、 剱持智哉、松原宰栄、米田剛、千葉優作、柏原崇人.
-&lt;a href=&#34;https://www.ms.u-tokyo.ac.jp/lmsr/pdf/2018-20.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;磁気流体緩和法の初期条件依存性 ∼磁力線形状とエネルギー∼&lt;/a&gt;.
-&lt;a href=&#34;https://www.ms.u-tokyo.ac.jp/lmsr/2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学実践研究レター&lt;/a&gt;, 2018.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;non-reviewed-articles&#34;&gt;Non-reviewed articles&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;剱持智哉.
-&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2146-04.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Energy dissipative numerical schemes for gradient flows of planar curves&lt;/a&gt;.
-&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2146.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIMS講究録 No. 2146&lt;/a&gt;,
-RIMS共同研究 (公開型) 偏微分方程式の解の形状解析,
-京都大学数理解析研究所, 2020年.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;剱持智哉.
-&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2094-10.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Allen-Cahn方程式の数値解に対する漸近的な誤差解析&lt;/a&gt;.
-&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2094.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIMS講究録 No. 2094&lt;/a&gt;,
-RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanabe/WorkShop/RIMS2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数値解析学の最前線—理論・方法・応用—&lt;/a&gt;,
-京都大学数理解析研究所, 2018年.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;剱持智哉.
-&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1995-05.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;付着の影響のある基板上の薄膜の形状決定問題に関する数値解析&lt;/a&gt;.&lt;br&gt;
-&lt;a href=&#34;http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/1995.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIMS講究録 No. 1995&lt;/a&gt;,
-&lt;a href=&#34;https://sites.google.com/site/rims2015na/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;現象解明に向けた数値解析学の新展開&lt;/a&gt;, 京都大学数理解析研究所, 2016年.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</description>
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3943431&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3943431&lt;/a&gt;]&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>リンク集</title>
-      <link>/ja/link/</link>
-      <pubDate>Thu, 22 Aug 2019 15:27:59 +0900</pubDate>
-      <guid>/ja/link/</guid>
-      <description>&lt;h2 id=&#34;名古屋大学&#34;&gt;名古屋大学&lt;/h2&gt;
+      <title>2019-04-01</title>
+      <link>https://t-kemmochi.github.io/ja/news/2019-04-01/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2019-04-01/</guid>
+      <description>&lt;p&gt;科研費に採択していただきました:&lt;br&gt;
+若手研究 「滑らかな領域における非線形偏微分方程式に対する有限要素法」 (研究代表者: 剱持智哉)&lt;br&gt;
+課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K14590/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;19K14590&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>滑らかな領域における非線形偏微分方程式に対する有限要素法</title>
+      <link>https://t-kemmochi.github.io/ja/project/fem-smooth/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/project/fem-smooth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018-04-01</title>
+      <link>https://t-kemmochi.github.io/ja/news/2018-04-01/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2018-04-01/</guid>
+      <description>&lt;p&gt;本日より, 名古屋大学工学部の助教に着任しました.
+今後ともよろしくお願いいたいします.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2018-03-23</title>
+      <link>https://t-kemmochi.github.io/ja/news/2018-03-23/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2018-03-23/</guid>
+      <description>&lt;p&gt;おかげさまで, &lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学研究科長賞&lt;/a&gt;を受賞しました.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2018-01-06</title>
+      <link>https://t-kemmochi.github.io/ja/news/2018-01-06/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2018-01-06/</guid>
+      <description>&lt;p&gt;論文が出版されました:&lt;/p&gt;
+&lt;p&gt;T. Kemmochi.
+On the finite element approximation for non-stationary saddle-point problems.&lt;br&gt;
+Japan J. Indust. Appl. Math., vol. 35, no. 2, pp. 423&amp;ndash;439, 2018.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;http://rdcu.be/EetG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/article/10.1007/s13160-017-0293-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017-12-21</title>
+      <link>https://t-kemmochi.github.io/ja/news/2017-12-21/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2017-12-21/</guid>
+      <description>&lt;p&gt;論文が出版されました:&lt;/p&gt;
+&lt;p&gt;T. Kemmochi.
+Numerical analysis of elastica with obstacle and adhesion effects.&lt;br&gt;
+Appl. Anal., vol. 98, no. 6, 2019.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;http://www.tandfonline.com/doi/full/10.1080/00036811.2017.1416100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017-11-15</title>
+      <link>https://t-kemmochi.github.io/ja/news/2017-11-15/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2017-11-15/</guid>
+      <description>&lt;p&gt;論文が出版されました:&lt;/p&gt;
+&lt;p&gt;T. Kemmochi and N. Saito.
+Discrete maximal regularity and the finite element method for parabolic equations.&lt;br&gt;
+Numer. Math., vol. 138, no. 4, pp. 905&amp;ndash;937, 2018.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;http://rdcu.be/yxsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-017-0929-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;] [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3778340&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3778340&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017-09-27</title>
+      <link>https://t-kemmochi.github.io/ja/news/2017-09-27/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2017-09-27/</guid>
+      <description>&lt;p&gt;論文が出版されました:&lt;/p&gt;
+&lt;p&gt;T. Kemmochi. Energy dissipative numerical schemes for gradient flows of planar curves.&lt;br&gt;
+BIT Numer. Math., vol. 57, no. 4, pp. 991&amp;ndash;1017, 2017.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;https://www.youtube.com/playlist?list=PLMF3dSqWEii69loXvCtgDCI4PYijq_4L3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Movies&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/epdf/10.1007/s10543-017-0685-6?author_access_token=BcnkNUjSRwbsWEWCmvz7xPe4RwlQNchNByi7wbcMAY4_46Qp10PqUOmZIG6Mnwmgw--aejRu1hBBjlLCrLwe2HGr8_Z88NkIjurTYeSDH5-iP-IyCZl9YrNKDd3eaPn0J1RYYE_sAtLRXuSztxJXoA%3D%3D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/article/10.1007/s10543-017-0685-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017-06-23</title>
+      <link>https://t-kemmochi.github.io/ja/news/2017-06-23/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2017-06-23/</guid>
+      <description>&lt;p&gt;おかげさまで, &lt;a href=&#34;http://conference.math.snu.ac.kr/index.php?mid=EASIAM2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EASIAM2017&lt;/a&gt; にて, &lt;a href=&#34;http://161.64.198.10/EASIAM/prizes.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student Paper Prize&lt;/a&gt; (second prize) を受賞しました.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>英語の発音について</title>
+      <link>https://t-kemmochi.github.io/ja/memo/english-pronunciation/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/memo/english-pronunciation/</guid>
+      <description>&lt;p&gt;英語での講演の準備中に自分が気をつけるべきだと思った単語, 他人の講演を聞いていて「あっ」って思った単語などのまとめ.&lt;/p&gt;
+&lt;p&gt;随時更新.&lt;/p&gt;
+&lt;p&gt;参考にしたもの:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名古屋大学&lt;/a&gt; |
-&lt;a href=&#34;http://www.engg.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学院工学研究科&lt;/a&gt; |
-&lt;a href=&#34;http://www.ap.pse.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;応用物理学専攻&lt;/a&gt; |
-&lt;a href=&#34;http://na.nuap.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;張研究室&lt;/a&gt; |
-&lt;a href=&#34;https://zhang-lab-nagoya.esa.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;張研esa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://portal.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名大ポータル&lt;/a&gt; |
-&lt;a href=&#34;http://profs.provost.nagoya-u.ac.jp/view/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;教員DB&lt;/a&gt; |
-&lt;a href=&#34;https://opac.nul.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名大OPAC&lt;/a&gt; |
-&lt;a href=&#34;http://www.nul.nagoya-u.ac.jp/db/DBannai/ezproxy/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;学外から論文&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ct.nagoya-u.ac.jp/portal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NUCT&lt;/a&gt; |
-&lt;a href=&#34;http://www.icts.nagoya-u.ac.jp/ja/services/nuss/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NUSS&lt;/a&gt; |
-&lt;a href=&#34;https://ipdb.nagoya-u.ac.jp/ipdb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPDB&lt;/a&gt; |
-&lt;a href=&#34;https://vpn-portal.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VPN Portal&lt;/a&gt; |
-&lt;a href=&#34;https://na.nuap.nagoya-u.ac.jp:10443/wm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Webメール&lt;/a&gt; |
-&lt;a href=&#34;https://mailadmin.engg.nagoya-u.ac.jp:10443/postfixadmin/login.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;管理&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nucoop.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名大生協&lt;/a&gt; |
-&lt;a href=&#34;http://www.nucoop.jp/sales/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;購買部&lt;/a&gt; |
-&lt;a href=&#34;http://www.nucoop.jp/book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;書籍部&lt;/a&gt; |
-&lt;a href=&#34;http://www.nucoop.jp/travel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;旅行センター&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ejje.weblio.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weblio英和辞典・和英辞典&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eowf.alc.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;英辞郎&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oed.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oxford English Dictionary&lt;/a&gt; (名大内からアクセス可)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;科研費&#34;&gt;科研費&lt;/h2&gt;
+&lt;h2 id=&#34;単語のリスト&#34;&gt;単語のリスト&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://t-kemmochi.github.io/pdf/pronunciation.pdf&#34; target=&#34;_blank&#34;&gt;pdfファイル&lt;/a&gt;を参照.&lt;/p&gt;
+&lt;h2 id=&#34;要注意ポイント&#34;&gt;要注意ポイント&lt;/h2&gt;
+&lt;h3 id=&#34;カタカナ発音が定着している単語&#34;&gt;カタカナ発音が定着している単語&lt;/h3&gt;
+&lt;p&gt;「レゾルベント」「ゼロ」はともかく, 「スカラー」「マトリックス」「グラディエント」「カオス」辺りはなんでその読み方が定着しちゃったんだって思うレベルで発音が違うので要注意.
+正直これらの日本語は使うのをやめるべきなのでは&amp;hellip;? とさえ思う.
+「カオス」は形容詞になるとアクセントも変わるから厄介.&lt;/p&gt;
+&lt;h3 id=&#34;ギリシャ文字&#34;&gt;ギリシャ文字&lt;/h3&gt;
+&lt;p&gt;これは1つの文字でもいくつか発音がある場合があって判断に困る.
+でも, $\iota$は「イオタ」とは読まないようだ.
+ただし, 実際のギリシャ語の発音は知らない.&lt;/p&gt;
+&lt;h3 id=&#34;母音の発音&#34;&gt;母音の発音&lt;/h3&gt;
+&lt;p&gt;英語ではaは「エイ」, iは「アイ」, eは「イ」と発音することがあるので, 迂闊なローマ字読みは注意が必要.
+カタカナ発音やその他の要注意単語は大抵これ.&lt;/p&gt;
+&lt;h2 id=&#34;なぜ発音に気をつける必要があるか&#34;&gt;なぜ発音に気をつける必要があるか?&lt;/h2&gt;
+&lt;p&gt;正しい発音ができなくても相手が察してくれるからあまり気にしなくても良い(そこまでストイックになる必要はない)という意見があるかもしれない.
+自分も別に日本語的な発音(カタカナ的な発音)であること自体は問題ないと思うが,
+日本人が聞いても違うとわかるような発音(例えば「マトリックス」)は避けるべきだと思う.
+そう考える理由は2つあって,&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www-shinsei.jsps.go.jp/kaken/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;科研費電子申請システム&lt;/a&gt; |
-&lt;a href=&#34;https://www.e-rad.go.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e-Rad&lt;/a&gt; |
-&lt;a href=&#34;https://researchmap.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt; |
-&lt;a href=&#34;https://www.jsps.go.jp/j-grantsinaid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;科研費&lt;/a&gt; |
-&lt;a href=&#34;https://kaken.nii.ac.jp/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KAKEN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;自分の意図していることが正しく伝わらないおそれがある&lt;/li&gt;
+&lt;li&gt;人の発音を聞き取れない可能性がある&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;数学&#34;&gt;数学&lt;/h2&gt;
+&lt;p&gt;から.
+特に後者は重要だと思っていて, 「自分が発音できない単語は聞き取れない」と思うから (これは高校時代の英語教師の言葉) である.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>文章を書く時に気をつけたいこと</title>
+      <link>https://t-kemmochi.github.io/ja/memo/writing-articles/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/memo/writing-articles/</guid>
+      <description>&lt;p&gt;主に研究に関する文章の話. 言語は問わない. 特に, 論文/講演/書類について.&lt;/p&gt;
+&lt;p&gt;これは本当に雑多なメモであり独り言である.
+ここに書かれている文章がここに書かれている注意点を必ずしも守っているというわけではない.&lt;/p&gt;
+&lt;h2 id=&#34;タイトル&#34;&gt;タイトル&lt;/h2&gt;
+&lt;p&gt;講演にせよ論文にせよ書類にせよ, タイトルはある程度短い方が良いだろう.
+あまりタイトルを具体的にしすぎても, 内容に明るくない人には伝わらないだろう.
+いくつか主要なキーワードを抜粋して繋げれば良く, 内容すべてを書く必要は無い.
+自分は結構タイトルを長くしがちなので注意.&lt;/p&gt;
+&lt;h2 id=&#34;読者を想定する&#34;&gt;読者を想定する&lt;/h2&gt;
+&lt;p&gt;当たり前のことだけど, 自分は割と忘れがちなので, ちゃんと意識するために書いておく.
+論文は近い分野の専門家が読むと想定していいだろう.
+研究集会の講演は会の趣旨に依るから自分で判断できなければ主催者や経験者に聞くのが良いだろう.
+科研費などの書類が一番大事で, 自分の分野ならば数値解析を専門としない偏微分方程式の専門家の人を想定すると良いだろう.&lt;/p&gt;
+&lt;h2 id=&#34;主語述語係り受け時制&#34;&gt;主語述語/係り受け/時制&lt;/h2&gt;
+&lt;p&gt;これも当たり前すぎるけどあんまり意識しないで書いたり何度も修正したりしている内にうやむやになってしまいがちなので注意.&lt;/p&gt;
+&lt;h2 id=&#34;モチベーション&#34;&gt;モチベーション&lt;/h2&gt;
+&lt;p&gt;これは難しい.
+自分はよく「○○という性質の離散的なアナロジーを考えて応用する」みたいなことを書くが, これでは弱い.
+「なぜ離散的なアナロジーを考えるか?」まで踏み込んで述べないと説得力が出ないと思う.
+(数学的な興味で, というのはもちろんそうなのだけど, より説得力の強い文章を書けたほうが何かと心強いだろう.)
+こういうのは他人から指摘されるか他人の文章を読むことでしか身につかないと思うから厄介.&lt;/p&gt;
+&lt;p&gt;講演や論文の場合は, 「モチベーションに対してどの程度貢献したか」をちゃんと述べる必要があると思う.
+そうしないと, 読者からすれば「最初に言ってたモチベーションはどうなったの?」となってしまう.
+あまり到達度が高くないのであれば, そのことは正直に述べるべきだし, そもそも到達するまでに時間がかかる (あるいは, 不可能に近い) のであれば, モチベーションそのものを見直すべきだろう.
+書類であればある程度大げさに書いても良いだろうけど, 講演で同じような書き方をすべきではないと思う.&lt;/p&gt;
+&lt;h2 id=&#34;差別化をする&#34;&gt;差別化をする&lt;/h2&gt;
+&lt;p&gt;これも研究をする上で当たり前のことだけど, 自分の研究の「ウリは何か?」をはっきりさせなければならない.&lt;/p&gt;
+&lt;h2 id=&#34;先行研究へのリスペクト&#34;&gt;先行研究へのリスペクト&lt;/h2&gt;
+&lt;p&gt;これは最近 (2017年4月末) に指摘されたこと.
+自分はよく, 先行研究を挙げた後に, 「こういうところがダメ」みたいに, 先行研究に対してネガティブな書き方をすることが多かった.
+でも, そもそも先行研究があってこその自分の研究なのだから, もっとリスペクトすべきだろう.
+例えば, 「こういう先行研究があり, 理論が発展してきたが, こういう課題が残されていて, そういう状況で自分はこういうことをした.」みたいに書けると良いのかなと思う.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2017-03-23</title>
+      <link>https://t-kemmochi.github.io/ja/news/2017-03-23/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2017-03-23/</guid>
+      <description>&lt;p&gt;おかげさまで, 2016年度 &lt;a href=&#34;http://www.mathsoc.jp/publicity/appmath2016.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本数学会応用数学研究奨励賞&lt;/a&gt; を受賞しました.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Windows10でWi-Fiの優先順位を変更</title>
+      <link>https://t-kemmochi.github.io/ja/memo/windows-wifi-priority/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/memo/windows-wifi-priority/</guid>
+      <description>&lt;p&gt;Powershellなどで&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;netsh wlan set profileorder name=&amp;quot;ネットワーク名&amp;quot; interface=&amp;quot;Wi-Fi&amp;quot; priority=数字
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;とする. priorityは数字が若い方が優先順位が高い.&lt;/p&gt;
+&lt;p&gt;他には&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;netsh wlan show profiles
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;でネットワークの一覧を取得,&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;netsh wlan delete profile &amp;quot;ネットワーク名&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;でネットワークの削除,&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;netsh wlan ?
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;などでヘルプの表示.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>英文校正業者</title>
+      <link>https://t-kemmochi.github.io/ja/memo/english-proofing-company/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/memo/english-proofing-company/</guid>
+      <description>&lt;p&gt;英文校正利用したことのある業者のメモ. 利用順.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.forte-science.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;フォルテ&lt;/a&gt;. 料金は約48000円. tex入稿で校正後もtex.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.enago.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;エナゴ&lt;/a&gt;. 料金は約55000円. tex入稿で校正後もtex.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fastekjapan.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ファーステック&lt;/a&gt;. 料金は約67000円. tex入稿で校正後もtex. なぜかsinceが全てbecauseに直されていた&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.editage.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;エディテージ&lt;/a&gt;. 料金は約45000円. 校正後のファイルはMS Word.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;存在を知っている業者.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://mathscinet.ams.org/mathscinet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathSciNet&lt;/a&gt; |
-&lt;a href=&#34;https://link.springer.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Springer Link&lt;/a&gt; |
-&lt;a href=&#34;https://www.jstor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSTOR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; |
-&lt;a href=&#34;https://arxiv.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; [&lt;a href=&#34;https://arxiv.org/login&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;login&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.scientific-language.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientific Language&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;英語&#34;&gt;英語&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Darmstadt滞在の記録</title>
+      <link>https://t-kemmochi.github.io/ja/memo/darmstadt-2016/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/memo/darmstadt-2016/</guid>
+      <description>&lt;h2 id=&#34;基本情報&#34;&gt;基本情報&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://eowf.alc.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;英辞郎&lt;/a&gt; |
-&lt;a href=&#34;https://translate.google.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google 翻訳&lt;/a&gt; |
-&lt;a href=&#34;https://www.oed.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oxford English Dictionary (OED)&lt;/a&gt; |
-&lt;a href=&#34;https://hypcol.marutank.net/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hyper Collocation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;期間: 2016年10月13日&amp;ndash;2016年12月10日&lt;/li&gt;
+&lt;li&gt;受入教員: &lt;a href=&#34;http://www3.mathematik.tu-darmstadt.de/index.php?id=1727&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matthias Hieber&lt;/a&gt;教授&lt;/li&gt;
+&lt;li&gt;プロジェクト: 早稲田大学 &lt;a href=&#34;http://www.japan-germany.sci.waseda.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日独共同大学院プログラム 「流体数学」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ドイツ側のプロジェクト: &lt;a href=&#34;http://www.mathematik.tu-darmstadt.de/~igk/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IRTG 1529 Mathematical Fluid Dynamics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jom.jsiam.org/14788&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JOMへ寄稿した滞在記&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;学会&#34;&gt;学会&lt;/h2&gt;
+&lt;h2 id=&#34;seminars-and-conferences&#34;&gt;Seminars and conferences&lt;/h2&gt;
+&lt;h3 id=&#34;irtg-seminars&#34;&gt;IRTG seminars&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mathematik.tu-darmstadt.de/~igk/seminars.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IRTG seminar&lt;/a&gt; was held on every Thursday.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Oct. 27, 2016: Naoto Kajiwara (University of Tokyo).&lt;br&gt;
+On a resolvent estimate for bidomain operators.&lt;/li&gt;
+&lt;li&gt;Oct. 27, 2016: Tomoya Kemmochi (University of Tokyo).&lt;br&gt;
+Discrete maximal regularity and its application to the finite element method.&lt;/li&gt;
+&lt;li&gt;Nov. 03, 2016: Andreas Schmidt (Universität Regensburg).&lt;br&gt;
+Parabolische Differentialgleichungen auf Mannigfaltigkeiten mit dynamischen Randbedingungen.&lt;br&gt;
+[Parabolic equations on manifolds with dynamic boundary conditions]&lt;/li&gt;
+&lt;li&gt;Nov. 03, 2016: Shota Enomoto (Kyushu University).&lt;br&gt;
+The stability of space-time periodic solution to the compressible Navier-Stokes equation.&lt;/li&gt;
+&lt;li&gt;Nov. 10, 2016: Elfriede Friedmann (Universität Heidelberg).&lt;br&gt;
+PDE based tools for mathematical models in Cell Biology.&lt;/li&gt;
+&lt;li&gt;Nov. 17, 2016: Jonas Sauer (Max-Planck-Institut Leipzig).&lt;br&gt;
+The Initial Value Problem for Quasilinear SPDEs.&lt;/li&gt;
+&lt;li&gt;Nov. 24, 2016: Timofey Shilkin (V.A.Steklov Mathematical Institute, St.-Petersburg).&lt;br&gt;
+On the local properties of weak solutions to elliptic equations with divergent-free drift.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;the-13th-japanese-german-international-workshop-on-mathematical-fluid-dynamics&#34;&gt;The 13th Japanese-German International Workshop on Mathematical Fluid Dynamics&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mathematik.tu-darmstadt.de/~igk/japanesegermanworkshop2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web site&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;持ち物について&#34;&gt;持ち物について&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://mathsoc.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本数学会&lt;/a&gt; |
-&lt;a href=&#34;https://app.mathsoc.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;アクティベーションシステム&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本応用数理学会&lt;/a&gt; |
-&lt;a href=&#34;https://www2.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本応用数理学会2&lt;/a&gt; |
-&lt;a href=&#34;http://wakate.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;若手の会&lt;/a&gt; |
-&lt;a href=&#34;http://scna.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;科学技術計算と数値解析&lt;/a&gt; |
-&lt;a href=&#34;https://jom.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JOM&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;プログラミング&#34;&gt;プログラミング&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://freefem.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FreeFEM&lt;/a&gt; |
-&lt;a href=&#34;https://julialang.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia&lt;/a&gt; |
-&lt;a href=&#34;https://matplotlib.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matplotlib&lt;/a&gt; |
-&lt;a href=&#34;https://fenicsproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FEniCS&lt;/a&gt; |
-&lt;a href=&#34;https://www.tug.org/texlive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TeX Live&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://texwiki.texjp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TeX Wiki&lt;/a&gt; |
-&lt;a href=&#34;https://qiita.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qiita&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;ツール&#34;&gt;ツール&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://scrapbox.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scrapbox&lt;/a&gt; |
-&lt;a href=&#34;https://www.wolframalpha.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WolframAlpha&lt;/a&gt; |
-&lt;a href=&#34;https://cloudlatex.io/ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloud LaTeX&lt;/a&gt; |
-&lt;a href=&#34;https://texclip.marutank.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TeXclip&lt;/a&gt; |
-&lt;a href=&#34;https://oku.edu.mie-u.ac.jp/~okumura/texonweb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TeXを使ってみよう&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://coolors.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Colors.co&lt;/a&gt; |
-&lt;a href=&#34;https://asada.website/webCVS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chromatic Vision Simulator&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wordcounter.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Word Counter&lt;/a&gt; |
-&lt;a href=&#34;http://www.nummoji.kenjisugimoto.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;なんもじ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;持って行った方が良いと思ったもの: 爪切り, 箸, 菜箸, インターネットバンキング, 小銭入れの大きい財布 (硬貨の種類が多い)&lt;/li&gt;
+&lt;li&gt;持って行って正解だったもの: スリッパ, 綿棒, 手提げ袋, 大きな袋, 電源タップ&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;その他&#34;&gt;その他&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt; |
-&lt;a href=&#34;https://www.yamada-denkiweb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ヤマダ電機&lt;/a&gt; |
-&lt;a href=&#34;https://www.askul.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;アスクル&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://travel.rakuten.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;楽天トラベル&lt;/a&gt; |
-&lt;a href=&#34;https://jp.hotels.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hotels.com&lt;/a&gt; |
-&lt;a href=&#34;https://www.expedia.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Expedia&lt;/a&gt; |
-&lt;a href=&#34;https://www.booking.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Booking.com&lt;/a&gt; |
-&lt;a href=&#34;https://www.google.com/travel/hotels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google ホテル検索&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ana.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANA&lt;/a&gt; |
-&lt;a href=&#34;https://www.jal.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JAL&lt;/a&gt; |
-&lt;a href=&#34;https://www.his-j.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;H.I.S.&lt;/a&gt; |
-&lt;a href=&#34;https://www.jtb.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JTB&lt;/a&gt; |
-&lt;a href=&#34;https://www.google.com/flights&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google フライト検索&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/h&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dropbox&lt;/a&gt; |
-&lt;a href=&#34;https://drive.google.com/drive/my-drive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;フランクフルトで小さな傷害事件があったが, よくあることらしい.&lt;/li&gt;
+&lt;li&gt;ダルムシュタットの観光地: マチルダの丘 くらい&amp;hellip;&lt;/li&gt;
+&lt;li&gt;バスとトラム(路面電車)と電車は, チケットを見せる制度ではなく改札もないが, たまにチェックされて, そのときにチケットがないと60ユーロの罰金になる.&lt;/li&gt;
+&lt;li&gt;料金制度は, ある程度広いエリアが設定されていて, そのエリア内なら定額.
+1日券, 1週間券, 1ヶ月券や, グループチケットなどがある.&lt;/li&gt;
+&lt;li&gt;スーパーマーケットは, 多くの場合, 入ったら買わないと出られない.
+また, レジはコンベアのようになっていて, 自分で商品を置く.
+全ておいたら, 仕切りを置く.
+すると, レジの人が仕切りを取ると, 次の仕切りが来るまでコンベアが動き続ける.
+また, 量り売りの野菜は, 店によっては自分で測ってレシートを持っていく必要があるらしい.
+REWEではレジで測ってもらえるのでその必要はない.&lt;/li&gt;
+&lt;li&gt;ドイツでは日曜日にはほとんどの店が閉まる.
+駅に行けばスーパーが開いているが, 少し高いらしい.&lt;/li&gt;
+&lt;li&gt;日独のプログラムで滞在する学生は, これまではPrintz Heinrichというホテルの所有する?アパートに滞在していたらしいのだが, なぜか自分(と同行者のK氏)はゲストハウスに滞在することになった.&lt;/li&gt;
+&lt;li&gt;ゲストハウスへのリンク&lt;/li&gt;
+&lt;li&gt;予約の仕方.&lt;/li&gt;
+&lt;li&gt;家賃の支払いでモメた話.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Research</title>
-      <link>/ja/research/</link>
-      <pubDate>Thu, 22 Aug 2019 15:27:52 +0900</pubDate>
-      <guid>/ja/research/</guid>
-      <description>&lt;h2 id=&#34;研究テーマ&#34;&gt;研究テーマ&lt;/h2&gt;
-&lt;p&gt;私 (剱持) の専門分野は偏微分方程式に対する有限要素法を中心とした数値解析です.
-主に, 楕円型方程式と放物型方程式を対象とし, 「元の偏微分方程式の持つ性質の離散的なアナロジーが成り立つかどうか」という点と,
-「成り立つのならば, それを(非線形)偏微分方程式の数値解に対する誤差評価などの解析に応用できないか」という点に興味を持って研究しています.
-その他, 弾性曲線に対する問題や, 流体に関する問題も扱っています.
-具体的な事例としては以下のテーマが挙げられます.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;楕円型方程式に対する離散最大値原理&lt;/li&gt;
-&lt;li&gt;放物型方程式に対する離散最大正則性&lt;/li&gt;
-&lt;li&gt;放物型半群の解析性の離散的アナロジー&lt;/li&gt;
-&lt;li&gt;離散最大正則性による, 半線形放物型方程式に対する有限要素法の誤差解析&lt;/li&gt;
-&lt;li&gt;勾配流方程式に対する構造保存数値解法&lt;/li&gt;
-&lt;li&gt;特殊な制約条件下での弾性曲線に対する変分問題に対する数値解析&lt;/li&gt;
-&lt;li&gt;hydrostatoc Stokes方程式に対する有限要素法&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;研究活動&#34;&gt;研究活動&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/ja/publications/&#34;&gt;論文&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/ja/talks/&#34;&gt;口頭発表&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;データベース&#34;&gt;データベース&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathSciNet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.zbmath.org/authors/?q=ai:kemmochi.tomoya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zbMATH&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://researchmap.jp/t-kemmochi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <title>2016-10-13</title>
+      <link>https://t-kemmochi.github.io/ja/news/2016-10-13/</link>
+      <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2016-10-13/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.tu-darmstadt.de/index.en.jsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Darmstadt工科大学&lt;/a&gt;に中期滞在します.&lt;br&gt;
+滞在期間: 2016年10月13日 &amp;ndash; 12月10日&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Curriculum Vitae</title>
-      <link>/ja/cv/</link>
-      <pubDate>Thu, 22 Aug 2019 11:22:51 +0900</pubDate>
-      <guid>/ja/cv/</guid>
-      <description>&lt;h2 id=&#34;現在&#34;&gt;現在&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名古屋大学&lt;/a&gt;
-&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/index-j.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学院工学研究科&lt;/a&gt;
-&lt;a href=&#34;http://www.ap.pse.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;応用物理学専攻&lt;/a&gt;
-量子物理工学講座
-&lt;a href=&#34;http://na.nuap.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理工学研究グループ 張研究室&lt;/a&gt;
-助教&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;所属学会&#34;&gt;所属学会&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mathsoc.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本数学会&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本応用数理学会&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://scna.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;科学技術計算と数値解析&lt;/a&gt; &lt;a href=&#34;https://www2.jsiam.org/gp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;研究部会&lt;/a&gt; 運営協力者 (2019年5月～)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wakate.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;若手の会&lt;/a&gt; &lt;a href=&#34;https://www2.jsiam.org/gp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;研究部会&lt;/a&gt; 運営委員 (2019年7月～)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www2.jsiam.org/bjsiam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;学会誌「応用数理」&lt;/a&gt; 編集委員 (2020年4月～)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jsiaml.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;論文誌 JSIAM Letters&lt;/a&gt; 編集委員 (2021年4月～)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;履歴書&#34;&gt;履歴書&lt;/h2&gt;
-&lt;h3 id=&#34;経歴&#34;&gt;経歴&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;年月&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;経歴&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2009年4月～2013年3月&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;東京大学理学部数学科&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2013年4月～2015年3月&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;東京大学大学院数理科学研究科 修士課程 [指導教員: 齊藤宣一 准教授]&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2015年4月～2018年3月&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.u-tokyo.ac.jp/index_j.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;東京大学&lt;/a&gt;&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/index-j.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学院数理科学研究科&lt;/a&gt; 博士課程 修了 [指導教員: &lt;a href=&#34;http://www.infsup.jp/saito/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;齊藤宣一&lt;/a&gt; 教授]&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2018年3月&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;博士 (数理科学) [指導教員: 齊藤宣一 教授]&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2018年4月～現在&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;名古屋大学大学院工学研究科 助教&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;フェローシップ&#34;&gt;フェローシップ&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;年月&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;経歴&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2014年9月～2018年3月&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;東京大学 &lt;a href=&#34;http://fmsp.ms.u-tokyo.ac.jp/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数物フロンティア・リーディング大学院プログラム&lt;/a&gt; コース生 &lt;br&gt; [副指導教員: &lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/~labgiga/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;儀我美一&lt;/a&gt; 教授]&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2015年4月～2018年3月&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://www.jsps.go.jp/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本学術振興会特別研究員 DC1&lt;/a&gt; (課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15J07471/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15J07471&lt;/a&gt;) &lt;br&gt; [受入教員: 齊藤宣一 教授]&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;外部資金&#34;&gt;外部資金&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;期間&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;獲得資金&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2015年4月～2018年3月&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;科研費 	特別研究員奨励費 (課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15J07471/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15J07471&lt;/a&gt;) &lt;br&gt; 離散最大正則性とその有限要素法・有限体積法への応用&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2019年4月～2023年3月&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;科研費 	若手研究 (課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K14590/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;19K14590&lt;/a&gt;) &lt;br&gt; 滑らかな領域における非線形偏微分方程式に対する有限要素法&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;受賞&#34;&gt;受賞&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;年月&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;受賞&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2015年3月&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2014年度 東京大学&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学研究科長賞&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2017年3月&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2016年度 &lt;a href=&#34;http://www.mathsoc.jp/publicity/appmath2016.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本数学会応用数学研究奨励賞&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2017年6月&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://161.64.198.10/EASIAM/prizes.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student Paper Prize&lt;/a&gt; (second prize) at &lt;a href=&#34;http://conference.math.snu.ac.kr/index.php?mid=EASIAM2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EASIAM2017&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2018年3月&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2017年度 東京大学&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学研究科長賞&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;データベース&#34;&gt;データベース&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathSciNet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.zbmath.org/authors/?q=ai:kemmochi.tomoya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zbMATH&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://researchmap.jp/t-kemmochi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <title>2016-09-09</title>
+      <link>https://t-kemmochi.github.io/ja/news/2016-09-09/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2016-09-09/</guid>
+      <description>&lt;p&gt;論文が出版されました:&lt;/p&gt;
+&lt;p&gt;T. Kemmochi. Discrete maximal regularity for abstract Cauchy problems.&lt;br&gt;
+Studia Math., vol. 234, no. 3, pp. 241&amp;ndash;263, 2016.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;https://t-kemmochi.github.io/pdf/dmr_acp_2016.pdf&#34; target=&#34;_blank&#34;&gt;On-line first version&lt;/a&gt;] [&lt;a href=&#34;https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/234/3/91729/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;] [&lt;a href=&#34;http://www.ams.org/mathscinet-getitem?mr=3549514&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3549514&lt;/a&gt;] [&lt;a href=&#34;https://www.zbmath.org/?q=an:06658333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 06658333&lt;/a&gt;]&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/ja/project/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/ja/project/</guid>
-      <description></description>
+      <title>2015-04-01</title>
+      <link>https://t-kemmochi.github.io/ja/news/2015-04-01/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2015-04-01/</guid>
+      <description>&lt;p&gt;日本学術振興会特別研究員DC1に採択されました.&lt;br&gt;
+研究課題: 離散最大正則性とその有限要素法・有限体積法への応用&lt;br&gt;
+課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15J07471/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15J07471&lt;/a&gt;&lt;br&gt;
+採択期間: 2015-04-24 &amp;ndash; 2018-03-31&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2015-03-24</title>
+      <link>https://t-kemmochi.github.io/ja/news/2015-03-24/</link>
+      <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2015-03-24/</guid>
+      <description>&lt;p&gt;おかげさまで, 東京大学&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学研究科長賞&lt;/a&gt;を受賞しました.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

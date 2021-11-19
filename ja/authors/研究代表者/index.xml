@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>研究代表者 | T. Kemmochi</title>
+    <link>https://t-kemmochi.github.io/ja/authors/%E7%A0%94%E7%A9%B6%E4%BB%A3%E8%A1%A8%E8%80%85/</link>
+      <atom:link href="https://t-kemmochi.github.io/ja/authors/%E7%A0%94%E7%A9%B6%E4%BB%A3%E8%A1%A8%E8%80%85/index.xml" rel="self" type="application/rss+xml" />
+    <description>研究代表者</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2021 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
+      <title>研究代表者</title>
+      <link>https://t-kemmochi.github.io/ja/authors/%E7%A0%94%E7%A9%B6%E4%BB%A3%E8%A1%A8%E8%80%85/</link>
+    </image>
+    
+    <item>
+      <title>滑らかな領域における非線形偏微分方程式に対する有限要素法</title>
+      <link>https://t-kemmochi.github.io/ja/project/fem-smooth/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/project/fem-smooth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

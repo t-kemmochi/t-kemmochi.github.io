@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Co-Investigator | T. Kemmochi</title>
+    <link>https://t-kemmochi.github.io/en/authors/co-investigator/</link>
+      <atom:link href="https://t-kemmochi.github.io/en/authors/co-investigator/index.xml" rel="self" type="application/rss+xml" />
+    <description>Co-Investigator</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
+      <title>Co-Investigator</title>
+      <link>https://t-kemmochi.github.io/en/authors/co-investigator/</link>
+    </image>
+    
+    <item>
+      <title>Analysis on singularities of higher order geometric gradient flows</title>
+      <link>https://t-kemmochi.github.io/en/project/geometric-flow/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/project/geometric-flow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

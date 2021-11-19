@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>メモ | T. Kemmochi</title>
-    <link>/ja/memo/</link>
-      <atom:link href="/ja/memo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://t-kemmochi.github.io/ja/memo/</link>
+      <atom:link href="https://t-kemmochi.github.io/ja/memo/index.xml" rel="self" type="application/rss+xml" />
     <description>メモ</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Tomoya Kemmochi</copyright><lastBuildDate>Wed, 22 Jan 2020 12:59:41 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2021 Tomoya Kemmochi</copyright><lastBuildDate>Wed, 22 Jan 2020 12:59:41 +0900</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>メモ</title>
-      <link>/ja/memo/</link>
+      <link>https://t-kemmochi.github.io/ja/memo/</link>
     </image>
     
     <item>
-      <title>楕円型方程式に対する最大値ノルムによる誤差評価のメモ</title>
-      <link>/ja/memo/elliptic-max-norm/</link>
+      <title>楕円型方程式に対する有限要素法の最大値ノルムによる誤差評価のメモ</title>
+      <link>https://t-kemmochi.github.io/ja/memo/elliptic-max-norm/</link>
       <pubDate>Wed, 22 Jan 2020 12:59:41 +0900</pubDate>
-      <guid>/ja/memo/elliptic-max-norm/</guid>
-      <description>&lt;p&gt;Brenner-Scottの教科書のChapter 8にある, 楕円型方程式に対する$L^\infty$ノルム, $W^{1,\infty}$ノルムによる誤差評価の証明がわかりにくいので, 個人的な理解をメモしておく.
-→ &lt;a href=&#34;/pdf/fem-nax-norm.pdf&#34; target=&#34;_blank&#34;&gt;pdfファイル&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://t-kemmochi.github.io/ja/memo/elliptic-max-norm/</guid>
+      <description>&lt;p&gt;Brenner-Scottの教科書のChapter 8にある, 楕円型方程式に対する有限要素法の$L^\infty$ノルム, $W^{1,\infty}$ノルムによる誤差評価の証明がわかりにくいので, 個人的な理解をメモしておく.
+→ &lt;a href=&#34;https://t-kemmochi.github.io/pdf/fem-nax-norm.pdf&#34; target=&#34;_blank&#34;&gt;pdfファイル&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>京都メモ</title>
-      <link>/ja/memo/kyoto-note/</link>
+      <link>https://t-kemmochi.github.io/ja/memo/kyoto-note/</link>
       <pubDate>Tue, 21 Jan 2020 17:52:32 +0900</pubDate>
-      <guid>/ja/memo/kyoto-note/</guid>
+      <guid>https://t-kemmochi.github.io/ja/memo/kyoto-note/</guid>
       <description>&lt;p&gt;年に数回京大に行くけど, 行くたびにバスのことがわからなくなるので, メモしておく.&lt;/p&gt;
 &lt;h2 id=&#34;京大に行くには&#34;&gt;京大に行くには&lt;/h2&gt;
 &lt;ol&gt;
@@ -91,9 +91,9 @@
     
     <item>
       <title>英語の発音について</title>
-      <link>/ja/memo/english-pronunciation/</link>
+      <link>https://t-kemmochi.github.io/ja/memo/english-pronunciation/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      <guid>/ja/memo/english-pronunciation/</guid>
+      <guid>https://t-kemmochi.github.io/ja/memo/english-pronunciation/</guid>
       <description>&lt;p&gt;英語での講演の準備中に自分が気をつけるべきだと思った単語, 他人の講演を聞いていて「あっ」って思った単語などのまとめ.&lt;/p&gt;
 &lt;p&gt;随時更新.&lt;/p&gt;
 &lt;p&gt;参考にしたもの:&lt;/p&gt;
@@ -103,7 +103,7 @@
 &lt;li&gt;&lt;a href=&#34;http://www.oed.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oxford English Dictionary&lt;/a&gt; (名大内からアクセス可)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;単語のリスト&#34;&gt;単語のリスト&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;/pdf/pronunciation.pdf&#34; target=&#34;_blank&#34;&gt;pdfファイル&lt;/a&gt;を参照.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://t-kemmochi.github.io/pdf/pronunciation.pdf&#34; target=&#34;_blank&#34;&gt;pdfファイル&lt;/a&gt;を参照.&lt;/p&gt;
 &lt;h2 id=&#34;要注意ポイント&#34;&gt;要注意ポイント&lt;/h2&gt;
 &lt;h3 id=&#34;カタカナ発音が定着している単語&#34;&gt;カタカナ発音が定着している単語&lt;/h3&gt;
 &lt;p&gt;「レゾルベント」「ゼロ」はともかく, 「スカラー」「マトリックス」「グラディエント」「カオス」辺りはなんでその読み方が定着しちゃったんだって思うレベルで発音が違うので要注意.
@@ -131,15 +131,15 @@
     
     <item>
       <title>文章を書く時に気をつけたいこと</title>
-      <link>/ja/memo/writing-articles/</link>
+      <link>https://t-kemmochi.github.io/ja/memo/writing-articles/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/ja/memo/writing-articles/</guid>
+      <guid>https://t-kemmochi.github.io/ja/memo/writing-articles/</guid>
       <description>&lt;p&gt;主に研究に関する文章の話. 言語は問わない. 特に, 論文/講演/書類について.&lt;/p&gt;
 &lt;p&gt;これは本当に雑多なメモであり独り言である.
 ここに書かれている文章がここに書かれている注意点を必ずしも守っているというわけではない.&lt;/p&gt;
 &lt;h2 id=&#34;タイトル&#34;&gt;タイトル&lt;/h2&gt;
 &lt;p&gt;講演にせよ論文にせよ書類にせよ, タイトルはある程度短い方が良いだろう.
-あまりタイトルを具体的にしすぎても, 無いように明るくない人には伝わらないだろう.
+あまりタイトルを具体的にしすぎても, 内容に明るくない人には伝わらないだろう.
 いくつか主要なキーワードを抜粋して繋げれば良く, 内容すべてを書く必要は無い.
 自分は結構タイトルを長くしがちなので注意.&lt;/p&gt;
 &lt;h2 id=&#34;読者を想定する&#34;&gt;読者を想定する&lt;/h2&gt;
@@ -164,32 +164,36 @@
 &lt;h2 id=&#34;先行研究へのリスペクト&#34;&gt;先行研究へのリスペクト&lt;/h2&gt;
 &lt;p&gt;これは最近 (2017年4月末) に指摘されたこと.
 自分はよく, 先行研究を挙げた後に, 「こういうところがダメ」みたいに, 先行研究に対してネガティブな書き方をすることが多かった.
-でも, そもそも先行研究があってこその自分の研究なのだから, もう少しリスペクトした方が良いだろう.
+でも, そもそも先行研究があってこその自分の研究なのだから, もっとリスペクトすべきだろう.
 例えば, 「こういう先行研究があり, 理論が発展してきたが, こういう課題が残されていて, そういう状況で自分はこういうことをした.」みたいに書けると良いのかなと思う.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Windows10でWi-Fiの優先順位を変更</title>
-      <link>/ja/memo/windows-wifi-priority/</link>
+      <link>https://t-kemmochi.github.io/ja/memo/windows-wifi-priority/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/ja/memo/windows-wifi-priority/</guid>
+      <guid>https://t-kemmochi.github.io/ja/memo/windows-wifi-priority/</guid>
       <description>&lt;p&gt;Powershellなどで&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;netsh wlan set profileorder name=&amp;quot;ネットワーク名&amp;quot; interface=&amp;quot;Wi-Fi&amp;quot; priority=数字
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;とする. priorityは数字が若い方が優先順位が高い.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;netsh wlan set profileorder name=&amp;quot;ネットワーク名&amp;quot; interface=&amp;quot;Wi-Fi&amp;quot; priority=数字
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;とする. priorityは数字が若い方が優先順位が高い.&lt;/p&gt;
 &lt;p&gt;他には&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;netsh wlan show profiles
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;でネットワークの一覧を取得,&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;netsh wlan delete profile &amp;quot;ネットワーク名&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;でネットワークの削除,&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;netsh wlan ?
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;などでヘルプの表示.&lt;/p&gt;</description>
+&lt;pre&gt;&lt;code&gt;netsh wlan show profiles
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;でネットワークの一覧を取得,&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;netsh wlan delete profile &amp;quot;ネットワーク名&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;でネットワークの削除,&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;netsh wlan ?
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;などでヘルプの表示.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>英文校正業者</title>
-      <link>/ja/memo/english-proofing-company/</link>
+      <link>https://t-kemmochi.github.io/ja/memo/english-proofing-company/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/ja/memo/english-proofing-company/</guid>
+      <guid>https://t-kemmochi.github.io/ja/memo/english-proofing-company/</guid>
       <description>&lt;p&gt;英文校正利用したことのある業者のメモ. 利用順.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.forte-science.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;フォルテ&lt;/a&gt;. 料金は約48000円. tex入稿で校正後もtex.&lt;/li&gt;
@@ -206,9 +210,9 @@
     
     <item>
       <title>Darmstadt滞在の記録</title>
-      <link>/ja/memo/darmstadt-2016/</link>
+      <link>https://t-kemmochi.github.io/ja/memo/darmstadt-2016/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>/ja/memo/darmstadt-2016/</guid>
+      <guid>https://t-kemmochi.github.io/ja/memo/darmstadt-2016/</guid>
       <description>&lt;h2 id=&#34;基本情報&#34;&gt;基本情報&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;期間: 2016年10月13日&amp;ndash;2016年12月10日&lt;/li&gt;

@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | T. Kemmochi</title>
-    <link>/ja/project/</link>
-      <atom:link href="/ja/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://t-kemmochi.github.io/ja/project/</link>
+      <atom:link href="https://t-kemmochi.github.io/ja/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2021 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>/ja/project/</link>
+      <link>https://t-kemmochi.github.io/ja/project/</link>
     </image>
     
     <item>
+      <title>高階幾何学的勾配流における特異形状解析</title>
+      <link>https://t-kemmochi.github.io/ja/project/geometric-flow/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/project/geometric-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>滑らかな領域における非線形偏微分方程式に対する有限要素法</title>
-      <link>/ja/project/fem-smooth/</link>
+      <link>https://t-kemmochi.github.io/ja/project/fem-smooth/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/ja/project/fem-smooth/</guid>
+      <guid>https://t-kemmochi.github.io/ja/project/fem-smooth/</guid>
       <description></description>
     </item>
     

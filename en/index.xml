@@ -2,29 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>T. Kemmochi</title>
-    <link>/en/</link>
-      <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://t-kemmochi.github.io/en/</link>
+      <atom:link href="https://t-kemmochi.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Kemmochi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Tomoya Kemmochi</copyright><lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>T. Kemmochi</title>
-      <link>/en/</link>
+      <link>https://t-kemmochi.github.io/en/</link>
     </image>
     
     <item>
-      <title>Past news</title>
-      <link>/en/news/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/en/news/</guid>
+      <title>2021-09-06</title>
+      <link>https://t-kemmochi.github.io/en/news/2021-09-06/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2021-09-06/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;br&gt;
+Fuminori Tatsuoka, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang.
+&lt;strong&gt;Computing the matrix fractional power with the double exponential formula.&lt;/strong&gt;&lt;br&gt;
+Electron. Trans. Numer. Anal., Vol. 54, pp. 558-580, 2021.&lt;br&gt;
+DOI: &lt;a href=&#34;http://doi.org/10.1553/etna_vol54s558&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1553/etna_vol54s558&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://etna.math.kent.edu/volumes/2021-2030/vol54/abstract.php?vol=54&amp;amp;pages=558-580&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/2012.01667&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4310720&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4310720&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021-04-01</title>
+      <link>https://t-kemmochi.github.io/en/news/2021-04-01/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2021-04-01/</guid>
+      <description>&lt;p&gt;I am a Co-Investigator of the following grant:&lt;br&gt;
+JSPS KAKENHI Grant-in-Aid for Scientific Research (B)&lt;br&gt;
+Project title: &amp;ldquo;Analysis on singularities of higher order geometric gradient flows&amp;rdquo;&lt;br&gt;
+Project No.: &lt;a href=&#34;https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21H00990/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;21H00990&lt;/a&gt;&lt;br&gt;
+Primary Investigator: Prof. Shinya Okabe (Tohoku Univ.)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Analysis on singularities of higher order geometric gradient flows</title>
+      <link>https://t-kemmochi.github.io/en/project/geometric-flow/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/project/geometric-flow/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>2020-03-06</title>
+      <link>https://t-kemmochi.github.io/en/news/2020-03-06/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2020-03-06/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;br&gt;
+Yuki Satake, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang.&lt;br&gt;
+&lt;strong&gt;On a transformation of the ∗-congruence Sylvester equation for the least squares optimization.&lt;/strong&gt;&lt;br&gt;
+Optim. Methods Softw.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/10556788.2020.1734004&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2020-01-13</title>
+      <link>https://t-kemmochi.github.io/en/news/2020-01-13/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2020-01-13/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;br&gt;
+Takahito Kashiwabara and Tomoya Kemmochi.
+&lt;strong&gt;Stability, analyticity, and maximal regularity for parabolic finite element problems on smooth domains.&lt;/strong&gt;&lt;br&gt;
+Math. Comp., vol. 89, pp. 1647-1679, 2020.
+DOI: &lt;a href=&#34;https://doi.org/10.1090/mcom/3500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1090/mcom/3500&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2020-03500-5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2020-01-04</title>
+      <link>https://t-kemmochi.github.io/en/news/2020-01-04/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2020-01-04/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;br&gt;
+Takahito Kashiwabara and Tomoya Kemmochi.
+&lt;strong&gt;Pointwise error estimates of linear finite element method for Neumann boundary value problems in a smooth domain.&lt;/strong&gt;&lt;br&gt;
+Numer. Math., vol. 89, pp. 1647-1679, 2020.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s00211-019-01098-8&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2019-12-23</title>
+      <link>https://t-kemmochi.github.io/en/news/2019-12-23/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2019-12-23/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;br&gt;
+K. Nakano, T. Kemmochi, Y. Miyatake, T. Sogabe, and S.-L. Zhang.
+&lt;strong&gt;Modified Strang splitting for semilinear parabolic problems.&lt;/strong&gt;&lt;br&gt;
+JSIAM Letters, vol. 11, pp. 77&amp;ndash;80, 2019.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.14495/jsiaml.11.77&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.14495/jsiaml.11.77&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.jstage.jst.go.jp/article/jsiaml/11/0/11_77/_article&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2019-11-01</title>
+      <link>https://t-kemmochi.github.io/en/news/2019-11-01/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2019-11-01/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;br&gt;
+T. Kemmochi.
+&lt;strong&gt;Numerical Analysis of the Allen-Cahn Equation with Coarse Meshes.&lt;/strong&gt;
+J. Math. Res. Appl., vol. 39, no. 6, pp. 709&amp;ndash;717, 2019.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.3770/j.issn:2095-2651.2019.06.014&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;http://jmre.dlut.edu.cn/en/ch/reader/view_abstract.aspx?file_no=20190614&amp;amp;flag=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Talks</title>
-      <link>/en/talks/</link>
+      <link>https://t-kemmochi.github.io/en/talks/</link>
       <pubDate>Thu, 22 Aug 2019 17:20:06 +0900</pubDate>
-      <guid>/en/talks/</guid>
+      <guid>https://t-kemmochi.github.io/en/talks/</guid>
       <description>&lt;div class=&#34;publication&#34;&gt;
 &lt;h2 id=&#34;2020&#34;&gt;2020&lt;/h2&gt;
 &lt;ol&gt;
@@ -119,9 +211,9 @@ T. Kemmochi, Numerical analysis on shapes of membranes on rippled surfaces with 
     
     <item>
       <title>Publications</title>
-      <link>/en/publications/</link>
+      <link>https://t-kemmochi.github.io/en/publications/</link>
       <pubDate>Thu, 22 Aug 2019 15:48:50 +0900</pubDate>
-      <guid>/en/publications/</guid>
+      <guid>https://t-kemmochi.github.io/en/publications/</guid>
       <description>&lt;div class=&#34;publication&#34;&gt;
 &lt;p&gt;Please see also
 &lt;a href=&#34;https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathSciNet&lt;/a&gt;,
@@ -130,26 +222,28 @@ T. Kemmochi, Numerical analysis on shapes of membranes on rippled surfaces with 
 &lt;a href=&#34;https://researchmap.jp/t-kemmochi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Tomoya Kemmochi and Shun Sato.
+&lt;li&gt;Tomoya Kemmochi and Shun Sato.
 &lt;strong&gt;Scalar auxiliary variable approach for conservative/dissipative partial differential equations with unbounded energy.&lt;/strong&gt;
-&lt;a href=&#34;https://arxiv.org/abs/2105.04055&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2105.04055&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Fuminori Tatsuoka, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang.
-&lt;strong&gt;Computing the matrix fractional power with the double exponential formula.&lt;/strong&gt;
-&lt;a href=&#34;https://arxiv.org/abs/2012.01667&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2012.01667&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2105.04055&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2105.04055&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;reviewed-articles&#34;&gt;Reviewed articles&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
+&lt;p&gt;Fuminori Tatsuoka, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang.
+&lt;strong&gt;Computing the matrix fractional power with the double exponential formula.&lt;/strong&gt;&lt;br&gt;
+Electron. Trans. Numer. Anal., Vol. 54, pp. 558-580, 2021.&lt;br&gt;
+DOI: &lt;a href=&#34;http://doi.org/10.1553/etna_vol54s558&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1553/etna_vol54s558&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://etna.math.kent.edu/volumes/2021-2030/vol54/abstract.php?vol=54&amp;amp;pages=558-580&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/2012.01667&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4310720&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4310720&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;Yuki Satake, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang.
 &lt;strong&gt;On a transformation of the ∗-congruence Sylvester equation for the least squares optimization.&lt;/strong&gt;&lt;br&gt;
-Optim. Methods Softw.&lt;br&gt;
+Optim. Methods Softw., vol. 35, no. 5, pp. 974-981, 2020.&lt;br&gt;
 DOI: &lt;a href=&#34;https://doi.org/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/10556788.2020.1734004&lt;/a&gt;&lt;br&gt;
-[&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+[&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4144128&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4144128&lt;/a&gt;]&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Takahito Kashiwabara and Tomoya Kemmochi.
@@ -239,7 +333,7 @@ DOI: &lt;a href=&#34;https://doi.org/10.1007/s10543-017-0685-6&#34; target=&#34;
 &lt;strong&gt;Discrete maximal regularity for abstract Cauchy problems.&lt;/strong&gt; &lt;br&gt;
 Studia Math., vol. 234, no. 3, pp. 241&amp;ndash;263, 2016. &lt;br&gt;
 DOI: &lt;a href=&#34;http://doi.org/10.4064/sm8495-7-2016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.4064/sm8495-7-2016&lt;/a&gt; &lt;br&gt;
-[&lt;a href=&#34;/pdf/dmr_acp_2016.pdf&#34; target=&#34;_blank&#34;&gt;On-line first version&lt;/a&gt;]
+[&lt;a href=&#34;https://t-kemmochi.github.io/pdf/dmr_acp_2016.pdf&#34; target=&#34;_blank&#34;&gt;On-line first version&lt;/a&gt;]
 [&lt;a href=&#34;https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/234/3/91729/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
 [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3549514&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3549514&lt;/a&gt;]
 [&lt;a href=&#34;https://www.zbmath.org/?q=an:1359.65082&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1359.65082&lt;/a&gt;]
@@ -287,9 +381,9 @@ RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanab
     
     <item>
       <title>Research</title>
-      <link>/en/research/</link>
+      <link>https://t-kemmochi.github.io/en/research/</link>
       <pubDate>Thu, 22 Aug 2019 15:27:52 +0900</pubDate>
-      <guid>/en/research/</guid>
+      <guid>https://t-kemmochi.github.io/en/research/</guid>
       <description>&lt;h2 id=&#34;research-topics&#34;&gt;Research topics&lt;/h2&gt;
 &lt;p&gt;My research interest is numerical analysis for partial differential equations,
 in particular, the finite element method (FEM).
@@ -308,8 +402,8 @@ The details of my research topics are listed as follows.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;research-activities&#34;&gt;Research activities&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/en/publications/&#34;&gt;List of publications&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/en/talks/&#34;&gt;Talks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://t-kemmochi.github.io/en/publications/&#34;&gt;List of publications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://t-kemmochi.github.io/en/talks/&#34;&gt;Talks&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;database&#34;&gt;Database&lt;/h2&gt;
 &lt;ul&gt;
@@ -324,9 +418,9 @@ The details of my research topics are listed as follows.&lt;/p&gt;
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>/en/cv/</link>
+      <link>https://t-kemmochi.github.io/en/cv/</link>
       <pubDate>Thu, 22 Aug 2019 11:22:51 +0900</pubDate>
-      <guid>/en/cv/</guid>
+      <guid>https://t-kemmochi.github.io/en/cv/</guid>
       <description>&lt;h2 id=&#34;present&#34;&gt;Present&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Assistant professor at
@@ -398,6 +492,7 @@ The details of my research topics are listed as follows.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id=&#34;grants&#34;&gt;Grants&lt;/h3&gt;
+&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator&lt;/h4&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -413,6 +508,21 @@ The details of my research topics are listed as follows.&lt;/p&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;April 2019 &amp;ndash; March 2023&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;JSPS KAKENHI Grant-in-Aid for Early-Career Scientists (No. &lt;a href=&#34;https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14590/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;19K14590&lt;/a&gt;) &lt;br&gt; Finite element methods for nonlinear partial differential equations on curved domains&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;co-investigator&#34;&gt;Co-Investigator&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Year&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Grant&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;April 2021 &amp;ndash; March 2026&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;JSPS KAKENHI Grant-in-Aid for Scientific Research (B) (No. &lt;a href=&#34;https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21H00990/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;21H00990&lt;/a&gt;) &lt;br&gt; Analysis on singularities of higher order geometric gradient flows&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -455,27 +565,174 @@ The details of my research topics are listed as follows.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/en/project/</link>
+      <title>2019-05-02</title>
+      <link>https://t-kemmochi.github.io/en/news/2019-05-02/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2019-05-02/</guid>
+      <description>&lt;p&gt;The following paper has been published: &lt;br&gt;
+Yuki Satake, Masaya Oozawa, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;br&gt;
+Relation between the T-congruence Sylvester equation and the generalized Sylvester equation. &lt;br&gt;
+Appl. Math. Lett., vol. 96, pp. 7&amp;ndash;13, 2019. &lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2019.04.007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.aml.2019.04.007&lt;/a&gt; &lt;br&gt;
+[&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0893965919301533&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3943431&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3943431&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2019-04-01</title>
+      <link>https://t-kemmochi.github.io/en/news/2019-04-01/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/en/project/</guid>
+      <guid>https://t-kemmochi.github.io/en/news/2019-04-01/</guid>
+      <description>&lt;p&gt;I have got the following grant:&lt;br&gt;
+JSPS KAKENHI Grant-in-Aid for Early-Career Scientists&lt;br&gt;
+Project name: &amp;ldquo;Finite element methods for nonlinear partial differential equations on curved domains&amp;rdquo;&lt;br&gt;
+Project No.: &lt;a href=&#34;https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14590/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;19K14590&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Finite element methods for nonlinear partial differential equations on curved domains</title>
+      <link>https://t-kemmochi.github.io/en/project/fem-smooth/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/project/fem-smooth/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Link</title>
-      <link>/en/link/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/link/</guid>
-      <description>&lt;p&gt;Sorry, Japanese only&amp;hellip;&lt;/p&gt;
+      <title>2018-04-01</title>
+      <link>https://t-kemmochi.github.io/en/news/2018-04-01/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2018-04-01/</guid>
+      <description>&lt;p&gt;I have assumed an assistant professor at &lt;a href=&#34;http://www.engg.nagoya-u.ac.jp/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate School of Engineering&lt;/a&gt;, &lt;a href=&#34;http://en.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nagoya University&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Memorandum</title>
-      <link>/en/memo/</link>
+      <title>2018-03-23</title>
+      <link>https://t-kemmochi.github.io/en/news/2018-03-23/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2018-03-23/</guid>
+      <description>&lt;p&gt;I have won the &lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dean&amp;rsquo;s Prize&lt;/a&gt; of the Graduate School of Mathematical Sciences, The University of Tokyo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2018-01-06</title>
+      <link>https://t-kemmochi.github.io/en/news/2018-01-06/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2018-01-06/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;/p&gt;
+&lt;p&gt;T. Kemmochi.
+On the finite element approximation for non-stationary saddle-point problems.&lt;br&gt;
+Japan J. Indust. Appl. Math., vol. 35, no. 2, pp. 423&amp;ndash;439, 2018.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;http://rdcu.be/EetG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/article/10.1007/s13160-017-0293-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017-12-21</title>
+      <link>https://t-kemmochi.github.io/en/news/2017-12-21/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2017-12-21/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;/p&gt;
+&lt;p&gt;T. Kemmochi.
+Numerical analysis of elastica with obstacle and adhesion effects.&lt;br&gt;
+Appl. Anal., vol. 98, no. 6, 2019.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;http://www.tandfonline.com/doi/full/10.1080/00036811.2017.1416100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017-11-15</title>
+      <link>https://t-kemmochi.github.io/en/news/2017-11-15/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2017-11-15/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;/p&gt;
+&lt;p&gt;T. Kemmochi and N. Saito.
+Discrete maximal regularity and the finite element method for parabolic equations.&lt;br&gt;
+Numer. Math., vol. 138, no. 4, pp. 905&amp;ndash;937, 2018.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;http://rdcu.be/yxsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-017-0929-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;] [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3778340&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3778340&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017-09-27</title>
+      <link>https://t-kemmochi.github.io/en/news/2017-09-27/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2017-09-27/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;/p&gt;
+&lt;p&gt;T. Kemmochi. Energy dissipative numerical schemes for gradient flows of planar curves.&lt;br&gt;
+BIT Numer. Math., vol. 57, no. 4, pp. 991&amp;ndash;1017, 2017.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;https://www.youtube.com/playlist?list=PLMF3dSqWEii69loXvCtgDCI4PYijq_4L3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Movies&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/epdf/10.1007/s10543-017-0685-6?author_access_token=BcnkNUjSRwbsWEWCmvz7xPe4RwlQNchNByi7wbcMAY4_46Qp10PqUOmZIG6Mnwmgw--aejRu1hBBjlLCrLwe2HGr8_Z88NkIjurTYeSDH5-iP-IyCZl9YrNKDd3eaPn0J1RYYE_sAtLRXuSztxJXoA%3D%3D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;] [&lt;a href=&#34;https://link.springer.com/article/10.1007/s10543-017-0685-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017-06-23</title>
+      <link>https://t-kemmochi.github.io/en/news/2017-06-23/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2017-06-23/</guid>
+      <description>&lt;p&gt;I have won the &lt;a href=&#34;http://161.64.198.10/EASIAM/prizes.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student Paper Prize&lt;/a&gt; (second prize) at &lt;a href=&#34;http://conference.math.snu.ac.kr/index.php?mid=EASIAM2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EASIAM2017&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017-03-23</title>
+      <link>https://t-kemmochi.github.io/en/news/2017-03-23/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2017-03-23/</guid>
+      <description>&lt;p&gt;I have won &lt;a href=&#34;http://www.mathsoc.jp/en/publicity/appmath2016-en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The 2016 MSJ Prize for Exellent Applied Mathematicians&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-10-13</title>
+      <link>https://t-kemmochi.github.io/en/news/2016-10-13/</link>
+      <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2016-10-13/</guid>
+      <description>&lt;p&gt;I was staying at &lt;a href=&#34;https://www.tu-darmstadt.de/index.en.jsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TU Darmstadt&lt;/a&gt;.&lt;br&gt;
+Period: 2016-10-13 &amp;ndash; 12-10&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-09-09</title>
+      <link>https://t-kemmochi.github.io/en/news/2016-09-09/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2016-09-09/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;/p&gt;
+&lt;p&gt;T. Kemmochi.
+Discrete maximal regularity for abstract Cauchy problems.&lt;br&gt;
+Studia Math., vol. 234, no. 3, pp. 241&amp;ndash;263, 2016.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;https://t-kemmochi.github.io/pdf/dmr_acp_2016.pdf&#34; target=&#34;_blank&#34;&gt;On-line first version&lt;/a&gt;] [&lt;a href=&#34;https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/234/3/91729/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;] [&lt;a href=&#34;http://www.ams.org/mathscinet-getitem?mr=3549514&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3549514&lt;/a&gt;] [&lt;a href=&#34;https://www.zbmath.org/?q=an:06658333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 06658333&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2015-04-01</title>
+      <link>https://t-kemmochi.github.io/en/news/2015-04-01/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2015-04-01/</guid>
+      <description>&lt;p&gt;I have got the fellowship from JSPS (DC1).&lt;br&gt;
+Subject: Discrete maximal regularity and its application to the finite element and the finite volume methods&lt;br&gt;
+Grant nuber: &lt;a href=&#34;https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15J07471/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15J07471&lt;/a&gt;&lt;br&gt;
+Project period: 2015-04-24 &amp;ndash; 2018-03-31&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2015-03-24</title>
+      <link>https://t-kemmochi.github.io/en/news/2015-03-24/</link>
+      <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2015-03-24/</guid>
+      <description>&lt;p&gt;I have won the Dean&amp;rsquo;s Prize at Graduate School of Mathematical Sciences, the University of Tokyo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://t-kemmochi.github.io/en/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/memo/</guid>
+      <guid>https://t-kemmochi.github.io/en/links/</guid>
       <description>&lt;p&gt;Sorry, Japanese only&amp;hellip;&lt;/p&gt;
 </description>
     </item>

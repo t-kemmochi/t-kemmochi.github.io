@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news | T. Kemmochi</title>
+    <link>https://t-kemmochi.github.io/ja/category/news/</link>
+      <atom:link href="https://t-kemmochi.github.io/ja/category/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>news</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2021 Tomoya Kemmochi</copyright><lastBuildDate>Fri, 09 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
+      <title>news</title>
+      <link>https://t-kemmochi.github.io/ja/category/news/</link>
+    </image>
+    
+    <item>
+      <title>2016-09-09</title>
+      <link>https://t-kemmochi.github.io/ja/news/2016-09-09/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2016-09-09/</guid>
+      <description>&lt;p&gt;論文が出版されました:&lt;/p&gt;
+&lt;p&gt;T. Kemmochi. Discrete maximal regularity for abstract Cauchy problems.&lt;br&gt;
+Studia Math., vol. 234, no. 3, pp. 241&amp;ndash;263, 2016.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;https://t-kemmochi.github.io/pdf/dmr_acp_2016.pdf&#34; target=&#34;_blank&#34;&gt;On-line first version&lt;/a&gt;] [&lt;a href=&#34;https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/234/3/91729/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;] [&lt;a href=&#34;http://www.ams.org/mathscinet-getitem?mr=3549514&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3549514&lt;/a&gt;] [&lt;a href=&#34;https://www.zbmath.org/?q=an:06658333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 06658333&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2015-04-01</title>
+      <link>https://t-kemmochi.github.io/ja/news/2015-04-01/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2015-04-01/</guid>
+      <description>&lt;p&gt;日本学術振興会特別研究員DC1に採択されました.&lt;br&gt;
+研究課題: 離散最大正則性とその有限要素法・有限体積法への応用&lt;br&gt;
+課題番号: &lt;a href=&#34;https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15J07471/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15J07471&lt;/a&gt;&lt;br&gt;
+採択期間: 2015-04-24 &amp;ndash; 2018-03-31&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2015-03-24</title>
+      <link>https://t-kemmochi.github.io/ja/news/2015-03-24/</link>
+      <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2015-03-24/</guid>
+      <description>&lt;p&gt;おかげさまで, 東京大学&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学研究科長賞&lt;/a&gt;を受賞しました.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

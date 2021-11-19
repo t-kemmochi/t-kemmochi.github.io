@@ -1,0 +1,25 @@
+.invited {
+    padding: 0 4px;
+    border-radius: 4px;
+    background-color: #FFCCCC;
+    color: #000;
+    font-family: Montserrat,sans-serif;
+    /* font-weight: 200; */
+}
+
+.article-container {
+    max-width: 1000px;
+}
+
+.publication li:hover {
+    /* transition-duration: 0.2s; */
+    background-color: #F0F0F0;
+}
+
+.publication li {
+    margin-bottom: 15px;
+}
+
+table {
+    overflow-x: auto;
+}

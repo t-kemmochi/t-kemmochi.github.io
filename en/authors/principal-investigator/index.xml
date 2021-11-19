@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Principal Investigator | T. Kemmochi</title>
+    <link>https://t-kemmochi.github.io/en/authors/principal-investigator/</link>
+      <atom:link href="https://t-kemmochi.github.io/en/authors/principal-investigator/index.xml" rel="self" type="application/rss+xml" />
+    <description>Principal Investigator</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
+      <title>Principal Investigator</title>
+      <link>https://t-kemmochi.github.io/en/authors/principal-investigator/</link>
+    </image>
+    
+    <item>
+      <title>Finite element methods for nonlinear partial differential equations on curved domains</title>
+      <link>https://t-kemmochi.github.io/en/project/fem-smooth/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/project/fem-smooth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
