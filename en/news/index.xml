@@ -5,12 +5,26 @@
     <link>https://t-kemmochi.github.io/en/news/</link>
       <atom:link href="https://t-kemmochi.github.io/en/news/index.xml" rel="self" type="application/rss+xml" />
     <description>Past news</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>Past news</title>
       <link>https://t-kemmochi.github.io/en/news/</link>
     </image>
+    
+    <item>
+      <title>2022-01-03</title>
+      <link>https://t-kemmochi.github.io/en/news/2022-01-03/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2022-01-03/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;br&gt;
+Tomoya Kemmochi and Shun Sato.&lt;br&gt;
+&lt;strong&gt;Scalar auxiliary variable approach for conservative/dissipative partial differential equations with unbounded energy functionals.&lt;/strong&gt;&lt;br&gt;
+BIT Numer. Math.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1007/s10543-021-00904-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s10543-021-00904-w&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs10543-021-00904-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/2105.04055&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2021-09-06</title>
