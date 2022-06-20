@@ -5,12 +5,20 @@
     <link>https://t-kemmochi.github.io/ja/</link>
       <atom:link href="https://t-kemmochi.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Kemmochi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2022 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2022 Tomoya Kemmochi</copyright><lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>T. Kemmochi</title>
       <link>https://t-kemmochi.github.io/ja/</link>
     </image>
+    
+    <item>
+      <title>2022-06-18</title>
+      <link>https://t-kemmochi.github.io/ja/news/2022-06-18/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2022-06-18/</guid>
+      <description>&lt;p&gt;おかげさまで, &lt;a href=&#34;https://annual2021.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;応用数理学会2021年度年会&lt;/a&gt;において&lt;a href=&#34;https://jsiam.org/award/young_lecture_award/young_lecture_award2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;若手優秀講演賞&lt;/a&gt;を受賞いたしました.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2022-01-03</title>
@@ -551,6 +559,7 @@ RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanab
 &lt;li&gt;&lt;a href=&#34;http://wakate.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;若手の会&lt;/a&gt; &lt;a href=&#34;https://www2.jsiam.org/gp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;研究部会&lt;/a&gt; 運営委員 (2019年7月～)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www2.jsiam.org/bjsiam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;学会誌「応用数理」&lt;/a&gt; 編集委員 (2020年4月～)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://jsiaml.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;論文誌 JSIAM Letters&lt;/a&gt; 編集委員 (2021年4月～)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jsiam.org/membership/directors/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;代表会員&lt;/a&gt; (2022年4月～)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -665,6 +674,10 @@ RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanab
 &lt;td style=&#34;text-align:left&#34;&gt;2018年3月&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2017年度 東京大学&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/kyoumu/katyoushou.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理科学研究科長賞&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2022年6月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://annual2021.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;応用数理学会2021年度年会&lt;/a&gt; &lt;a href=&#34;https://jsiam.org/award/young_lecture_award/young_lecture_award2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;若手優秀講演賞&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id=&#34;データベース&#34;&gt;データベース&lt;/h2&gt;
@@ -684,6 +697,12 @@ RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanab
       <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://t-kemmochi.github.io/ja/talks/</guid>
       <description>&lt;div class=&#34;publication&#34;&gt;
+&lt;h2 id=&#34;2022&#34;&gt;2022&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;(予定) 剱持智哉. Stokes作用素の有限要素近似に対する$L^p$リゾルベント評価. &lt;a href=&#34;https://www.mathsoc.jp/activity/meeting/hokudai22sept/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本数学会2022年度秋季総合分科会&lt;/a&gt;, 北海道大学, 2022年9月13日&amp;ndash;16日.&lt;/li&gt;
+&lt;li&gt;(予定) 剱持智哉. Stokes作用素の有限要素近似に対する$L^p$リゾルベント評価. &lt;a href=&#34;https://jsiam.org/annual2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本応用数理学会2022年度年会&lt;/a&gt;, 北海道大学, 2022年9月8日&amp;ndash;10日.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; 剱持智哉. Stokes作用素の有限要素近似に対する$L^p$リゾルベント評価. &lt;a href=&#34;https://www.math.nagoya-u.ac.jp/~jkato/NDES/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名古屋微分方程式セミナー&lt;/a&gt;, 名古屋大学大学院多元数理科学研究科, 2022年6月6日.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&#34;2021&#34;&gt;2021&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; 剱持智哉. 不連続Galerkin時間離散化手法による離散勾配法の高精度化. &lt;a href=&#34;https://www.math.kyoto-u.ac.jp/applied-math/kuams/records2021.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第83回 京大応用数学セミナー&lt;/a&gt;, オンライン, 2021年10月26日.&lt;/li&gt;
@@ -717,7 +736,7 @@ online, September 30th, 2020.&lt;/li&gt;
 RIMS共同研究 (公開型) &lt;a href=&#34;http://www.sr3.t.u-tokyo.ac.jp/rims2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;諸科学分野を結ぶ基礎学問としての数値解析学&lt;/a&gt;,
 京都大学数理解析研究所, 京都府京都市, 2019年11月6日&amp;ndash;8日. [11月8日]&lt;/li&gt;
 &lt;li&gt;剱持智哉. Hamilton 系に対する SAV 法.
-&lt;a href=&#34;http://mathsoc.jp/meeting/kanazawa19sept/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本数学会2019年度秋期総合分科会&lt;/a&gt;,
+&lt;a href=&#34;http://mathsoc.jp/meeting/kanazawa19sept/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本数学会2019年度秋季総合分科会&lt;/a&gt;,
 金沢大学角間キャンパス, 石川県金沢市, 2019年9月17日&amp;ndash;20日. [9月17日]&lt;/li&gt;
 &lt;li&gt;○佐竹祐樹, 曽我部知広, 剱持智哉, 張紹良.
 未知の行列とその複素共役転置を同時に含むSylvester方程式について.

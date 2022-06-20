@@ -5,12 +5,21 @@
     <link>https://t-kemmochi.github.io/en/</link>
       <atom:link href="https://t-kemmochi.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Kemmochi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Tomoya Kemmochi</copyright><lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>T. Kemmochi</title>
       <link>https://t-kemmochi.github.io/en/</link>
     </image>
+    
+    <item>
+      <title>2022-06-18</title>
+      <link>https://t-kemmochi.github.io/en/news/2022-06-18/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2022-06-18/</guid>
+      <description>&lt;p&gt;I was awarded &lt;a href=&#34;https://jsiam.org/award/young_lecture_award/young_lecture_award2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Young Lecture Award&lt;/a&gt; at &lt;a href=&#34;https://annual2021.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSIAM2021&lt;/a&gt;.
+I appreciate all concerned.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2022-01-03</title>
@@ -467,10 +476,11 @@ The details of my research topics are listed as follows.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.mathsoc.jp/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Mathematical Society of Japan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www2.jsiam.org/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Japan Society for Industrial and Applied Mathematics&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;Manager of ML of &lt;a href=&#34;http://scna.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientific Computing and Numerical Analysis&lt;/a&gt; group (March 2019&amp;ndash;)&lt;/li&gt;
+&lt;li&gt;Mailing list manager of &lt;a href=&#34;http://scna.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientific Computing and Numerical Analysis&lt;/a&gt; group (March 2019&amp;ndash;)&lt;/li&gt;
 &lt;li&gt;Steering committee of &lt;a href=&#34;http://wakate.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wakate-no-kai&lt;/a&gt; (Group of young members) (July 2019&amp;ndash;)&lt;/li&gt;
 &lt;li&gt;Editorial committee of &lt;a href=&#34;https://www2.jsiam.org/bjsiam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ÔYÔ SÛRI&lt;/a&gt; (April 2020&amp;ndash;)&lt;/li&gt;
 &lt;li&gt;Editorial committee of &lt;a href=&#34;http://jsiaml.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSIAM Letters&lt;/a&gt; (April 2021&amp;ndash;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jsiam.org/membership/directors/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Representative Member&lt;/a&gt; (April 2022&amp;ndash;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -584,6 +594,10 @@ The details of my research topics are listed as follows.&lt;/p&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;March 2018&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;The Dean&amp;rsquo;s Prize at Graduate School of Mathematical Sciences, the University of Tokyo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;June 2022&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://jsiam.org/award/young_lecture_award/young_lecture_award2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Young Lecture Award&lt;/a&gt; at &lt;a href=&#34;https://annual2021.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSIAM2021&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

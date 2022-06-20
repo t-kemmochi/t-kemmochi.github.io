@@ -5,12 +5,21 @@
     <link>https://t-kemmochi.github.io/en/news/</link>
       <atom:link href="https://t-kemmochi.github.io/en/news/index.xml" rel="self" type="application/rss+xml" />
     <description>Past news</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Tomoya Kemmochi</copyright><lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>Past news</title>
       <link>https://t-kemmochi.github.io/en/news/</link>
     </image>
+    
+    <item>
+      <title>2022-06-18</title>
+      <link>https://t-kemmochi.github.io/en/news/2022-06-18/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2022-06-18/</guid>
+      <description>&lt;p&gt;I was awarded &lt;a href=&#34;https://jsiam.org/award/young_lecture_award/young_lecture_award2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Young Lecture Award&lt;/a&gt; at &lt;a href=&#34;https://annual2021.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSIAM2021&lt;/a&gt;.
+I appreciate all concerned.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2022-01-03</title>
