@@ -23,3 +23,15 @@
 table {
     overflow-x: auto;
 }
+
+.author, .title, .journal, .doi {
+    display: block;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.journal_name {
+    font-style: italic;
+}
