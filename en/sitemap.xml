@@ -187,19 +187,6 @@
                 href="https://t-kemmochi.github.io/en/news/2019-11-01/"
                 />
   </url><url>
-    <loc>https://t-kemmochi.github.io/en/talks/</loc>
-    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://t-kemmochi.github.io/ja/talks/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://t-kemmochi.github.io/en/talks/"
-                />
-  </url><url>
     <loc>https://t-kemmochi.github.io/en/research/</loc>
     <lastmod>2019-08-22T15:27:52+09:00</lastmod>
     <xhtml:link
@@ -237,6 +224,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://t-kemmochi.github.io/en/publications/"
+                />
+  </url><url>
+    <loc>https://t-kemmochi.github.io/en/talks/</loc>
+    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://t-kemmochi.github.io/ja/talks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-kemmochi.github.io/en/talks/"
                 />
   </url><url>
     <loc>https://t-kemmochi.github.io/en/news/2019-05-02/</loc>
