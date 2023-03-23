@@ -5,7 +5,7 @@
     <link>https://t-kemmochi.github.io/en/</link>
       <atom:link href="https://t-kemmochi.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Kemmochi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Tomoya Kemmochi</copyright><lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Tomoya Kemmochi</copyright><lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>T. Kemmochi</title>
@@ -133,43 +133,6 @@ T. Kemmochi.
 J. Math. Res. Appl., vol. 39, no. 6, pp. 709&amp;ndash;717, 2019.&lt;br&gt;
 DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.3770/j.issn:2095-2651.2019.06.014&lt;/a&gt;&lt;br&gt;
 [&lt;a href=&#34;http://jmre.dlut.edu.cn/en/ch/reader/view_abstract.aspx?file_no=20190614&amp;amp;flag=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://t-kemmochi.github.io/en/research/</link>
-      <pubDate>Thu, 22 Aug 2019 15:27:52 +0900</pubDate>
-      <guid>https://t-kemmochi.github.io/en/research/</guid>
-      <description>&lt;h2 id=&#34;research-topics&#34;&gt;Research topics&lt;/h2&gt;
-&lt;p&gt;My research interest is numerical analysis for partial differential equations,
-in particular, the finite element method (FEM).
-I am interseted in discrete counterparts of certain properties of the original problems
-and thier applications to error analysis for numerical solutions of (nonlinear) PDEs.
-Moreover, I have been studying some problems on elastic curves and fluid dynamics.
-The details of my research topics are listed as follows.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Discrete maximum principle for elliptic problems for FEM&lt;/li&gt;
-&lt;li&gt;Discrete maximal regularity (DMR) for parabolic problems for FEM&lt;/li&gt;
-&lt;li&gt;Discrete counterpart of analytic semigroups for FEM&lt;/li&gt;
-&lt;li&gt;Error analysis for FEM of semilinear parabolic equations via DMR&lt;/li&gt;
-&lt;li&gt;Energy dissipative numerical schemes for gradient flows&lt;/li&gt;
-&lt;li&gt;Numerical analysis for elastica under non-standard constraints&lt;/li&gt;
-&lt;li&gt;Finite element method for the hydrostatoc Stokes equations&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;research-activities&#34;&gt;Research activities&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://t-kemmochi.github.io/en/publications/&#34;&gt;List of publications&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://t-kemmochi.github.io/en/talks/&#34;&gt;Talks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;database&#34;&gt;Database&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathSciNet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.zbmath.org/authors/?q=ai:kemmochi.tomoya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zbMATH&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://researchmap.jp/t-kemmochi/?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
     <item>
@@ -338,6 +301,36 @@ The details of my research topics are listed as follows.&lt;/p&gt;
 &lt;a href=&#34;https://researchmap.jp/t-kemmochi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    
+        &lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi and Tatsuya Miura. &lt;/span&gt;
+    
+    
+        &lt;span class=&#34;title&#34;&gt;Migrating elastic flows. &lt;/span&gt; 
+    
+    
+        &lt;a href=&#34;https://arxiv.org/abs/2303.12516&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2303.12516&lt;/a&gt;
+    
+&lt;/p&gt;
+
+&lt;/li&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    
+        &lt;span class=&#34;author&#34;&gt;Eiji Miyazaki, Tomoya Kemmochi, Tomohiro Sogabe, and Shao-Liang Zhang. &lt;/span&gt;
+    
+    
+        &lt;span class=&#34;title&#34;&gt;A structure-preserving numerical method for the fourth-order geometric evolution equations for planar curves. &lt;/span&gt; 
+    
+    
+        &lt;a href=&#34;https://arxiv.org/abs/2208.12473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2208.12473&lt;/a&gt;
+    
+&lt;/p&gt;
+
+&lt;/li&gt;
 &lt;li&gt;
 
 &lt;p&gt;
@@ -993,14 +986,57 @@ RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanab
     </item>
     
     <item>
+      <title>Research</title>
+      <link>https://t-kemmochi.github.io/en/research/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/research/</guid>
+      <description>&lt;h2 id=&#34;research-topics&#34;&gt;Research topics&lt;/h2&gt;
+&lt;p&gt;My research interest is numerical analysis for partial differential equations,
+in particular, the finite element method (FEM) for the elliptic, parabolic, and Stokes problems.
+I am interested in discrete counterparts of certain properties of the original problems
+and their applications to error analysis for numerical solutions of (nonlinear) PDEs.
+Moreover, I have been studying some problems on elastic curves.
+The details of my research topics are listed as follows.&lt;/p&gt;
+&lt;!-- - Discrete maximum principle for elliptic problems for FEM --&gt;
+&lt;ul&gt;
+&lt;li&gt;Discrete maximal regularity (DMR) for FEM for parabolic problems&lt;/li&gt;
+&lt;li&gt;Discrete counterpart of analytic semigroups for parabolic FEM&lt;/li&gt;
+&lt;li&gt;Error analysis for FEM of semilinear parabolic equations via DMR&lt;/li&gt;
+&lt;li&gt;Analyticity of the finite element approximation of the Stokes semigroup&lt;/li&gt;
+&lt;li&gt;DMR for the finite element approximation of the Stokes operator&lt;/li&gt;
+&lt;li&gt;Energy dissipative numerical schemes for gradient flows&lt;/li&gt;
+&lt;li&gt;Numerical analysis for elastica under non-standard constraints&lt;/li&gt;
+&lt;li&gt;Finite element method for the hydrostatic Stokes equations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-activities&#34;&gt;Research activities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://t-kemmochi.github.io/en/publications/&#34;&gt;List of publications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://t-kemmochi.github.io/en/talks/&#34;&gt;Talks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;database&#34;&gt;Database&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathSciNet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zbmath.org/authors/?q=ai:kemmochi.tomoya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zbMATH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://researchmap.jp/t-kemmochi/?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Talks</title>
       <link>https://t-kemmochi.github.io/en/talks/</link>
       <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://t-kemmochi.github.io/en/talks/</guid>
       <description>&lt;div class=&#34;publication&#34;&gt;
+&lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;T. Kemmochi, Y. Miyatake, and K. Sakakibara. TBA. &lt;a href=&#34;https://iciam2023.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIAM 2023&lt;/a&gt;, Waseda University, August 20th&amp;ndash;25th, 2023.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&#34;2022&#34;&gt;2022&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; T. Kemmochi. TBA. &lt;a href=&#34;https://www.iffs.uestc.edu.cn/xwtz/zxzx1/xsjl.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online seminar of the Institute of Fundamental and Frontier Sciences&lt;/a&gt;, the University of Electronic Science and Technology of China, December 7th, 2022.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; T. Kemmochi. $L^p$-resolvent estimate for finite element approximation of the Stokes operator.  &lt;a href=&#34;https://www.iffs.uestc.edu.cn/info/1050/5133.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online seminar of the Institute of Fundamental and Frontier Sciences&lt;/a&gt;, the University of Electronic Science and Technology of China, December 7th, 2022.&lt;/li&gt;
 &lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; T. Kemmochi. Higher-order discrete gradient methods by discontinuous Galerkin time-stepping methods. &lt;a href=&#34;https://www.chalmers.se/sv/institutioner/math/forskning/konferenser-pa-MV/Sidor/JSPS22.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSPS seminar: Topics in computational methods for stochastic and deterministic differential equations&lt;/a&gt;, Chalmers University of Technology / University of Gothenburg, Gothenburg, Sweden, October 24th&amp;ndash;25th, 2022. [Talk: Oct. 24th]&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;2020&#34;&gt;2020&lt;/h2&gt;

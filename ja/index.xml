@@ -5,7 +5,7 @@
     <link>https://t-kemmochi.github.io/ja/</link>
       <atom:link href="https://t-kemmochi.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Kemmochi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2022 Tomoya Kemmochi</copyright><lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2023 Tomoya Kemmochi</copyright><lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>T. Kemmochi</title>
@@ -311,42 +311,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
     </item>
     
     <item>
-      <title>Research</title>
-      <link>https://t-kemmochi.github.io/ja/research/</link>
-      <pubDate>Thu, 22 Aug 2019 15:27:52 +0900</pubDate>
-      <guid>https://t-kemmochi.github.io/ja/research/</guid>
-      <description>&lt;h2 id=&#34;研究テーマ&#34;&gt;研究テーマ&lt;/h2&gt;
-&lt;p&gt;私 (剱持) の専門分野は偏微分方程式に対する有限要素法を中心とした数値解析です.
-主に, 楕円型方程式と放物型方程式を対象とし, 「元の偏微分方程式の持つ性質の離散的なアナロジーが成り立つかどうか」という点と,
-「成り立つのならば, それを(非線形)偏微分方程式の数値解に対する誤差評価などの解析に応用できないか」という点に興味を持って研究しています.
-その他, 弾性曲線に対する問題や, 流体に関する問題も扱っています.
-具体的な事例としては以下のテーマが挙げられます.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;楕円型方程式に対する離散最大値原理&lt;/li&gt;
-&lt;li&gt;放物型方程式に対する離散最大正則性&lt;/li&gt;
-&lt;li&gt;放物型半群の解析性の離散的アナロジー&lt;/li&gt;
-&lt;li&gt;離散最大正則性による, 半線形放物型方程式に対する有限要素法の誤差解析&lt;/li&gt;
-&lt;li&gt;勾配流方程式に対する構造保存数値解法&lt;/li&gt;
-&lt;li&gt;特殊な制約条件下での弾性曲線に対する変分問題に対する数値解析&lt;/li&gt;
-&lt;li&gt;hydrostatoc Stokes方程式に対する有限要素法&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;研究活動&#34;&gt;研究活動&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://t-kemmochi.github.io/ja/publications/&#34;&gt;論文&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://t-kemmochi.github.io/ja/talks/&#34;&gt;口頭発表&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;データベース&#34;&gt;データベース&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathSciNet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.zbmath.org/authors/?q=ai:kemmochi.tomoya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zbMATH&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://researchmap.jp/t-kemmochi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Curriculum Vitae</title>
       <link>https://t-kemmochi.github.io/ja/cv/</link>
       <pubDate>Thu, 22 Aug 2019 11:22:51 +0900</pubDate>
@@ -514,6 +478,36 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 &lt;a href=&#34;https://researchmap.jp/t-kemmochi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    
+        &lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi and Tatsuya Miura. &lt;/span&gt;
+    
+    
+        &lt;span class=&#34;title&#34;&gt;Migrating elastic flows. &lt;/span&gt; 
+    
+    
+        &lt;a href=&#34;https://arxiv.org/abs/2303.12516&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2303.12516&lt;/a&gt;
+    
+&lt;/p&gt;
+
+&lt;/li&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    
+        &lt;span class=&#34;author&#34;&gt;Eiji Miyazaki, Tomoya Kemmochi, Tomohiro Sogabe, and Shao-Liang Zhang. &lt;/span&gt;
+    
+    
+        &lt;span class=&#34;title&#34;&gt;A structure-preserving numerical method for the fourth-order geometric evolution equations for planar curves. &lt;/span&gt; 
+    
+    
+        &lt;a href=&#34;https://arxiv.org/abs/2208.12473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2208.12473&lt;/a&gt;
+    
+&lt;/p&gt;
+
+&lt;/li&gt;
 &lt;li&gt;
 
 &lt;p&gt;
@@ -1169,15 +1163,58 @@ RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanab
     </item>
     
     <item>
+      <title>Research</title>
+      <link>https://t-kemmochi.github.io/ja/research/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/research/</guid>
+      <description>&lt;h2 id=&#34;研究テーマ&#34;&gt;研究テーマ&lt;/h2&gt;
+&lt;p&gt;私 (剱持) の専門分野は偏微分方程式に対する有限要素法を中心とした数値解析です.
+主に, 楕円型方程式, 放物型方程式, Stokes方程式を対象とし, 「元の偏微分方程式の持つ性質の離散的なアナロジーが成り立つかどうか」という点と,
+「成り立つのならば, それを (非線形) 偏微分方程式の数値解に対する誤差評価などの解析に応用できないか」という点に興味を持って研究しています.
+その他, 弾性曲線に対する高階の偏微分方程式も扱っています.
+具体的な事例としては以下のテーマが挙げられます.&lt;/p&gt;
+&lt;!-- - 楕円型方程式に対する離散最大値原理 --&gt;
+&lt;ul&gt;
+&lt;li&gt;放物型方程式に対する離散最大正則性&lt;/li&gt;
+&lt;li&gt;放物型半群の解析性の離散的アナロジー&lt;/li&gt;
+&lt;li&gt;離散最大正則性による, 半線形放物型方程式に対する有限要素法の誤差解析&lt;/li&gt;
+&lt;li&gt;Stokes半群の解析性の離散的アナロジー&lt;/li&gt;
+&lt;li&gt;Stokes作用素に対する離散最大正則性&lt;/li&gt;
+&lt;li&gt;勾配流方程式に対する構造保存数値解法&lt;/li&gt;
+&lt;li&gt;特殊な制約条件下での弾性曲線に対する変分問題に対する数値解析&lt;/li&gt;
+&lt;li&gt;hydrostatic Stokes方程式に対する有限要素法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;研究活動&#34;&gt;研究活動&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://t-kemmochi.github.io/ja/publications/&#34;&gt;論文&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://t-kemmochi.github.io/ja/talks/&#34;&gt;口頭発表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;データベース&#34;&gt;データベース&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://orcid.org/0000-0003-4060-6288&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.jp/citations?user=tNnJyuMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ams.org/mathscinet/search/author.html?mrauthid=1179149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathSciNet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zbmath.org/authors/?q=ai:kemmochi.tomoya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zbMATH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://researchmap.jp/t-kemmochi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;researchmap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Talks</title>
       <link>https://t-kemmochi.github.io/ja/talks/</link>
       <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://t-kemmochi.github.io/ja/talks/</guid>
       <description>&lt;div class=&#34;publication&#34;&gt;
+&lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;T. Kemmochi, Y. Miyatake, and K. Sakakibara. TBA. &lt;a href=&#34;https://iciam2023.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIAM 2023&lt;/a&gt;, Waseda University, August 20th&amp;ndash;25th, 2023.&lt;/li&gt;
+&lt;li&gt;剱持智哉. Stokes作用素の有限要素近似に対する離散最大正則性. &lt;a href=&#34;https://jsiam.org/union2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本応用数理学会 第19回 研究部会連合発表会&lt;/a&gt;, 岡山理科大学, 2023年3月8日&amp;ndash;10日. [発表: 3月9日]&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&#34;2022&#34;&gt;2022&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;剱持智哉. Stokes作用素の有限要素近似に対する離散最大正則性. &lt;a href=&#34;https://www.mathsoc.jp/section/appliedmath/CAM/2022/analysis.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2022年度応用数学合同研究集会&lt;/a&gt;, 龍谷大学瀬田キャンパス, 2022年12月15日&amp;ndash;17日.&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; T. Kemmochi. TBA. &lt;a href=&#34;https://www.iffs.uestc.edu.cn/xwtz/zxzx1/xsjl.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;基礎論壇&lt;/a&gt; at the Institute of Fundamental and Frontier Sciences, the University of Electronic Science and Technology of China (online), 2022年12月7日.&lt;/li&gt;
+&lt;li&gt;剱持智哉. Stokes作用素の有限要素近似に対する離散最大正則性. &lt;a href=&#34;https://www.mathsoc.jp/section/appliedmath/CAM/2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2022年度応用数学合同研究集会&lt;/a&gt;, 龍谷大学瀬田キャンパス, 2022年12月15日&amp;ndash;17日. [発表: 12月17日]&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; T. Kemmochi. $L^p$-resolvent estimate for finite element approximation of the Stokes operator. &lt;a href=&#34;https://www.iffs.uestc.edu.cn/info/1050/5133.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;基础论坛 第233期&lt;/a&gt; at the Institute of Fundamental and Frontier Sciences, the University of Electronic Science and Technology of China (online), 2022年12月7日.&lt;/li&gt;
 &lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; T. Kemmochi. Higher-order discrete gradient methods by discontinuous Galerkin time-stepping methods. &lt;a href=&#34;https://www.chalmers.se/sv/institutioner/math/forskning/konferenser-pa-MV/Sidor/JSPS22.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSPS seminar: Topics in computational methods for stochastic and deterministic differential equations&lt;/a&gt;, Chalmers University of Technology / University of Gothenburg, Gothenburg, Sweden, October 24th&amp;ndash;25th, 2022. [Talk: Oct. 24th]&lt;/li&gt;
 &lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; 剱持智哉. Stokes作用素の有限要素近似に対する$L^p$リゾルベント評価. &lt;a href=&#34;http://sudalab.is.s.u-tokyo.ac.jp/~rims2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIMS共同研究 (公開型) 「数値解析が拓く次世代情報社会～エッジから富岳まで～」&lt;/a&gt;, 京都大学数理解析研究所, 2022年10月12日&amp;ndash;10月14日. [発表: 10月14日]&lt;/li&gt;
 &lt;li&gt;剱持智哉. Stokes作用素の有限要素近似に対する$L^p$リゾルベント評価. &lt;a href=&#34;https://www.mathsoc.jp/activity/meeting/hokudai22sept/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本数学会2022年度秋季総合分科会&lt;/a&gt;, 北海道大学, 2022年9月13日&amp;ndash;16日. [発表: 9月15日]&lt;/li&gt;
