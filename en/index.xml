@@ -5,12 +5,26 @@
     <link>https://t-kemmochi.github.io/en/</link>
       <atom:link href="https://t-kemmochi.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Kemmochi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Tomoya Kemmochi</copyright><lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Tomoya Kemmochi</copyright><lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>T. Kemmochi</title>
       <link>https://t-kemmochi.github.io/en/</link>
     </image>
+    
+    <item>
+      <title>2023-04-07</title>
+      <link>https://t-kemmochi.github.io/en/news/2023-04-07/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2023-04-07/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;br&gt;
+Eiji Miyazaki, Tomoya Kemmochi, Tomohiro Sogabe, and Shao-Liang Zhang.&lt;br&gt;
+&lt;strong&gt;A structure-preserving numerical method for the fourth-order geometric evolution equations for planar curves.&lt;/strong&gt;&lt;br&gt;
+Commun. Math. Res., vol. 39, no. 2, pp. 296&amp;ndash;330, 2023.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.4208/cmr.2022-0040&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.4208/cmr.2022-0040&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://global-sci.org/intro/article_detail/cmr/21549.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://arxiv.org/abs/2208.12473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2022-06-18</title>
@@ -335,21 +349,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 
 &lt;p&gt;
     
-        &lt;span class=&#34;author&#34;&gt;Eiji Miyazaki, Tomoya Kemmochi, Tomohiro Sogabe, and Shao-Liang Zhang. &lt;/span&gt;
-    
-    
-        &lt;span class=&#34;title&#34;&gt;A structure-preserving numerical method for the fourth-order geometric evolution equations for planar curves. &lt;/span&gt; 
-    
-    
-        &lt;a href=&#34;https://arxiv.org/abs/2208.12473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2208.12473&lt;/a&gt;
-    
-&lt;/p&gt;
-
-&lt;/li&gt;
-&lt;li&gt;
-
-&lt;p&gt;
-    
         &lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi. &lt;/span&gt;
     
     
@@ -379,6 +378,47 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 &lt;/ol&gt;
 &lt;h2 id=&#34;reviewed-articles&#34;&gt;Reviewed articles&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Eiji Miyazaki, Tomoya Kemmochi, Tomohiro Sogabe, and Shao-Liang Zhang. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;A structure-preserving numerical method for the fourth-order geometric evolution equations for planar curves. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Commun. Math. Res.,&lt;/span&gt; 
+        
+            vol. 39,
+        
+        
+            no. 2,
+        
+        
+            pp. 296--330,
+        
+        2023. 
+    &lt;/span&gt;
+    
+    &lt;span class=&#34;DOI&#34;&gt;
+        DOI: &lt;a href=&#34;https://doi.org/10.4208/cmr.2022-0040&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.4208/cmr.2022-0040&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/p&gt;
+&lt;p&gt;
+    
+        [&lt;a href=&#34;https://global-sci.org/intro/article_detail/cmr/21549.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+    
+    
+    
+    
+        [&lt;a href=&#34;https://arxiv.org/abs/2208.12473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
+    
+&lt;/p&gt;
+
+    &lt;p&gt;
+        
+    &lt;/p&gt;
+
+
+&lt;/li&gt;
 &lt;li&gt;
 
 &lt;p&gt;
