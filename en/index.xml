@@ -5,12 +5,25 @@
     <link>https://t-kemmochi.github.io/en/</link>
       <atom:link href="https://t-kemmochi.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Kemmochi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Tomoya Kemmochi</copyright><lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>T. Kemmochi</title>
       <link>https://t-kemmochi.github.io/en/</link>
     </image>
+    
+    <item>
+      <title>2023-06-15</title>
+      <link>https://t-kemmochi.github.io/en/news/2023-06-15/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2023-06-15/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;br&gt;
+Jing Niu, Tomohiro Sogabe, Lei Du, Tomoya Kemmochi, and Shao-Liang Zhang.&lt;br&gt;
+&lt;strong&gt;Tensor product-type methods for solving Sylvester tensor equations.&lt;/strong&gt;&lt;br&gt;
+Appl. Math. Comput., vol. 457, no. 15, pp. 128155, 2023.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1016/j.amc.2023.128155&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.amc.2023.128155&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0096300323003247&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2023-04-07</title>
@@ -319,13 +332,13 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 
 &lt;p&gt;
     
-        &lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi. &lt;/span&gt;
+        &lt;span class=&#34;author&#34;&gt;Takahito Kashiwabara and Tomoya Kemmochi. &lt;/span&gt;
     
     
-        &lt;span class=&#34;title&#34;&gt;Discrete maximal regularity for the finite element approximation of the Stokes operator and its application. &lt;/span&gt; 
+        &lt;span class=&#34;title&#34;&gt;A sharp discrete maximal regularity for the discontinuous Galerkin time-stepping method. &lt;/span&gt; 
     
     
-        &lt;a href=&#34;https://arxiv.org/abs/2303.16236&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2303.16236&lt;/a&gt;
+        &lt;a href=&#34;https://arxiv.org/abs/2306.11365&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2306.11365&lt;/a&gt;
     
 &lt;/p&gt;
 
@@ -349,21 +362,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 
 &lt;p&gt;
     
-        &lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi. &lt;/span&gt;
-    
-    
-        &lt;span class=&#34;title&#34;&gt;$L^p$-resolvent estimate for finite element approximation of the Stokes operator. &lt;/span&gt; 
-    
-    
-        &lt;a href=&#34;https://arxiv.org/abs/2208.11892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2208.11892&lt;/a&gt;
-    
-&lt;/p&gt;
-
-&lt;/li&gt;
-&lt;li&gt;
-
-&lt;p&gt;
-    
         &lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi, Yuto Miyatake, and Koya Sakakibara. &lt;/span&gt;
     
     
@@ -378,6 +376,45 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 &lt;/ol&gt;
 &lt;h2 id=&#34;reviewed-articles&#34;&gt;Reviewed articles&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Jing Niu, Tomohiro Sogabe, Lei Du, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Tensor product-type methods for solving Sylvester tensor equations. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Appl. Math. Comput.,&lt;/span&gt; 
+        
+            vol. 457,
+        
+        
+            no. 15,
+        
+        
+            pp. 128155,
+        
+        2023. 
+    &lt;/span&gt;
+    
+    &lt;span class=&#34;DOI&#34;&gt;
+        DOI: &lt;a href=&#34;https://doi.org/10.1016/j.amc.2023.128155&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.amc.2023.128155&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/p&gt;
+&lt;p&gt;
+    
+        [&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0096300323003247&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+    
+    
+    
+    
+&lt;/p&gt;
+
+    &lt;p&gt;
+        
+    &lt;/p&gt;
+
+
+&lt;/li&gt;
 &lt;li&gt;
 
 &lt;p&gt;

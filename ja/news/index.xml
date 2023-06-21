@@ -5,12 +5,25 @@
     <link>https://t-kemmochi.github.io/ja/news/</link>
       <atom:link href="https://t-kemmochi.github.io/ja/news/index.xml" rel="self" type="application/rss+xml" />
     <description>過去のお知らせ</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2023 Tomoya Kemmochi</copyright><lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2023 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>過去のお知らせ</title>
       <link>https://t-kemmochi.github.io/ja/news/</link>
     </image>
+    
+    <item>
+      <title>2023-06-15</title>
+      <link>https://t-kemmochi.github.io/ja/news/2023-06-15/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2023-06-15/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+Jing Niu, Tomohiro Sogabe, Lei Du, Tomoya Kemmochi, and Shao-Liang Zhang.&lt;br&gt;
+&lt;strong&gt;Tensor product-type methods for solving Sylvester tensor equations.&lt;/strong&gt;&lt;br&gt;
+Appl. Math. Comput., vol. 457, no. 15, pp. 128155, 2023.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1016/j.amc.2023.128155&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.amc.2023.128155&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0096300323003247&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2023-04-07</title>
