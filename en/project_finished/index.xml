@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finished projects | T. Kemmochi</title>
+    <link>https://t-kemmochi.github.io/en/project_finished/</link>
+      <atom:link href="https://t-kemmochi.github.io/en/project_finished/index.xml" rel="self" type="application/rss+xml" />
+    <description>Finished projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
+      <title>Finished projects</title>
+      <link>https://t-kemmochi.github.io/en/project_finished/</link>
+    </image>
+    
+    <item>
+      <title>Finite element methods for nonlinear partial differential equations on curved domains</title>
+      <link>https://t-kemmochi.github.io/en/project_finished/fem-smooth/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/project_finished/fem-smooth/</guid>
+      <description>&lt;p&gt;JSPS KAKENHI Grant-in-Aid for Early-Career Scientists: 19K14590 (April 2019&amp;ndash;March 2023)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discrete maximal regularity and its application to the finite element and finite volume methods</title>
+      <link>https://t-kemmochi.github.io/en/project_finished/discrete-maximal-regularity/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/project_finished/discrete-maximal-regularity/</guid>
+      <description>&lt;p&gt;JSPS KAKENHI Grant-in-Aid for JSPS Fellows: 15J07471 (April 2015&amp;ndash;March 2017)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

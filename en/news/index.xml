@@ -5,12 +5,47 @@
     <link>https://t-kemmochi.github.io/en/news/</link>
       <atom:link href="https://t-kemmochi.github.io/en/news/index.xml" rel="self" type="application/rss+xml" />
     <description>Past news</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>Past news</title>
       <link>https://t-kemmochi.github.io/en/news/</link>
     </image>
+    
+    <item>
+      <title>2024-03-14</title>
+      <link>https://t-kemmochi.github.io/en/news/2024-03-14/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2024-03-14/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;br&gt;
+Tomoya Kemmochi and Tatsuya Miura.&lt;br&gt;
+&lt;strong&gt;Migrating elastic flows.&lt;/strong&gt;&lt;br&gt;
+J. Math. Pures Appl., vol. 185, pp. 47&amp;ndash;62, 2024.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1016/j.matpur.2024.02.003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.matpur.2024.02.003&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0021782424000230&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2024-03-07</title>
+      <link>https://t-kemmochi.github.io/en/news/2024-03-07/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2024-03-07/</guid>
+      <description>&lt;p&gt;I organized the following workshop (in Japanese):&lt;br&gt;
+&lt;a href=&#34;http://wakate.jsiam.org/?p=158&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第9回学生研究発表会&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-10-30</title>
+      <link>https://t-kemmochi.github.io/en/news/2023-10-30/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2023-10-30/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;br&gt;
+Ren-Jie Zhao, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang.&lt;br&gt;
+&lt;strong&gt;Shifted LOPBiCG: a locally orthogonal product-type method for solving nonsymmetric shifted linear systems based on Bi-CGSTAB.&lt;/strong&gt;&lt;br&gt;
+Numer. Linear Algebra Appl., vol. 31, no. 2, pp. e2538, 2024.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1016/j.amc.2023.128155&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.amc.2023.128155&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/nla.2538&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2023-06-15</title>

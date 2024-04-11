@@ -5,7 +5,7 @@
     <link>https://t-kemmochi.github.io/ja/authors/%E7%A0%94%E7%A9%B6%E4%BB%A3%E8%A1%A8%E8%80%85/</link>
       <atom:link href="https://t-kemmochi.github.io/ja/authors/%E7%A0%94%E7%A9%B6%E4%BB%A3%E8%A1%A8%E8%80%85/index.xml" rel="self" type="application/rss+xml" />
     <description>研究代表者</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2023 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>研究代表者</title>
@@ -14,10 +14,20 @@
     
     <item>
       <title>滑らかな領域における非線形偏微分方程式に対する有限要素法</title>
-      <link>https://t-kemmochi.github.io/ja/project/fem-smooth/</link>
+      <link>https://t-kemmochi.github.io/ja/project_finished/fem-smooth/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://t-kemmochi.github.io/ja/project/fem-smooth/</guid>
-      <description></description>
+      <guid>https://t-kemmochi.github.io/ja/project_finished/fem-smooth/</guid>
+      <description>&lt;p&gt;科研費 若手研究 19K14590 (2019年度～2023年度)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>離散最大正則性とその有限要素法・有限体積法への応用</title>
+      <link>https://t-kemmochi.github.io/ja/project_finished/discrete-maximal-regularity/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/project_finished/discrete-maximal-regularity/</guid>
+      <description>&lt;p&gt;科研費 特別研究員奨励費 15J07471 (2015年度～2017年度)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

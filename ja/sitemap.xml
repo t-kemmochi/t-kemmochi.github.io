@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://t-kemmochi.github.io/ja/news/2023-06-15/</loc>
-    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+    <loc>https://t-kemmochi.github.io/ja/news/2024-03-14/</loc>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-kemmochi.github.io/en/news/2023-06-15/"
+                href="https://t-kemmochi.github.io/en/news/2024-03-14/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://t-kemmochi.github.io/ja/news/2023-06-15/"
+                href="https://t-kemmochi.github.io/ja/news/2024-03-14/"
                 />
   </url><url>
     <loc>https://t-kemmochi.github.io/ja/</loc>
-    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://t-kemmochi.github.io/ja/news/</loc>
-    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +39,45 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://t-kemmochi.github.io/ja/news/"
+                />
+  </url><url>
+    <loc>https://t-kemmochi.github.io/ja/news/2024-03-07/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-kemmochi.github.io/en/news/2024-03-07/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://t-kemmochi.github.io/ja/news/2024-03-07/"
+                />
+  </url><url>
+    <loc>https://t-kemmochi.github.io/ja/news/2023-10-30/</loc>
+    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-kemmochi.github.io/en/news/2023-10-30/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://t-kemmochi.github.io/ja/news/2023-10-30/"
+                />
+  </url><url>
+    <loc>https://t-kemmochi.github.io/ja/news/2023-06-15/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-kemmochi.github.io/en/news/2023-06-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://t-kemmochi.github.io/ja/news/2023-06-15/"
                 />
   </url><url>
     <loc>https://t-kemmochi.github.io/ja/news/2023-04-07/</loc>
@@ -259,7 +298,7 @@
                 />
   </url><url>
     <loc>https://t-kemmochi.github.io/ja/publications/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -285,7 +324,7 @@
                 />
   </url><url>
     <loc>https://t-kemmochi.github.io/ja/talks/</loc>
-    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -323,21 +362,34 @@
                 href="https://t-kemmochi.github.io/ja/news/2019-04-01/"
                 />
   </url><url>
-    <loc>https://t-kemmochi.github.io/ja/project/fem-smooth/</loc>
+    <loc>https://t-kemmochi.github.io/ja/project_finished/fem-smooth/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-kemmochi.github.io/en/project/fem-smooth/"
+                href="https://t-kemmochi.github.io/en/project_finished/fem-smooth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://t-kemmochi.github.io/ja/project/fem-smooth/"
+                href="https://t-kemmochi.github.io/ja/project_finished/fem-smooth/"
                 />
   </url><url>
     <loc>https://t-kemmochi.github.io/ja/authors/%E7%A0%94%E7%A9%B6%E4%BB%A3%E8%A1%A8%E8%80%85/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://t-kemmochi.github.io/ja/project_finished/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-kemmochi.github.io/en/project_finished/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://t-kemmochi.github.io/ja/project_finished/"
+                />
   </url><url>
     <loc>https://t-kemmochi.github.io/ja/news/2018-04-01/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
@@ -511,6 +563,19 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://t-kemmochi.github.io/ja/news/2015-04-01/"
+                />
+  </url><url>
+    <loc>https://t-kemmochi.github.io/ja/project_finished/discrete-maximal-regularity/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-kemmochi.github.io/en/project_finished/discrete-maximal-regularity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://t-kemmochi.github.io/ja/project_finished/discrete-maximal-regularity/"
                 />
   </url><url>
     <loc>https://t-kemmochi.github.io/ja/news/2015-03-24/</loc>

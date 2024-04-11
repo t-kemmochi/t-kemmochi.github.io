@@ -5,7 +5,7 @@
     <link>https://t-kemmochi.github.io/ja/project/</link>
       <atom:link href="https://t-kemmochi.github.io/ja/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2023 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -17,15 +17,8 @@
       <link>https://t-kemmochi.github.io/ja/project/geometric-flow/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://t-kemmochi.github.io/ja/project/geometric-flow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>滑らかな領域における非線形偏微分方程式に対する有限要素法</title>
-      <link>https://t-kemmochi.github.io/ja/project/fem-smooth/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://t-kemmochi.github.io/ja/project/fem-smooth/</guid>
-      <description></description>
+      <description>&lt;p&gt;科研費 基盤研究(B) 21H00990 (2021年度～2026年度)&lt;/p&gt;
+</description>
     </item>
     
   </channel>
