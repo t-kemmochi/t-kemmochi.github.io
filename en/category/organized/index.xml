@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>organized | T. Kemmochi</title>
+    <link>https://t-kemmochi.github.io/en/category/organized/</link>
+      <atom:link href="https://t-kemmochi.github.io/en/category/organized/index.xml" rel="self" type="application/rss+xml" />
+    <description>organized</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
+      <title>organized</title>
+      <link>https://t-kemmochi.github.io/en/category/organized/</link>
+    </image>
+    
+    <item>
+      <title>2024-04-23</title>
+      <link>https://t-kemmochi.github.io/en/news/2024-04-23/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2024-04-23/</guid>
+      <description>&lt;p&gt;Prof. Sogabe and I will organize a RIMS workshop &lt;a href=&#34;https://na.nuap.nagoya-u.ac.jp/~rims2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Development of Numerical Analysis for Computational Science and Engineering&lt;/a&gt; (maybe in Japanese) during October 23rd&amp;ndash;25th, 2024.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
