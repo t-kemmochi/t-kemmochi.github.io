@@ -421,677 +421,444 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 &lt;h2 id=&#34;reviewed-articles&#34;&gt;Reviewed articles&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
+
 &lt;p&gt;
     &lt;span class=&#34;author&#34;&gt;Takahito Kashiwabara and Tomoya Kemmochi. &lt;/span&gt;
     &lt;span class=&#34;title&#34;&gt;Discrete maximal regularity for the discontinuous Galerkin time-stepping method without logarithmic factor. &lt;/span&gt; 
     &lt;span class=&#34;journal&#34;&gt;
-        &lt;span class=&#34;journal_name&#34;&gt;to appear in SIAM Journal on Numerical Analysis,&lt;/span&gt; 
-        
-        
-        
-        . 
+        &lt;span class=&#34;journal_name&#34;&gt;to appear in SIAM Journal on Numerical Analysis,&lt;/span&gt;. 
     &lt;/span&gt;
-    
 &lt;/p&gt;
 &lt;p&gt;
-    
-    
-    
-    
         [&lt;a href=&#34;https://arxiv.org/abs/2306.11365&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
-    
 &lt;/p&gt;
-
     &lt;p&gt;
-        &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Yuki Satake, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;Matrix equation representation of the convolution equation and its unique solvability. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;to appear in Special Matrices,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt; . 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
+    &lt;/p&gt;
+
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Yuki Satake, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Matrix equation representation of the convolution equation and its unique solvability. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;to appear in Special Matrices,&lt;/span&gt;. 
+    &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://arxiv.org/abs/2306.15359&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;arXiv&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://arxiv.org/abs/2306.15359&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi and Tatsuya Miura. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;Migrating elastic flows. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;J. Math. Pures Appl.,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 185,
+    &lt;p&gt;
+    &lt;/p&gt;
 
-
-
-     pp. 47--62,
-
- 2024. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.1016/j.matpur.2024.02.003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.matpur.2024.02.003&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi and Tatsuya Miura. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Migrating elastic flows. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;J. Math. Pures Appl.,&lt;/span&gt;
+            vol. 185,
+            pp. 47--62,2024. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1016/j.matpur.2024.02.003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.matpur.2024.02.003&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://www.sciencedirect.com/science/article/pii/S0021782424000230&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-
-
-
-
-    [&amp;lt;a href=&amp;quot;https://arxiv.org/abs/2303.12516&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;arXiv&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0021782424000230&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+        [&lt;a href=&#34;https://arxiv.org/abs/2303.12516&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Ren-Jie Zhao, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;Shifted LOPBiCG: a locally orthogonal product-type method for solving nonsymmetric shifted linear systems based on Bi-CGSTAB. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;Numer. Linear Algebra Appl.,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 31,
+    &lt;p&gt;
+    &lt;/p&gt;
 
-
-     no. 2,
-
-
-     pp. e2538,
-
- 2024. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.1016/j.amc.2023.128155&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.amc.2023.128155&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Ren-Jie Zhao, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Shifted LOPBiCG: a locally orthogonal product-type method for solving nonsymmetric shifted linear systems based on Bi-CGSTAB. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Numer. Linear Algebra Appl.,&lt;/span&gt;
+            vol. 31,
+            no. 2,
+            pp. e2538,2024. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1016/j.amc.2023.128155&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.amc.2023.128155&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://onlinelibrary.wiley.com/doi/10.1002/nla.2538&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/nla.2538&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Jing Niu, Tomohiro Sogabe, Lei Du, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;Tensor product-type methods for solving Sylvester tensor equations. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;Appl. Math. Comput.,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 457,
+    &lt;p&gt;
+    &lt;/p&gt;
 
-
-     no. 15,
-
-
-     pp. 128155,
-
- 2023. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.1016/j.amc.2023.128155&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.amc.2023.128155&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Jing Niu, Tomohiro Sogabe, Lei Du, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Tensor product-type methods for solving Sylvester tensor equations. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Appl. Math. Comput.,&lt;/span&gt;
+            vol. 457,
+            no. 15,
+            pp. 128155,2023. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1016/j.amc.2023.128155&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.amc.2023.128155&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://www.sciencedirect.com/science/article/pii/S0096300323003247&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0096300323003247&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Eiji Miyazaki, Tomoya Kemmochi, Tomohiro Sogabe, and Shao-Liang Zhang. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;A structure-preserving numerical method for the fourth-order geometric evolution equations for planar curves. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;Commun. Math. Res.,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 39,
+    &lt;p&gt;
+    &lt;/p&gt;
 
-
-     no. 2,
-
-
-     pp. 296--330,
-
- 2023. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.4208/cmr.2022-0040&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.4208/cmr.2022-0040&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Eiji Miyazaki, Tomoya Kemmochi, Tomohiro Sogabe, and Shao-Liang Zhang. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;A structure-preserving numerical method for the fourth-order geometric evolution equations for planar curves. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Commun. Math. Res.,&lt;/span&gt;
+            vol. 39,
+            no. 2,
+            pp. 296--330,2023. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.4208/cmr.2022-0040&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.4208/cmr.2022-0040&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://global-sci.org/intro/article_detail/cmr/21549.html&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-
-
-
-
-    [&amp;lt;a href=&amp;quot;https://arxiv.org/abs/2208.12473&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;arXiv&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://global-sci.org/intro/article_detail/cmr/21549.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+        [&lt;a href=&#34;https://arxiv.org/abs/2208.12473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi and Shun Sato. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;Scalar auxiliary variable approach for conservative/dissipative partial differential equations with unbounded energy functionals. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;BIT,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 62,
+    &lt;p&gt;
+    &lt;/p&gt;
 
-
-     no. 3,
-
-
-     pp. 903--930,
-
- 2022. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.1007/s10543-021-00904-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s10543-021-00904-w&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi and Shun Sato. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Scalar auxiliary variable approach for conservative/dissipative partial differential equations with unbounded energy functionals. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;BIT,&lt;/span&gt;
+            vol. 62,
+            no. 3,
+            pp. 903--930,2022. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1007/s10543-021-00904-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s10543-021-00904-w&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://link.springer.com/article/10.1007%2Fs10543-021-00904-w&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-
-
-
-    [&amp;lt;a href=&amp;quot;https://zbmath.org/?q=an:07569612&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Zbl 07569612&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://arxiv.org/abs/2105.04055&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;arXiv&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs10543-021-00904-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+        [&lt;a href=&#34;https://zbmath.org/?q=an:07569612&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 07569612&lt;/a&gt;]
+        [&lt;a href=&#34;https://arxiv.org/abs/2105.04055&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Fuminori Tatsuoka, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;Computing the matrix fractional power with the double exponential formula. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;Electron. Trans. Numer. Anal.,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 54,
+    &lt;p&gt;
+    &lt;/p&gt;
 
-
-
-     pp. 558--580,
-
- 2021. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.1553/etna_vol54s558&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1553/etna_vol54s558&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Fuminori Tatsuoka, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Computing the matrix fractional power with the double exponential formula. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Electron. Trans. Numer. Anal.,&lt;/span&gt;
+            vol. 54,
+            pp. 558--580,2021. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1553/etna_vol54s558&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1553/etna_vol54s558&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://etna.math.kent.edu/volumes/2021-2030/vol54/abstract.php?vol=54&amp;amp;amp;pages=558-580&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://mathscinet.ams.org/mathscinet-getitem?mr=4310720&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;MR4310720&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://zbmath.org/?q=an:1475.65025&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Zbl 1475.65025&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://arxiv.org/abs/2012.01667&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;arXiv&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://etna.math.kent.edu/volumes/2021-2030/vol54/abstract.php?vol=54&amp;amp;pages=558-580&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+        [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4310720&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4310720&lt;/a&gt;]
+        [&lt;a href=&#34;https://zbmath.org/?q=an:1475.65025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1475.65025&lt;/a&gt;]
+        [&lt;a href=&#34;https://arxiv.org/abs/2012.01667&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Yuki Satake, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;On a transformation of the $*$-congruence Sylvester equation for the least squares optimization. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;Optim. Methods Softw.,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 35,
+    &lt;p&gt;
+    &lt;/p&gt;
 
-
-     no. 5,
-
-
-     pp. 974--981,
-
- 2020. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/10556788.2020.1734004&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Yuki Satake, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;On a transformation of the $*$-congruence Sylvester equation for the least squares optimization. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Optim. Methods Softw.,&lt;/span&gt;
+            vol. 35,
+            no. 5,
+            pp. 974--981,2020. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/10556788.2020.1734004&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://www.tandfonline.com/doi/full/10.1080/10556788.2020.1734004&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://mathscinet.ams.org/mathscinet-getitem?mr=4144128&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;MR4144128&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://zbmath.org/?q=an:1475.15017&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Zbl 1475.15017&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+        [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4144128&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4144128&lt;/a&gt;]
+        [&lt;a href=&#34;https://zbmath.org/?q=an:1475.15017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1475.15017&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Takahito Kashiwabara and Tomoya Kemmochi. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;Stability, analyticity, and maximal regularity for parabolic finite element problems on smooth domains. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;Math. Comp.,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 89,
+    &lt;p&gt;
+    &lt;/p&gt;
 
-
-
-     pp. 1647--1679,
-
- 2020. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.1090/mcom/3500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1090/mcom/3500&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Takahito Kashiwabara and Tomoya Kemmochi. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Stability, analyticity, and maximal regularity for parabolic finite element problems on smooth domains. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Math. Comp.,&lt;/span&gt;
+            vol. 89,
+            pp. 1647--1679,2020. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1090/mcom/3500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1090/mcom/3500&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2020-03500-5/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://mathscinet.ams.org/mathscinet-getitem?mr=4081914&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;MR4081914&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://zbmath.org/?q=an:1436.65139&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Zbl 1436.65139&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://arxiv.org/abs/1805.01336&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;arXiv&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2020-03500-5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+        [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4081914&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4081914&lt;/a&gt;]
+        [&lt;a href=&#34;https://zbmath.org/?q=an:1436.65139&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1436.65139&lt;/a&gt;]
+        [&lt;a href=&#34;https://arxiv.org/abs/1805.01336&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Takahito Kashiwabara and Tomoya Kemmochi. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;Pointwise error estimates of linear finite element method for Neumann boundary value problems in a smooth domain. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;Numer. Math.,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 144,
+    &lt;p&gt;
+    &lt;/p&gt;
 
-
-     no. 3,
-
-
-     pp. 553--584,
-
- 2020. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s00211-019-01098-8&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Takahito Kashiwabara and Tomoya Kemmochi. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Pointwise error estimates of linear finite element method for Neumann boundary value problems in a smooth domain. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Numer. Math.,&lt;/span&gt;
+            vol. 144,
+            no. 3,
+            pp. 553--584,2020. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s00211-019-01098-8&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://link.springer.com/article/10.1007/s00211-019-01098-8&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://mathscinet.ams.org/mathscinet-getitem?mr=4071825&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;MR4071825&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://zbmath.org/?q=an:1437.65195&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Zbl 1437.65195&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://arxiv.org/abs/1804.00390&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;arXiv&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+        [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4071825&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4071825&lt;/a&gt;]
+        [&lt;a href=&#34;https://zbmath.org/?q=an:1437.65195&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1437.65195&lt;/a&gt;]
+        [&lt;a href=&#34;https://arxiv.org/abs/1804.00390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt; Kosuke Nakano, Tomoya Kemmochi, Yuto Miyatake, Tomohiro Sogabe, and Siao-Liang Zhang. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;Modified Strang splitting for semilinear parabolic problems. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;JSIAM Letters,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 11,
+    &lt;p&gt;
+    &lt;/p&gt;
 
-
-
-     pp. 77--80,
-
- 2019. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.14495/jsiaml.11.77&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.14495/jsiaml.11.77&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt; Kosuke Nakano, Tomoya Kemmochi, Yuto Miyatake, Tomohiro Sogabe, and Siao-Liang Zhang. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Modified Strang splitting for semilinear parabolic problems. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;JSIAM Letters,&lt;/span&gt;
+            vol. 11,
+            pp. 77--80,2019. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.14495/jsiaml.11.77&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.14495/jsiaml.11.77&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://www.jstage.jst.go.jp/article/jsiaml/11/0/11_77/_article&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://mathscinet.ams.org/mathscinet-getitem?mr=4047802&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;MR4047802&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://zbmath.org/?q=an:1434.65130&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Zbl 1434.65130&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://www.jstage.jst.go.jp/article/jsiaml/11/0/11_77/_article&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+        [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4047802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4047802&lt;/a&gt;]
+        [&lt;a href=&#34;https://zbmath.org/?q=an:1434.65130&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1434.65130&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;Numerical Analysis of the Allen-Cahn Equation with Coarse Meshes. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;J. Math. Res. Appl.,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 39,
+    &lt;p&gt;
+    &lt;/p&gt;
 
-
-     no. 6,
-
-
-     pp. 709--717,
-
- 2019. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.3770/j.issn:2095-2651.2019.06.014&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Numerical Analysis of the Allen-Cahn Equation with Coarse Meshes. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;J. Math. Res. Appl.,&lt;/span&gt;
+            vol. 39,
+            no. 6,
+            pp. 709--717,2019. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.3770/j.issn:2095-2651.2019.06.014&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;http://jmre.dlut.edu.cn/en/ch/reader/view_abstract.aspx?file_no=20190614&amp;amp;amp;flag=1&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://mathscinet.ams.org/mathscinet-getitem?mr=4165358&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;MR4165358&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://zbmath.org/?q=an:1449.65187&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Zbl 1449.65187&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;http://jmre.dlut.edu.cn/en/ch/reader/view_abstract.aspx?file_no=20190614&amp;amp;flag=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+        [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4165358&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4165358&lt;/a&gt;]
+        [&lt;a href=&#34;https://zbmath.org/?q=an:1449.65187&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1449.65187&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Yuki Satake, Masaya Oozawa, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;Relation between the T-congruence Sylvester equation and the generalized Sylvester equation. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;Appl. Math. Lett.,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 96,
+    &lt;p&gt;
+    &lt;/p&gt;
 
-
-
-     pp. 7--13,
-
- 2019. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2019.04.007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.aml.2019.04.007&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Yuki Satake, Masaya Oozawa, Tomohiro Sogabe, Yuto Miyatake, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Relation between the T-congruence Sylvester equation and the generalized Sylvester equation. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Appl. Math. Lett.,&lt;/span&gt;
+            vol. 96,
+            pp. 7--13,2019. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2019.04.007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.aml.2019.04.007&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://www.sciencedirect.com/science/article/pii/S0893965919301533&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://mathscinet.ams.org/mathscinet-getitem?mr=3943431&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;MR3943431&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://zbmath.org/?q=an:1420.15014&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Zbl 1420.15014&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0893965919301533&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+        [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3943431&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3943431&lt;/a&gt;]
+        [&lt;a href=&#34;https://zbmath.org/?q=an:1420.15014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1420.15014&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;On the finite element approximation for non-stationary saddle-point problems. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;Japan J. Indust. Appl. Math.,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 35,
+    &lt;p&gt;
+    &lt;/p&gt;
 
-
-     no. 2,
-
-
-     pp. 423--439,
-
- 2018. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.1007/s13160-017-0293-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s13160-017-0293-5&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;On the finite element approximation for non-stationary saddle-point problems. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Japan J. Indust. Appl. Math.,&lt;/span&gt;
+            vol. 35,
+            no. 2,
+            pp. 423--439,2018. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1007/s13160-017-0293-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s13160-017-0293-5&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://link.springer.com/article/10.1007/s13160-017-0293-5&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://mathscinet.ams.org/mathscinet-getitem?mr=3816236&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;MR3816236&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://zbmath.org/?q=an:1406.65115&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Zbl 1406.65115&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://arxiv.org/abs/1709.00723&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;arXiv&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://link.springer.com/article/10.1007/s13160-017-0293-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+        [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3816236&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3816236&lt;/a&gt;]
+        [&lt;a href=&#34;https://zbmath.org/?q=an:1406.65115&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1406.65115&lt;/a&gt;]
+        [&lt;a href=&#34;https://arxiv.org/abs/1709.00723&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    [&amp;lt;a href=&amp;quot;http://rdcu.be/EetG&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Read-only link&amp;lt;/a&amp;gt;]
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;Numerical analysis of elastica with obstacle and adhesion effects. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;Appl. Anal.,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 98,
+    &lt;p&gt;[&lt;a href=&#34;http://rdcu.be/EetG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;]
+    &lt;/p&gt;
 
-
-     no. 6,
-
-
-     pp. 1085--1103,
-
- 2019. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.1080/00036811.2017.1416100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/00036811.2017.1416100&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Numerical analysis of elastica with obstacle and adhesion effects. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Appl. Anal.,&lt;/span&gt;
+            vol. 98,
+            no. 6,
+            pp. 1085--1103,2019. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1080/00036811.2017.1416100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/00036811.2017.1416100&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;http://www.tandfonline.com/doi/full/10.1080/00036811.2017.1416100&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://mathscinet.ams.org/mathscinet-getitem?mr=3923026&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;MR3923026&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://zbmath.org/?q=an:1409.74016&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Zbl 1409.74016&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://arxiv.org/abs/1604.03400&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;arXiv&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;http://www.tandfonline.com/doi/full/10.1080/00036811.2017.1416100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+        [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3923026&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3923026&lt;/a&gt;]
+        [&lt;a href=&#34;https://zbmath.org/?q=an:1409.74016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1409.74016&lt;/a&gt;]
+        [&lt;a href=&#34;https://arxiv.org/abs/1604.03400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi and Norikazu Saito. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;Discrete maximal regularity and the finite element method for parabolic equations. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;Numer. Math.,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 138,
+    &lt;p&gt;
+    &lt;/p&gt;
 
-
-     no. 4,
-
-
-     pp. 905--937,
-
- 2018. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-017-0929-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s00211-017-0929-z&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi and Norikazu Saito. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Discrete maximal regularity and the finite element method for parabolic equations. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Numer. Math.,&lt;/span&gt;
+            vol. 138,
+            no. 4,
+            pp. 905--937,2018. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-017-0929-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s00211-017-0929-z&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://link.springer.com/article/10.1007/s00211-017-0929-z&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://mathscinet.ams.org/mathscinet-getitem?mr=3778340&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;MR3778340&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://zbmath.org/?q=an:1448.65164&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Zbl 1448.65164&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://arxiv.org/abs/1602.06864&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;arXiv&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://link.springer.com/article/10.1007/s00211-017-0929-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+        [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3778340&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3778340&lt;/a&gt;]
+        [&lt;a href=&#34;https://zbmath.org/?q=an:1448.65164&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1448.65164&lt;/a&gt;]
+        [&lt;a href=&#34;https://arxiv.org/abs/1602.06864&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    [&amp;lt;a href=&amp;quot;http://rdcu.be/yxsp&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Read-only link&amp;lt;/a&amp;gt;]
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;Energy dissipative numerical schemes for gradient flows of planar curves. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;BIT,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 57,
+    &lt;p&gt;[&lt;a href=&#34;http://rdcu.be/yxsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;]
+    &lt;/p&gt;
 
-
-     no. 4,
-
-
-     pp. 991--1017,
-
- 2017. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.1007/s10543-017-0685-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s10543-017-0685-6&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Energy dissipative numerical schemes for gradient flows of planar curves. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;BIT,&lt;/span&gt;
+            vol. 57,
+            no. 4,
+            pp. 991--1017,2017. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1007/s10543-017-0685-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s10543-017-0685-6&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://link.springer.com/article/10.1007/s10543-017-0685-6&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://mathscinet.ams.org/mathscinet-getitem?mr=3735998&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;MR3735998&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://zbmath.org/?q=an:1380.65036&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Zbl 1380.65036&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://arxiv.org/abs/1610.03014&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;arXiv&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://link.springer.com/article/10.1007/s10543-017-0685-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+        [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3735998&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3735998&lt;/a&gt;]
+        [&lt;a href=&#34;https://zbmath.org/?q=an:1380.65036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1380.65036&lt;/a&gt;]
+        [&lt;a href=&#34;https://arxiv.org/abs/1610.03014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    [&amp;lt;a href=&amp;quot;https://www.youtube.com/playlist?list=PLMF3dSqWEii69loXvCtgDCI4PYijq_4L3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Movies&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;[&lt;a href=&#34;http://rdcu.be/wgXm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;]
-&lt;/p&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi. &lt;/span&gt;
-&lt;span class=&#34;title&#34;&gt;Discrete maximal regularity for abstract Cauchy problems. &lt;/span&gt; 
-&lt;span class=&#34;journal&#34;&gt;
-&lt;span class=&#34;journal_name&#34;&gt;Studia Math.,&lt;/span&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;     vol. 234,
+    &lt;p&gt;[&lt;a href=&#34;https://www.youtube.com/playlist?list=PLMF3dSqWEii69loXvCtgDCI4PYijq_4L3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Movies&lt;/a&gt;]
+[&lt;a href=&#34;http://rdcu.be/wgXm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read-only link&lt;/a&gt;]
+    &lt;/p&gt;
 
-
-     no. 3,
-
-
-     pp. 241--263,
-
- 2016. 
-&lt;/code&gt;&lt;/pre&gt;
- &lt;/span&gt;
- &lt;span class=&#34;DOI&#34;&gt;
-     DOI: &lt;a href=&#34;https://doi.org/10.4064/sm8495-7-2016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.4064/sm8495-7-2016&lt;/a&gt;
- &lt;/span&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Discrete maximal regularity for abstract Cauchy problems. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Studia Math.,&lt;/span&gt;
+            vol. 234,
+            no. 3,
+            pp. 241--263,2016. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.4064/sm8495-7-2016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.4064/sm8495-7-2016&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;pre&gt;&lt;code&gt;    [&amp;lt;a href=&amp;quot;https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/234/3/91729/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Journal&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://mathscinet.ams.org/mathscinet-getitem?mr=3549514&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;MR3549514&amp;lt;/a&amp;gt;]
-
-
-    [&amp;lt;a href=&amp;quot;https://zbmath.org/?q=an:1359.65082&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;Zbl 1359.65082&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
+        [&lt;a href=&#34;https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/234/3/91729/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+        [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3549514&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3549514&lt;/a&gt;]
+        [&lt;a href=&#34;https://zbmath.org/?q=an:1359.65082&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1359.65082&lt;/a&gt;]
 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-    [&amp;lt;a href=&amp;quot;/pdf/dmr_acp_2016.pdf&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;On-line first version&amp;lt;/a&amp;gt;]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;[&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/preprint/pdf/2015-6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;]
-&lt;/p&gt;&lt;/p&gt;
+    &lt;p&gt;[&lt;a href=&#34;https://t-kemmochi.github.io/pdf/dmr_acp_2016.pdf&#34; target=&#34;_blank&#34;&gt;On-line first version&lt;/a&gt;]
+[&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/preprint/pdf/2015-6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;]
+    &lt;/p&gt;
+
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&#34;reviewed-articles-in-japanese&#34;&gt;Reviewed articles in Japanese&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -1142,12 +909,7 @@ RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanab
 &lt;a href=&#34;https://sites.google.com/site/rims2015na/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;現象解明に向けた数値解析学の新展開&lt;/a&gt;, 京都大学数理解析研究所, 2016年.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
-    &lt;/p&gt;
-
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+&lt;/div&gt;</description>
     </item>
     
     <item>
