@@ -391,21 +391,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 
 &lt;p&gt;
     
-        &lt;span class=&#34;author&#34;&gt;Fuminori Tatsuoka, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
-    
-    
-        &lt;span class=&#34;title&#34;&gt;Computing the matrix exponential with the double exponential formula. &lt;/span&gt; 
-    
-    
-        &lt;a href=&#34;https://arxiv.org/abs/2306.14197&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2306.14197&lt;/a&gt;
-    
-&lt;/p&gt;
-
-&lt;/li&gt;
-&lt;li&gt;
-
-&lt;p&gt;
-    
         &lt;span class=&#34;author&#34;&gt;Tomoya Kemmochi, Yuto Miyatake, and Koya Sakakibara. &lt;/span&gt;
     
     
@@ -423,6 +408,20 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 &lt;li&gt;
 
 &lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Fuminori Tatsuoka, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;Computing the matrix exponential with the double exponential formula. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;to appear in Special Matrices,&lt;/span&gt;. 
+    &lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;
+        [&lt;a href=&#34;https://arxiv.org/abs/2306.14197&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
+&lt;/p&gt;
+
+&lt;/li&gt;
+&lt;li&gt;
+
+&lt;p&gt;
     &lt;span class=&#34;author&#34;&gt;Takahito Kashiwabara and Tomoya Kemmochi. &lt;/span&gt;
     &lt;span class=&#34;title&#34;&gt;Discrete maximal regularity for the discontinuous Galerkin time-stepping method without logarithmic factor. &lt;/span&gt; 
     &lt;span class=&#34;journal&#34;&gt;
@@ -432,8 +431,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 &lt;p&gt;
         [&lt;a href=&#34;https://arxiv.org/abs/2306.11365&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
@@ -448,8 +445,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 &lt;p&gt;
         [&lt;a href=&#34;https://arxiv.org/abs/2306.15359&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
@@ -460,7 +455,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
     &lt;span class=&#34;journal&#34;&gt;
         &lt;span class=&#34;journal_name&#34;&gt;J. Math. Pures Appl.,&lt;/span&gt;
             vol. 185,
-            pp. 47--62,2024. 
+            pp. 47--62,
+            2024. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.1016/j.matpur.2024.02.003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.matpur.2024.02.003&lt;/a&gt;
@@ -470,8 +466,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         [&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0021782424000230&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
         [&lt;a href=&#34;https://arxiv.org/abs/2303.12516&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
@@ -483,7 +477,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         &lt;span class=&#34;journal_name&#34;&gt;Numer. Linear Algebra Appl.,&lt;/span&gt;
             vol. 31,
             no. 2,
-            pp. e2538,2024. 
+            pp. e2538,
+            2024. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.1016/j.amc.2023.128155&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.amc.2023.128155&lt;/a&gt;
@@ -492,8 +487,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 &lt;p&gt;
         [&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/nla.2538&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
 &lt;/p&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
@@ -505,7 +498,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         &lt;span class=&#34;journal_name&#34;&gt;Appl. Math. Comput.,&lt;/span&gt;
             vol. 457,
             no. 15,
-            pp. 128155,2023. 
+            pp. 128155,
+            2023. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.1016/j.amc.2023.128155&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.amc.2023.128155&lt;/a&gt;
@@ -514,8 +508,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 &lt;p&gt;
         [&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0096300323003247&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
 &lt;/p&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
@@ -527,7 +519,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         &lt;span class=&#34;journal_name&#34;&gt;Commun. Math. Res.,&lt;/span&gt;
             vol. 39,
             no. 2,
-            pp. 296--330,2023. 
+            pp. 296--330,
+            2023. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.4208/cmr.2022-0040&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.4208/cmr.2022-0040&lt;/a&gt;
@@ -537,8 +530,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         [&lt;a href=&#34;https://global-sci.org/intro/article_detail/cmr/21549.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
         [&lt;a href=&#34;https://arxiv.org/abs/2208.12473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
@@ -550,7 +541,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         &lt;span class=&#34;journal_name&#34;&gt;BIT,&lt;/span&gt;
             vol. 62,
             no. 3,
-            pp. 903--930,2022. 
+            pp. 903--930,
+            2022. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.1007/s10543-021-00904-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s10543-021-00904-w&lt;/a&gt;
@@ -561,8 +553,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         [&lt;a href=&#34;https://zbmath.org/?q=an:07569612&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 07569612&lt;/a&gt;]
         [&lt;a href=&#34;https://arxiv.org/abs/2105.04055&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
@@ -573,7 +563,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
     &lt;span class=&#34;journal&#34;&gt;
         &lt;span class=&#34;journal_name&#34;&gt;Electron. Trans. Numer. Anal.,&lt;/span&gt;
             vol. 54,
-            pp. 558--580,2021. 
+            pp. 558--580,
+            2021. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.1553/etna_vol54s558&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1553/etna_vol54s558&lt;/a&gt;
@@ -585,8 +576,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         [&lt;a href=&#34;https://zbmath.org/?q=an:1475.65025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1475.65025&lt;/a&gt;]
         [&lt;a href=&#34;https://arxiv.org/abs/2012.01667&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
@@ -598,7 +587,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         &lt;span class=&#34;journal_name&#34;&gt;Optim. Methods Softw.,&lt;/span&gt;
             vol. 35,
             no. 5,
-            pp. 974--981,2020. 
+            pp. 974--981,
+            2020. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.1080/10556788.2020.1734004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/10556788.2020.1734004&lt;/a&gt;
@@ -609,8 +599,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4144128&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4144128&lt;/a&gt;]
         [&lt;a href=&#34;https://zbmath.org/?q=an:1475.15017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1475.15017&lt;/a&gt;]
 &lt;/p&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
@@ -621,7 +609,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
     &lt;span class=&#34;journal&#34;&gt;
         &lt;span class=&#34;journal_name&#34;&gt;Math. Comp.,&lt;/span&gt;
             vol. 89,
-            pp. 1647--1679,2020. 
+            pp. 1647--1679,
+            2020. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.1090/mcom/3500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1090/mcom/3500&lt;/a&gt;
@@ -633,8 +622,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         [&lt;a href=&#34;https://zbmath.org/?q=an:1436.65139&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1436.65139&lt;/a&gt;]
         [&lt;a href=&#34;https://arxiv.org/abs/1805.01336&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
@@ -646,7 +633,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         &lt;span class=&#34;journal_name&#34;&gt;Numer. Math.,&lt;/span&gt;
             vol. 144,
             no. 3,
-            pp. 553--584,2020. 
+            pp. 553--584,
+            2020. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-019-01098-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s00211-019-01098-8&lt;/a&gt;
@@ -658,8 +646,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         [&lt;a href=&#34;https://zbmath.org/?q=an:1437.65195&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1437.65195&lt;/a&gt;]
         [&lt;a href=&#34;https://arxiv.org/abs/1804.00390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
@@ -670,7 +656,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
     &lt;span class=&#34;journal&#34;&gt;
         &lt;span class=&#34;journal_name&#34;&gt;JSIAM Letters,&lt;/span&gt;
             vol. 11,
-            pp. 77--80,2019. 
+            pp. 77--80,
+            2019. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.14495/jsiaml.11.77&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.14495/jsiaml.11.77&lt;/a&gt;
@@ -681,8 +668,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4047802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4047802&lt;/a&gt;]
         [&lt;a href=&#34;https://zbmath.org/?q=an:1434.65130&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1434.65130&lt;/a&gt;]
 &lt;/p&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
@@ -694,7 +679,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         &lt;span class=&#34;journal_name&#34;&gt;J. Math. Res. Appl.,&lt;/span&gt;
             vol. 39,
             no. 6,
-            pp. 709--717,2019. 
+            pp. 709--717,
+            2019. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.3770/j.issn:2095-2651.2019.06.014&lt;/a&gt;
@@ -705,8 +691,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=4165358&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR4165358&lt;/a&gt;]
         [&lt;a href=&#34;https://zbmath.org/?q=an:1449.65187&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1449.65187&lt;/a&gt;]
 &lt;/p&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
@@ -717,7 +701,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
     &lt;span class=&#34;journal&#34;&gt;
         &lt;span class=&#34;journal_name&#34;&gt;Appl. Math. Lett.,&lt;/span&gt;
             vol. 96,
-            pp. 7--13,2019. 
+            pp. 7--13,
+            2019. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2019.04.007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.aml.2019.04.007&lt;/a&gt;
@@ -728,8 +713,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         [&lt;a href=&#34;https://mathscinet.ams.org/mathscinet-getitem?mr=3943431&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MR3943431&lt;/a&gt;]
         [&lt;a href=&#34;https://zbmath.org/?q=an:1420.15014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1420.15014&lt;/a&gt;]
 &lt;/p&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
@@ -741,7 +724,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         &lt;span class=&#34;journal_name&#34;&gt;Japan J. Indust. Appl. Math.,&lt;/span&gt;
             vol. 35,
             no. 2,
-            pp. 423--439,2018. 
+            pp. 423--439,
+            2018. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.1007/s13160-017-0293-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s13160-017-0293-5&lt;/a&gt;
@@ -766,7 +750,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         &lt;span class=&#34;journal_name&#34;&gt;Appl. Anal.,&lt;/span&gt;
             vol. 98,
             no. 6,
-            pp. 1085--1103,2019. 
+            pp. 1085--1103,
+            2019. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.1080/00036811.2017.1416100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/00036811.2017.1416100&lt;/a&gt;
@@ -778,8 +763,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         [&lt;a href=&#34;https://zbmath.org/?q=an:1409.74016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zbl 1409.74016&lt;/a&gt;]
         [&lt;a href=&#34;https://arxiv.org/abs/1604.03400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
-    &lt;p&gt;
-    &lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
@@ -791,7 +774,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         &lt;span class=&#34;journal_name&#34;&gt;Numer. Math.,&lt;/span&gt;
             vol. 138,
             no. 4,
-            pp. 905--937,2018. 
+            pp. 905--937,
+            2018. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.1007/s00211-017-0929-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s00211-017-0929-z&lt;/a&gt;
@@ -816,7 +800,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         &lt;span class=&#34;journal_name&#34;&gt;BIT,&lt;/span&gt;
             vol. 57,
             no. 4,
-            pp. 991--1017,2017. 
+            pp. 991--1017,
+            2017. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.1007/s10543-017-0685-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s10543-017-0685-6&lt;/a&gt;
@@ -842,7 +827,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
         &lt;span class=&#34;journal_name&#34;&gt;Studia Math.,&lt;/span&gt;
             vol. 234,
             no. 3,
-            pp. 241--263,2016. 
+            pp. 241--263,
+            2016. 
     &lt;/span&gt;
         &lt;span class=&#34;DOI&#34;&gt;
             DOI: &lt;a href=&#34;https://doi.org/10.4064/sm8495-7-2016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.4064/sm8495-7-2016&lt;/a&gt;
@@ -957,9 +943,13 @@ The details of my research topics are listed as follows.&lt;/p&gt;
       <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://t-kemmochi.github.io/en/talks/</guid>
       <description>&lt;div class=&#34;publication&#34;&gt;
+&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; ○T. Kemmochi and T. Kashiwabara. Discrete maximal regularity for the discontinuous Galerkin time-stepping method without logarithmic factor. Workshop on Numerical Methods and Analysis for PDEs, Harbin Institute of Technology, Shenzhen, China, June 26&amp;ndash;27, 2024. [Talk: June 27]&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;T. Kemmochi, Y. Miyatake, and K. Sakakibara. Structure-preserving numerical methods for constrained gradient flows of planar closed curves with explicit tangential velocities. &lt;a href=&#34;https://iciam2023.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIAM 2023&lt;/a&gt;, Waseda University, August 20th&amp;ndash;25th, 2023.&lt;/li&gt;
+&lt;li&gt;T. Kemmochi, Y. Miyatake, and K. Sakakibara. Structure-preserving numerical methods for constrained gradient flows of planar closed curves with explicit tangential velocities. &lt;a href=&#34;https://iciam2023.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIAM 2023&lt;/a&gt;, Waseda University, August 20th&amp;ndash;25th, 2023. [Talk: August 24th]&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;2022&#34;&gt;2022&lt;/h2&gt;
 &lt;ol&gt;
