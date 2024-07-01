@@ -5,12 +5,20 @@
     <link>https://t-kemmochi.github.io/ja/category/organized/</link>
       <atom:link href="https://t-kemmochi.github.io/ja/category/organized/index.xml" rel="self" type="application/rss+xml" />
     <description>organized</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>organized</title>
       <link>https://t-kemmochi.github.io/ja/category/organized/</link>
     </image>
+    
+    <item>
+      <title>2024-06-26</title>
+      <link>https://t-kemmochi.github.io/ja/news/2024-06-26/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2024-06-26/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://t-kemmochi.github.io/pdf/20240626_shenzhen_program.pdf&#34; target=&#34;_blank&#34;&gt;Workshop on Numerical Methods and Analysis for PDEs&lt;/a&gt; をハルビン工業大学 (深圳) にて開催しました.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2024-04-23</title>
