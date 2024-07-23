@@ -5,12 +5,25 @@
     <link>https://t-kemmochi.github.io/en/</link>
       <atom:link href="https://t-kemmochi.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Kemmochi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>T. Kemmochi</title>
       <link>https://t-kemmochi.github.io/en/</link>
     </image>
+    
+    <item>
+      <title>2024-07-22</title>
+      <link>https://t-kemmochi.github.io/en/news/2024-07-22/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2024-07-22/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;br&gt;
+Takahito Kashiwabara and Tomoya Kemmochi.&lt;br&gt;
+&lt;strong&gt;Discrete maximal regularity for the discontinuous Galerkin time-stepping method without logarithmic factor.&lt;/strong&gt;&lt;br&gt;
+SIAM J. Numer. Anal., vol. 62, no. 4, pp. 1638&amp;ndash;1659, 2024.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1137/23M1580802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1137/23M1580802&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://epubs.siam.org/doi/10.1137/23M1580802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2024-06-26</title>
@@ -433,10 +446,18 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
     &lt;span class=&#34;author&#34;&gt;Takahito Kashiwabara and Tomoya Kemmochi. &lt;/span&gt;
     &lt;span class=&#34;title&#34;&gt;Discrete maximal regularity for the discontinuous Galerkin time-stepping method without logarithmic factor. &lt;/span&gt; 
     &lt;span class=&#34;journal&#34;&gt;
-        &lt;span class=&#34;journal_name&#34;&gt;to appear in SIAM Journal on Numerical Analysis,&lt;/span&gt;. 
+        &lt;span class=&#34;journal_name&#34;&gt;SIAM J. Numer. Anal.,&lt;/span&gt;
+            vol. 62,
+            no. 4,
+            pp. 1638--1659,
+            2024. 
     &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1137/23M1580802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1137/23M1580802&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
+        [&lt;a href=&#34;https://doi.org/10.1137/23M1580802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
         [&lt;a href=&#34;https://arxiv.org/abs/2306.11365&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
 

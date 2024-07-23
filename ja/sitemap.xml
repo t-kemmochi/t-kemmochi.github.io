@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://t-kemmochi.github.io/ja/news/2024-07-22/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-kemmochi.github.io/en/news/2024-07-22/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://t-kemmochi.github.io/ja/news/2024-07-22/"
+                />
+  </url><url>
+    <loc>https://t-kemmochi.github.io/ja/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-kemmochi.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://t-kemmochi.github.io/ja/"
+                />
+  </url><url>
+    <loc>https://t-kemmochi.github.io/ja/news/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-kemmochi.github.io/en/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://t-kemmochi.github.io/ja/news/"
+                />
+  </url><url>
     <loc>https://t-kemmochi.github.io/ja/news/2024-06-26/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -39,32 +78,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://t-kemmochi.github.io/ja/category/organized/"
-                />
-  </url><url>
-    <loc>https://t-kemmochi.github.io/ja/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://t-kemmochi.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://t-kemmochi.github.io/ja/"
-                />
-  </url><url>
-    <loc>https://t-kemmochi.github.io/ja/news/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://t-kemmochi.github.io/en/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://t-kemmochi.github.io/ja/news/"
                 />
   </url><url>
     <loc>https://t-kemmochi.github.io/ja/news/2024-04-23/</loc>
