@@ -5,12 +5,25 @@
     <link>https://t-kemmochi.github.io/en/</link>
       <atom:link href="https://t-kemmochi.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Kemmochi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>T. Kemmochi</title>
       <link>https://t-kemmochi.github.io/en/</link>
     </image>
+    
+    <item>
+      <title>2024-08-30</title>
+      <link>https://t-kemmochi.github.io/en/news/2024-08-30/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2024-08-30/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;br&gt;
+Yuki Satake, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang.&lt;br&gt;
+&lt;strong&gt;Matrix equation representation of the convolution equation and its unique solvability.&lt;/strong&gt;&lt;br&gt;
+Special Matrices, vol. 12, no. 1, 2024.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1515/spma-2024-0001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1515/spma-2024-0001&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.degruyter.com/document/doi/10.1515/spma-2024-0001/html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2024-07-22</title>
@@ -468,10 +481,17 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
     &lt;span class=&#34;author&#34;&gt;Yuki Satake, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
     &lt;span class=&#34;title&#34;&gt;Matrix equation representation of the convolution equation and its unique solvability. &lt;/span&gt; 
     &lt;span class=&#34;journal&#34;&gt;
-        &lt;span class=&#34;journal_name&#34;&gt;to appear in Special Matrices,&lt;/span&gt;. 
+        &lt;span class=&#34;journal_name&#34;&gt;Special Matrices,&lt;/span&gt;
+            vol. 12,
+            no. 1,
+            2024. 
     &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1515/spma-2024-0001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1515/spma-2024-0001&lt;/a&gt;
+        &lt;/span&gt;
 &lt;/p&gt;
 &lt;p&gt;
+        [&lt;a href=&#34;https://www.degruyter.com/document/doi/10.1515/spma-2024-0001/html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
         [&lt;a href=&#34;https://arxiv.org/abs/2306.15359&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]
 &lt;/p&gt;
 
@@ -974,7 +994,15 @@ The details of my research topics are listed as follows.&lt;/p&gt;
       <description>&lt;div class=&#34;publication&#34;&gt;
 &lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; ○T. Kemmochi and T. Kashiwabara. Discrete maximal regularity for the discontinuous Galerkin time-stepping method without logarithmic factor. Workshop on Numerical Methods and Analysis for PDEs, Harbin Institute of Technology, Shenzhen, China, June 26&amp;ndash;27, 2024. [Talk: June 27]&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; T. Kemmochi. Introduction to the discontinuous Galerkin time-stepping method: derivation and implementation. Nagoya International Workshop on Numerical Analysis 2024, Nagoya University, Nagoya, Japan, October 11, 2024.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; ○T. Kemmochi and T. Kashiwabara. Discrete maximal regularity for the discontinuous Galerkin time-stepping method without logarithmic factor. 2024 Dalian International Conference on Mathematics, Dalian University of Technology, Dalian, China, September 24&amp;ndash;27, 2024. [Talk: September 25]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; ○T. Kemmochi and T. Kashiwabara. Discrete maximal regularity for the discontinuous Galerkin time-stepping method without logarithmic factor. Workshop on Numerical Methods and Analysis for PDEs, Harbin Institute of Technology, Shenzhen, China, June 26&amp;ndash;27, 2024. [Talk: June 27]&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;
 &lt;ol&gt;

@@ -5,12 +5,25 @@
     <link>https://t-kemmochi.github.io/ja/news/</link>
       <atom:link href="https://t-kemmochi.github.io/ja/news/index.xml" rel="self" type="application/rss+xml" />
     <description>過去のお知らせ</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>過去のお知らせ</title>
       <link>https://t-kemmochi.github.io/ja/news/</link>
     </image>
+    
+    <item>
+      <title>2024-08-30</title>
+      <link>https://t-kemmochi.github.io/ja/news/2024-08-30/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2024-08-30/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+Yuki Satake, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang.&lt;br&gt;
+&lt;strong&gt;Matrix equation representation of the convolution equation and its unique solvability.&lt;/strong&gt;&lt;br&gt;
+Special Matrices, vol. 12, no. 1, 2024.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1515/spma-2024-0001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1515/spma-2024-0001&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.degruyter.com/document/doi/10.1515/spma-2024-0001/html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2024-07-22</title>
