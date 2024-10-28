@@ -5,7 +5,7 @@
     <link>https://t-kemmochi.github.io/en/category/organized/</link>
       <atom:link href="https://t-kemmochi.github.io/en/category/organized/index.xml" rel="self" type="application/rss+xml" />
     <description>organized</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>organized</title>
@@ -13,19 +13,19 @@
     </image>
     
     <item>
+      <title>2024-10-23</title>
+      <link>https://t-kemmochi.github.io/en/news/2024-10-23/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2024-10-23/</guid>
+      <description>&lt;p&gt;Prof. Sogabe and I organized a RIMS workshop &lt;a href=&#34;https://na.nuap.nagoya-u.ac.jp/~rims2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Development of Numerical Analysis for Computational Science and Engineering&lt;/a&gt; (maybe in Japanese) during October 23rd&amp;ndash;25th, 2024.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>2024-06-26</title>
       <link>https://t-kemmochi.github.io/en/news/2024-06-26/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://t-kemmochi.github.io/en/news/2024-06-26/</guid>
       <description>&lt;p&gt;We organized &lt;a href=&#34;https://t-kemmochi.github.io/pdf/20240626_shenzhen_program.pdf&#34; target=&#34;_blank&#34;&gt;Workshop on Numerical Methods and Analysis for PDEs&lt;/a&gt; at Harbin Institute of Technology, Shenzhen, China.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>2024-04-23</title>
-      <link>https://t-kemmochi.github.io/en/news/2024-04-23/</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://t-kemmochi.github.io/en/news/2024-04-23/</guid>
-      <description>&lt;p&gt;Prof. Sogabe and I will organize a RIMS workshop &lt;a href=&#34;https://na.nuap.nagoya-u.ac.jp/~rims2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Development of Numerical Analysis for Computational Science and Engineering&lt;/a&gt; (maybe in Japanese) during October 23rd&amp;ndash;25th, 2024.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -5,12 +5,34 @@
     <link>https://t-kemmochi.github.io/ja/news/</link>
       <atom:link href="https://t-kemmochi.github.io/ja/news/index.xml" rel="self" type="application/rss+xml" />
     <description>過去のお知らせ</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>過去のお知らせ</title>
       <link>https://t-kemmochi.github.io/ja/news/</link>
     </image>
+    
+    <item>
+      <title>2024-10-26</title>
+      <link>https://t-kemmochi.github.io/ja/news/2024-10-26/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2024-10-26/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+Fuminori Tatsuoka, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang.&lt;br&gt;
+&lt;strong&gt;Computing the matrix exponential with the double exponential formula.&lt;/strong&gt;&lt;br&gt;
+Special Matrices, vol. 12, no. 1, 2024.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1515/spma-2024-0013&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1515/spma-2024-0013&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.degruyter.com/document/doi/10.1515/spma-2024-0013/html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2024-10-23</title>
+      <link>https://t-kemmochi.github.io/ja/news/2024-10-23/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2024-10-23/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://na.nuap.nagoya-u.ac.jp/~rims2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIMS共同研究 (公開型) 計算科学に資する数値解析学の展開&lt;/a&gt; (代表: 曽我部知広) を開催しました.
+期間は2024年10月23日 (水) ～ 25日 (金) です.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2024-08-30</title>
@@ -44,15 +66,6 @@ DOI: &lt;a href=&#34;https://doi.org/10.1137/23M1580802&#34; target=&#34;_blank&
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://t-kemmochi.github.io/ja/news/2024-06-26/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://t-kemmochi.github.io/pdf/20240626_shenzhen_program.pdf&#34; target=&#34;_blank&#34;&gt;Workshop on Numerical Methods and Analysis for PDEs&lt;/a&gt; をハルビン工業大学 (深圳) にて開催しました.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>2024-04-23</title>
-      <link>https://t-kemmochi.github.io/ja/news/2024-04-23/</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://t-kemmochi.github.io/ja/news/2024-04-23/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://na.nuap.nagoya-u.ac.jp/~rims2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIMS共同研究 (公開型) 計算科学に資する数値解析学の展開&lt;/a&gt; (代表: 曽我部知広) を開催します.
-期間は2024年10月23日 (水) ～ 25日 (金) です.&lt;/p&gt;</description>
     </item>
     
     <item>
