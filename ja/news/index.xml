@@ -5,12 +5,34 @@
     <link>https://t-kemmochi.github.io/ja/news/</link>
       <atom:link href="https://t-kemmochi.github.io/ja/news/index.xml" rel="self" type="application/rss+xml" />
     <description>過去のお知らせ</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2024 Tomoya Kemmochi</copyright><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2025 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>過去のお知らせ</title>
       <link>https://t-kemmochi.github.io/ja/news/</link>
     </image>
+    
+    <item>
+      <title>2025-01-09</title>
+      <link>https://t-kemmochi.github.io/ja/news/2025-01-09/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2025-01-09/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://wakate.jsiam.org/?p=193&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第10回学生研究発表会&lt;/a&gt;を開催します.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2024-12-27</title>
+      <link>https://t-kemmochi.github.io/ja/news/2024-12-27/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2024-12-27/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+Tomoya Kemmochi, Yuto Miyatake, and Koya Sakakibara.&lt;br&gt;
+&lt;strong&gt;Structure-preserving numerical methods for constrained gradient flows of planar closed curves with explicit tangential velocities.&lt;/strong&gt;&lt;br&gt;
+Jpn. J. Ind. Appl. Math., 2024.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1007/s13160-024-00684-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/s13160-024-00684-0&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://link.springer.com/article/10.1007/s13160-024-00684-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+[&lt;a href=&#34;https://www.youtube.com/playlist?list=PLMF3dSqWEii4L9WadrECNtPB4wgraxFJo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Movies&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2024-10-26</title>
