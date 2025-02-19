@@ -228,7 +228,7 @@ DOI: &lt;a href=&#34;https://doi.org/10.1080/10556788.2020.1734004&#34; target=&
     </item>
     
     <item>
-      <title>京都メモ</title>
+      <title>京大への生き方メモ</title>
       <link>https://t-kemmochi.github.io/ja/memo/kyoto-note/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://t-kemmochi.github.io/ja/memo/kyoto-note/</guid>
@@ -237,7 +237,7 @@ DOI: &lt;a href=&#34;https://doi.org/10.1080/10556788.2020.1734004&#34; target=&
 &lt;ol&gt;
 &lt;li&gt;「&lt;strong&gt;京大農学部前&lt;/strong&gt;」(理学部)・「&lt;strong&gt;北白川&lt;/strong&gt;」(RIMS) までバスで行き, 数分歩く.&lt;/li&gt;
 &lt;li&gt;「&lt;strong&gt;百万遍&lt;/strong&gt;」までバスで行き, 10分ほど歩く.&lt;/li&gt;
-&lt;li&gt;「出町柳」まで阪急線で行き, そこから20分くらい歩く (つらい).&lt;/li&gt;
+&lt;li&gt;「出町柳」まで京阪線で行き, そこから20分くらい歩く (つらい).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;京大農学部前北白川の場合&#34;&gt;「京大農学部前」・「北白川」の場合&lt;/h2&gt;
 &lt;ul&gt;
@@ -290,7 +290,8 @@ DOI: &lt;a href=&#34;https://doi.org/10.1080/10556788.2020.1734004&#34; target=&
 &lt;/table&gt;
 &lt;h2 id=&#34;更新履歴&#34;&gt;更新履歴&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;[2024/10/3]: 市バス17が7に変更されていたので, 情報を反映. ついでに市バス検索の節を削除.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2024/10/3&lt;/strong&gt;: 市バス17が7に変更されていたので, 情報を反映. ついでに市バス検索の節を削除.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025/2/19&lt;/strong&gt;: 路線名が間違えていたので修正.&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
@@ -1214,8 +1215,20 @@ RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanab
       <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://t-kemmochi.github.io/ja/talks/</guid>
       <description>&lt;div class=&#34;publication&#34;&gt;
+&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; 剱持智哉. 有限要素法の調和解析学的取り扱いの試み. &lt;a href=&#34;http://web.cc.iwate-u.ac.jp/~miyajima/seminar.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第39回 岩手数理科学セミナー&lt;/a&gt;, 岩手大学, 2025年3月18日.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; T. Kemmochi. Structure-preserving numerical methods for gradient flows of planar closed curves. &lt;a href=&#34;https://www.matrix-inst.org.au/events/gradient-flows-in-geometry-and-pde/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gradient Flows in Geometry and PDE&lt;/a&gt;, MATRIX, The University of Melbourne, Creswick, Australia, January 20th&amp;ndash;30th, 2025. [Talk: January 24th]&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; 剱持智哉. １次元の有限要素法をFourier解析学的に取り扱う試み. &lt;a href=&#34;https://sites.google.com/view/numerical-analysis-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2024年度 数値解析研究会&lt;/a&gt;, 北海道大学, 2024年12月7日.&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; T. Kemmochi. An introduction to the discontinuous Galerkin time-stepping method for linear ordinary differential equations. Nagoya International Workshop on Numerical Analysis 2024, Nagoya University, Nagoya, Japan, October 11, 2024.&lt;/p&gt;
 &lt;/li&gt;
@@ -1228,8 +1241,15 @@ RIMS共同研究 (公開型) &lt;a href=&#34;http://ri2t.kyushu-u.ac.jp/~watanab
 &lt;/ol&gt;
 &lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;T. Kemmochi, Y. Miyatake, and K. Sakakibara. Structure-preserving numerical methods for constrained gradient flows of planar closed curves with explicit tangential velocities. &lt;a href=&#34;https://iciam2023.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIAM 2023&lt;/a&gt;, Waseda University, August 20th&amp;ndash;25th, 2023. [Talk: August 24th]&lt;/li&gt;
-&lt;li&gt;剱持智哉. Stokes作用素の有限要素近似に対する離散最大正則性. &lt;a href=&#34;https://jsiam.org/union2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本応用数理学会 第19回 研究部会連合発表会&lt;/a&gt;, 岡山理科大学, 2023年3月8日&amp;ndash;10日. [発表: 3月9日]&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;invited&#34;&gt;Invited&lt;/span&gt; 剱持智哉. 微分方程式に対する不連続Galerkin法による時間離散化法. &lt;a href=&#34;https://www.ap.pse.nagoya-u.ac.jp/ap_danwa_2023.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名古屋大学 応物談話会&lt;/a&gt;, 名古屋大学, 2023年10月24日.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;T. Kemmochi, Y. Miyatake, and K. Sakakibara. Structure-preserving numerical methods for constrained gradient flows of planar closed curves with explicit tangential velocities. &lt;a href=&#34;https://iciam2023.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIAM 2023&lt;/a&gt;, Waseda University, August 20th&amp;ndash;25th, 2023. [Talk: August 24th]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;剱持智哉. Stokes作用素の有限要素近似に対する離散最大正則性. &lt;a href=&#34;https://jsiam.org/union2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本応用数理学会 第19回 研究部会連合発表会&lt;/a&gt;, 岡山理科大学, 2023年3月8日&amp;ndash;10日. [発表: 3月9日]&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;2022&#34;&gt;2022&lt;/h2&gt;
 &lt;ol&gt;
