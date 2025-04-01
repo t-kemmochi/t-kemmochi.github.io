@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://t-kemmochi.github.io/ja/news/2025-01-09/</loc>
-    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <loc>https://t-kemmochi.github.io/ja/news/2025-04-01/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://t-kemmochi.github.io/en/news/2025-01-09/"
+                href="https://t-kemmochi.github.io/en/news/2025-04-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://t-kemmochi.github.io/ja/news/2025-01-09/"
+                href="https://t-kemmochi.github.io/ja/news/2025-04-01/"
                 />
   </url><url>
     <loc>https://t-kemmochi.github.io/ja/</loc>
-    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://t-kemmochi.github.io/ja/news/</loc>
-    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +39,32 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://t-kemmochi.github.io/ja/news/"
+                />
+  </url><url>
+    <loc>https://t-kemmochi.github.io/ja/news/2025-03-27/</loc>
+    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-kemmochi.github.io/en/news/2025-03-27/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://t-kemmochi.github.io/ja/news/2025-03-27/"
+                />
+  </url><url>
+    <loc>https://t-kemmochi.github.io/ja/news/2025-03-08/</loc>
+    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t-kemmochi.github.io/en/news/2025-03-08/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://t-kemmochi.github.io/ja/news/2025-03-08/"
                 />
   </url><url>
     <loc>https://t-kemmochi.github.io/ja/news/2024-12-27/</loc>
@@ -402,7 +428,7 @@
                 />
   </url><url>
     <loc>https://t-kemmochi.github.io/ja/cv/</loc>
-    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

@@ -5,7 +5,7 @@
     <link>https://t-kemmochi.github.io/ja/news/</link>
       <atom:link href="https://t-kemmochi.github.io/ja/news/index.xml" rel="self" type="application/rss+xml" />
     <description>過去のお知らせ</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2025 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2025 Tomoya Kemmochi</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>過去のお知らせ</title>
@@ -13,11 +13,33 @@
     </image>
     
     <item>
-      <title>2025-01-09</title>
-      <link>https://t-kemmochi.github.io/ja/news/2025-01-09/</link>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://t-kemmochi.github.io/ja/news/2025-01-09/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://wakate.jsiam.org/?p=193&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第10回学生研究発表会&lt;/a&gt;を開催します.&lt;/p&gt;</description>
+      <title>2025-04-01</title>
+      <link>https://t-kemmochi.github.io/ja/news/2025-04-01/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2025-04-01/</guid>
+      <description>&lt;p&gt;本日付けで&lt;a href=&#34;http://www.meijo-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名城大学&lt;/a&gt;&lt;a href=&#34;https://www.meijo-u.ac.jp/academics/sci_tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;理工学部&lt;/a&gt;&lt;a href=&#34;https://sites.gmath.meijo-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数学科&lt;/a&gt;に准教授として着任いたしました.&lt;/p&gt;
+&lt;p&gt;引き続き, ご指導ご鞭撻のほど, よろしくお願いいたします.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2025-03-27</title>
+      <link>https://t-kemmochi.github.io/ja/news/2025-03-27/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2025-03-27/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+Fuminori Tatsuoka, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang.&lt;br&gt;
+&lt;strong&gt;A preconditioning technique of Gauss&amp;ndash;Legendre quadrature for the logarithm of symmetric positive definite matrices.&lt;/strong&gt;&lt;br&gt;
+Applied Mathematics Letters, vol. 167, 2025.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2025.109552&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.aml.2025.109552&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0893965925001028&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2025-03-08</title>
+      <link>https://t-kemmochi.github.io/ja/news/2025-03-08/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2025-03-08/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://wakate.jsiam.org/?p=193&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第10回学生研究発表会&lt;/a&gt;を開催しました.&lt;/p&gt;</description>
     </item>
     
     <item>

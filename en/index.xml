@@ -5,7 +5,7 @@
     <link>https://t-kemmochi.github.io/en/</link>
       <atom:link href="https://t-kemmochi.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Kemmochi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Tomoya Kemmochi</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>T. Kemmochi</title>
@@ -13,11 +13,36 @@
     </image>
     
     <item>
-      <title>2025-01-09</title>
-      <link>https://t-kemmochi.github.io/en/news/2025-01-09/</link>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://t-kemmochi.github.io/en/news/2025-01-09/</guid>
-      <description>&lt;p&gt;I will organize the following workshop (in Japanese):&lt;br&gt;
+      <title>2025-04-01</title>
+      <link>https://t-kemmochi.github.io/en/news/2025-04-01/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2025-04-01/</guid>
+      <description>&lt;p&gt;I have been assigned as an Associate Professor in the
+&lt;a href=&#34;https://www.meijo-u.ac.jp/english/academics/sci_tech/mathematics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Mathematics&lt;/a&gt;,
+&lt;a href=&#34;https://www.meijo-u.ac.jp/english/academics/sci_tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Faculty of Science and Technology&lt;/a&gt; at
+&lt;a href=&#34;https://www.meijo-u.ac.jp/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meijo University&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I sincerely appreciate your continued guidance and encouragement.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2025-03-27</title>
+      <link>https://t-kemmochi.github.io/en/news/2025-03-27/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2025-03-27/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;br&gt;
+Fuminori Tatsuoka, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang.&lt;br&gt;
+&lt;strong&gt;A preconditioning technique of Gauss&amp;ndash;Legendre quadrature for the logarithm of symmetric positive definite matrices.&lt;/strong&gt;&lt;br&gt;
+Applied Mathematics Letters, vol. 167, 2025.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2025.109552&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.aml.2025.109552&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0893965925001028&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2025-03-08</title>
+      <link>https://t-kemmochi.github.io/en/news/2025-03-08/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2025-03-08/</guid>
+      <description>&lt;p&gt;I organized the following workshop (in Japanese):&lt;br&gt;
 &lt;a href=&#34;http://wakate.jsiam.org/?p=193&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第10回学生研究発表会&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
@@ -280,23 +305,24 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
       <link>https://t-kemmochi.github.io/en/cv/</link>
       <pubDate>Thu, 22 Aug 2019 11:22:51 +0900</pubDate>
       <guid>https://t-kemmochi.github.io/en/cv/</guid>
-      <description>&lt;h2 id=&#34;present&#34;&gt;Present&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;current&#34;&gt;Current&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Assistant professor at
-&lt;a href=&#34;http://www.ap.pse.nagoya-u.ac.jp/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Applied Physics&lt;/a&gt;,
-&lt;a href=&#34;http://www.engg.nagoya-u.ac.jp/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate School of Engineering&lt;/a&gt;,
-&lt;a href=&#34;http://en.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nagoya University&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Associate professor at
+&lt;a href=&#34;https://www.meijo-u.ac.jp/english/academics/sci_tech/mathematics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Mathematics&lt;/a&gt;,
+&lt;a href=&#34;https://www.meijo-u.ac.jp/english/academics/sci_tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Faculty of Science and Technology&lt;/a&gt;,
+&lt;a href=&#34;https://www.meijo-u.ac.jp/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meijo University&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;memberships&#34;&gt;Memberships&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.mathsoc.jp/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Mathematical Society of Japan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www2.jsiam.org/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Japan Society for Industrial and Applied Mathematics&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;https://jsiam.org/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Japan Society for Industrial and Applied Mathematics&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;Mailing list manager of &lt;a href=&#34;http://scna.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientific Computing and Numerical Analysis&lt;/a&gt; group (March 2019&amp;ndash;)&lt;/li&gt;
 &lt;li&gt;Steering committee of &lt;a href=&#34;http://wakate.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wakate-no-kai&lt;/a&gt; (Group of young members) (July 2019&amp;ndash;March 2023)&lt;/li&gt;
-&lt;li&gt;Organizing committee of &lt;a href=&#34;http://wakate.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wakate-no-kai&lt;/a&gt; (Group of young members) (April 2023&amp;ndash;)&lt;/li&gt;
-&lt;li&gt;Editorial committee of &lt;a href=&#34;https://www2.jsiam.org/bjsiam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ÔYÔ SÛRI&lt;/a&gt; (April 2020&amp;ndash;March 2023)&lt;/li&gt;
-&lt;li&gt;Editorial committee of &lt;a href=&#34;http://jsiaml.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSIAM Letters&lt;/a&gt; (April 2021&amp;ndash;)&lt;/li&gt;
+&lt;li&gt;Organizing committee of Wakate-no-kai (April 2023&amp;ndash;March 2025)&lt;/li&gt;
+&lt;li&gt;Organizer of Wakate-no-kai (April 2025&amp;ndash;)&lt;/li&gt;
+&lt;li&gt;Editorial committee of &lt;a href=&#34;https://jsiam.org/publication/bjsiam/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ÔYÔ SÛRI&lt;/a&gt; (April 2020&amp;ndash;March 2023)&lt;/li&gt;
+&lt;li&gt;Editorial committee of &lt;a href=&#34;https://jsiam.org/publication/jsiam_letters/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSIAM Letters&lt;/a&gt; (April 2021&amp;ndash;)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jsiam.org/membership/directors/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Representative Member&lt;/a&gt; (April 2022&amp;ndash;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -328,8 +354,12 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 &lt;td style=&#34;text-align:left&#34;&gt;Ph.D. in Mathematical Sciences [Supervisor: Prof. &lt;a href=&#34;http://www.infsup.jp/saito/index-e.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Norikazu Saito&lt;/a&gt;]&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;April 2018 &amp;ndash; present&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;April 2018 &amp;ndash; March 2025&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Assistant professor at &lt;a href=&#34;http://www.engg.nagoya-u.ac.jp/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate School of Engineering&lt;/a&gt;, &lt;a href=&#34;http://en.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nagoya University&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;April 2025 &amp;ndash; present&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Associate professor at &lt;a href=&#34;https://www.meijo-u.ac.jp/english/academics/sci_tech/mathematics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Mathematics&lt;/a&gt;, &lt;a href=&#34;https://www.meijo-u.ac.jp/english/academics/sci_tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Faculty of Science and Technology&lt;/a&gt;, &lt;a href=&#34;https://www.meijo-u.ac.jp/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meijo University&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -458,6 +488,26 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 &lt;/ol&gt;
 &lt;h2 id=&#34;reviewed-articles&#34;&gt;Reviewed articles&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Fuminori Tatsuoka, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;A preconditioning technique of Gauss--Legendre quadrature for the logarithm of symmetric positive definite matrices. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Applied Mathematics Letters,&lt;/span&gt;
+            vol. 167,
+            pp. 109552,
+            2025. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2025.109552&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.aml.2025.109552&lt;/a&gt;
+        &lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;
+        [&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0893965925001028&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+&lt;/p&gt;
+
+&lt;/li&gt;
 &lt;li&gt;
 
 &lt;p&gt;

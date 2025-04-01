@@ -5,7 +5,7 @@
     <link>https://t-kemmochi.github.io/ja/</link>
       <atom:link href="https://t-kemmochi.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Kemmochi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2025 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© 2025 Tomoya Kemmochi</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>T. Kemmochi</title>
@@ -13,11 +13,33 @@
     </image>
     
     <item>
-      <title>2025-01-09</title>
-      <link>https://t-kemmochi.github.io/ja/news/2025-01-09/</link>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://t-kemmochi.github.io/ja/news/2025-01-09/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://wakate.jsiam.org/?p=193&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第10回学生研究発表会&lt;/a&gt;を開催します.&lt;/p&gt;</description>
+      <title>2025-04-01</title>
+      <link>https://t-kemmochi.github.io/ja/news/2025-04-01/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2025-04-01/</guid>
+      <description>&lt;p&gt;本日付けで&lt;a href=&#34;http://www.meijo-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名城大学&lt;/a&gt;&lt;a href=&#34;https://www.meijo-u.ac.jp/academics/sci_tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;理工学部&lt;/a&gt;&lt;a href=&#34;https://sites.gmath.meijo-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数学科&lt;/a&gt;に准教授として着任いたしました.&lt;/p&gt;
+&lt;p&gt;引き続き, ご指導ご鞭撻のほど, よろしくお願いいたします.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2025-03-27</title>
+      <link>https://t-kemmochi.github.io/ja/news/2025-03-27/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2025-03-27/</guid>
+      <description>&lt;p&gt;論文が掲載されました:&lt;br&gt;
+Fuminori Tatsuoka, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang.&lt;br&gt;
+&lt;strong&gt;A preconditioning technique of Gauss&amp;ndash;Legendre quadrature for the logarithm of symmetric positive definite matrices.&lt;/strong&gt;&lt;br&gt;
+Applied Mathematics Letters, vol. 167, 2025.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2025.109552&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.aml.2025.109552&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0893965925001028&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2025-03-08</title>
+      <link>https://t-kemmochi.github.io/ja/news/2025-03-08/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/ja/news/2025-03-08/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://wakate.jsiam.org/?p=193&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第10回学生研究発表会&lt;/a&gt;を開催しました.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -453,27 +475,26 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
     <item>
       <title>Curriculum Vitae</title>
       <link>https://t-kemmochi.github.io/ja/cv/</link>
-      <pubDate>Thu, 22 Aug 2019 11:22:51 +0900</pubDate>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://t-kemmochi.github.io/ja/cv/</guid>
       <description>&lt;h2 id=&#34;現在&#34;&gt;現在&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名古屋大学&lt;/a&gt;
-&lt;a href=&#34;http://www.ms.u-tokyo.ac.jp/index-j.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学院工学研究科&lt;/a&gt;
-&lt;a href=&#34;http://www.ap.pse.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;応用物理学専攻&lt;/a&gt;
-量子物理工学講座
-&lt;a href=&#34;http://na.nuap.nagoya-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数理工学研究グループ 張研究室&lt;/a&gt;
-助教&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.meijo-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;名城大学&lt;/a&gt;
+&lt;a href=&#34;https://www.meijo-u.ac.jp/academics/sci_tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;理工学部&lt;/a&gt;
+&lt;a href=&#34;https://sites.gmath.meijo-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数学科&lt;/a&gt;
+准教授&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;所属学会&#34;&gt;所属学会&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.mathsoc.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本数学会&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本応用数理学会&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://scna.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;科学技術計算と数値解析&lt;/a&gt; &lt;a href=&#34;https://www2.jsiam.org/gp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;研究部会&lt;/a&gt; 運営協力者 (2019年5月～)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wakate.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;若手の会&lt;/a&gt; &lt;a href=&#34;https://www2.jsiam.org/gp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;研究部会&lt;/a&gt; 運営委員 (2019年7月～2023年3月)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wakate.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;若手の会&lt;/a&gt; &lt;a href=&#34;https://www2.jsiam.org/gp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;研究部会&lt;/a&gt; 幹事運営委員 (2023年4月～)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www2.jsiam.org/bjsiam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;学会誌「応用数理」&lt;/a&gt; 編集委員 (2020年4月～2023年3月)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jsiaml.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;論文誌 JSIAM Letters&lt;/a&gt; 編集委員 (2021年4月～)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scna.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;科学技術計算と数値解析&lt;/a&gt; &lt;a href=&#34;https://jsiam.org/gp/gp_outline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;研究部会&lt;/a&gt; 運営協力者 (2019年5月～)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wakate.jsiam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;若手の会&lt;/a&gt; 研究部会 運営委員 (2019年7月～2023年3月)&lt;/li&gt;
+&lt;li&gt;若手の会 研究部会 幹事運営委員 (2023年4月～2025年3月)&lt;/li&gt;
+&lt;li&gt;若手の会 研究部会 主査 (2025年4月～)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jsiam.org/publication/bjsiam/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;学会誌「応用数理」&lt;/a&gt; 編集委員 (2020年4月～2023年3月)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jsiam.org/publication/jsiam_letters/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;論文誌 JSIAM Letters&lt;/a&gt; 編集委員 (2021年4月～)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jsiam.org/membership/directors/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;代表会員&lt;/a&gt; (2022年4月～)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -505,8 +526,12 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 &lt;td style=&#34;text-align:left&#34;&gt;博士 (数理科学) [指導教員: 齊藤宣一 教授]&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2018年4月～現在&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2018年4月～2025年3月&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;名古屋大学大学院工学研究科 助教&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2025年4月～&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;名城大学理工学部数学科 准教授&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -635,6 +660,26 @@ DOI: &lt;a href=&#34;https://doi.org/10.3770/j.issn:2095-2651.2019.06.014&#34; t
 &lt;/ol&gt;
 &lt;h2 id=&#34;reviewed-articles&#34;&gt;Reviewed articles&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;
+
+&lt;p&gt;
+    &lt;span class=&#34;author&#34;&gt;Fuminori Tatsuoka, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang. &lt;/span&gt;
+    &lt;span class=&#34;title&#34;&gt;A preconditioning technique of Gauss--Legendre quadrature for the logarithm of symmetric positive definite matrices. &lt;/span&gt; 
+    &lt;span class=&#34;journal&#34;&gt;
+        &lt;span class=&#34;journal_name&#34;&gt;Applied Mathematics Letters,&lt;/span&gt;
+            vol. 167,
+            pp. 109552,
+            2025. 
+    &lt;/span&gt;
+        &lt;span class=&#34;DOI&#34;&gt;
+            DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2025.109552&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.aml.2025.109552&lt;/a&gt;
+        &lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;
+        [&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0893965925001028&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]
+&lt;/p&gt;
+
+&lt;/li&gt;
 &lt;li&gt;
 
 &lt;p&gt;

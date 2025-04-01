@@ -5,7 +5,7 @@
     <link>https://t-kemmochi.github.io/en/news/</link>
       <atom:link href="https://t-kemmochi.github.io/en/news/index.xml" rel="self" type="application/rss+xml" />
     <description>Past news</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Tomoya Kemmochi</copyright><lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Tomoya Kemmochi</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://t-kemmochi.github.io/media/icon_hu12494036fb5f5d946dbfb6d661b4fbf8_26232_512x512_fill_lanczos_center_3.png</url>
       <title>Past news</title>
@@ -13,11 +13,36 @@
     </image>
     
     <item>
-      <title>2025-01-09</title>
-      <link>https://t-kemmochi.github.io/en/news/2025-01-09/</link>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://t-kemmochi.github.io/en/news/2025-01-09/</guid>
-      <description>&lt;p&gt;I will organize the following workshop (in Japanese):&lt;br&gt;
+      <title>2025-04-01</title>
+      <link>https://t-kemmochi.github.io/en/news/2025-04-01/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2025-04-01/</guid>
+      <description>&lt;p&gt;I have been assigned as an Associate Professor in the
+&lt;a href=&#34;https://www.meijo-u.ac.jp/english/academics/sci_tech/mathematics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Mathematics&lt;/a&gt;,
+&lt;a href=&#34;https://www.meijo-u.ac.jp/english/academics/sci_tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Faculty of Science and Technology&lt;/a&gt; at
+&lt;a href=&#34;https://www.meijo-u.ac.jp/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meijo University&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I sincerely appreciate your continued guidance and encouragement.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2025-03-27</title>
+      <link>https://t-kemmochi.github.io/en/news/2025-03-27/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2025-03-27/</guid>
+      <description>&lt;p&gt;The following paper has been published:&lt;br&gt;
+Fuminori Tatsuoka, Tomohiro Sogabe, Tomoya Kemmochi, and Shao-Liang Zhang.&lt;br&gt;
+&lt;strong&gt;A preconditioning technique of Gauss&amp;ndash;Legendre quadrature for the logarithm of symmetric positive definite matrices.&lt;/strong&gt;&lt;br&gt;
+Applied Mathematics Letters, vol. 167, 2025.&lt;br&gt;
+DOI: &lt;a href=&#34;https://doi.org/10.1016/j.aml.2025.109552&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.aml.2025.109552&lt;/a&gt;&lt;br&gt;
+[&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0893965925001028&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2025-03-08</title>
+      <link>https://t-kemmochi.github.io/en/news/2025-03-08/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://t-kemmochi.github.io/en/news/2025-03-08/</guid>
+      <description>&lt;p&gt;I organized the following workshop (in Japanese):&lt;br&gt;
 &lt;a href=&#34;http://wakate.jsiam.org/?p=193&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第10回学生研究発表会&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
